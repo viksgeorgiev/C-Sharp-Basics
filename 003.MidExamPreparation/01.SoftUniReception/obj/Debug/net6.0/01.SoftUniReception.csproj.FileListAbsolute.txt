@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.MidExamPreparation\01.SoftUniReception\bin\Debug\net6.0\01.SoftUniReception.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.MidExamPreparation\01.SoftUniReception\bin\Debug\net6.0\01.SoftUniReception.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.MidExamPreparation\01.SoftUniReception\bin\Debug\net6.0\01.SoftUniReception.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.MidExamPreparation\01.SoftUniReception\bin\Debug\net6.0\01.SoftUniReception.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.MidExamPreparation\01.SoftUniReception\bin\Debug\net6.0\01.SoftUniReception.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.MidExamPreparation\01.SoftUniReception\obj\Debug\net6.0\01.SoftUniReception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.MidExamPreparation\01.SoftUniReception\obj\Debug\net6.0\01.SoftUniReception.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.MidExamPreparation\01.SoftUniReception\obj\Debug\net6.0\01.SoftUniReception.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.MidExamPreparation\01.SoftUniReception\obj\Debug\net6.0\01.SoftUniReception.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.MidExamPreparation\01.SoftUniReception\obj\Debug\net6.0\01.SoftUniReception.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.MidExamPreparation\01.SoftUniReception\obj\Debug\net6.0\refint\01.SoftUniReception.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.MidExamPreparation\01.SoftUniReception\obj\Debug\net6.0\01.SoftUniReception.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.MidExamPreparation\01.SoftUniReception\obj\Debug\net6.0\01.SoftUniReception.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.MidExamPreparation\01.SoftUniReception\obj\Debug\net6.0\ref\01.SoftUniReception.dll

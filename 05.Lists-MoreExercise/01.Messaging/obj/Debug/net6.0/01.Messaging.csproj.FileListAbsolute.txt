@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\01.Messaging\bin\Debug\net6.0\01.Messaging.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\01.Messaging\bin\Debug\net6.0\01.Messaging.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\01.Messaging\bin\Debug\net6.0\01.Messaging.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\01.Messaging\bin\Debug\net6.0\01.Messaging.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\01.Messaging\bin\Debug\net6.0\01.Messaging.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\01.Messaging\obj\Debug\net6.0\01.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\01.Messaging\obj\Debug\net6.0\01.Messaging.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\01.Messaging\obj\Debug\net6.0\01.Messaging.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\01.Messaging\obj\Debug\net6.0\01.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\01.Messaging\obj\Debug\net6.0\01.Messaging.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\01.Messaging\obj\Debug\net6.0\refint\01.Messaging.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\01.Messaging\obj\Debug\net6.0\01.Messaging.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\01.Messaging\obj\Debug\net6.0\01.Messaging.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\01.Messaging\obj\Debug\net6.0\ref\01.Messaging.dll

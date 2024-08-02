@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\08.MidExamPreparation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A484EC9-8CFC-4A2C-BE63-2B00382DBE67}|03.ManOWar\\03.ManOWar.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\08.midexampreparation\\03.manowar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A484EC9-8CFC-4A2C-BE63-2B00382DBE67}|03.ManOWar\\03.ManOWar.csproj|solutionrelative:03.manowar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979A76F7-E4A0-4FE8-A5FA-8588BAE1EA7D}|02.TheLift\\02.TheLift.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\08.midexampreparation\\02.thelift\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979A76F7-E4A0-4FE8-A5FA-8588BAE1EA7D}|02.TheLift\\02.TheLift.csproj|solutionrelative:02.thelift\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA9CD27-C01D-4985-B9AF-732E9A94F17E}|01.ComputerStore\\01.ComputerStore.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\08.midexampreparation\\01.computerstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA9CD27-C01D-4985-B9AF-732E9A94F17E}|01.ComputerStore\\01.ComputerStore.csproj|solutionrelative:01.computerstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\08.MidExamPreparation\\03.ManOWar\\Program.cs",
+              "RelativeDocumentMoniker": "03.ManOWar\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\08.MidExamPreparation\\03.ManOWar\\Program.cs",
+              "RelativeToolTip": "03.ManOWar\\Program.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAswF4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:09:22.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\08.MidExamPreparation\\02.TheLift\\Program.cs",
+              "RelativeDocumentMoniker": "02.TheLift\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\08.MidExamPreparation\\02.TheLift\\Program.cs",
+              "RelativeToolTip": "02.TheLift\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvywAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:24:50.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\08.MidExamPreparation\\01.ComputerStore\\Program.cs",
+              "RelativeDocumentMoniker": "01.ComputerStore\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\08.MidExamPreparation\\01.ComputerStore\\Program.cs",
+              "RelativeToolTip": "01.ComputerStore\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvzIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:56:30.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

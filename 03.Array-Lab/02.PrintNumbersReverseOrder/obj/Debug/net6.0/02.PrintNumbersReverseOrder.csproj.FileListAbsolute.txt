@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Array-Lab\02.PrintNumbersReverseOrder\bin\Debug\net6.0\02.PrintNumbersReverseOrder.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Array-Lab\02.PrintNumbersReverseOrder\bin\Debug\net6.0\02.PrintNumbersReverseOrder.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Array-Lab\02.PrintNumbersReverseOrder\bin\Debug\net6.0\02.PrintNumbersReverseOrder.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Array-Lab\02.PrintNumbersReverseOrder\bin\Debug\net6.0\02.PrintNumbersReverseOrder.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Array-Lab\02.PrintNumbersReverseOrder\bin\Debug\net6.0\02.PrintNumbersReverseOrder.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Array-Lab\02.PrintNumbersReverseOrder\obj\Debug\net6.0\02.PrintNumbersReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Array-Lab\02.PrintNumbersReverseOrder\obj\Debug\net6.0\02.PrintNumbersReverseOrder.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Array-Lab\02.PrintNumbersReverseOrder\obj\Debug\net6.0\02.PrintNumbersReverseOrder.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Array-Lab\02.PrintNumbersReverseOrder\obj\Debug\net6.0\02.PrintNumbersReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Array-Lab\02.PrintNumbersReverseOrder\obj\Debug\net6.0\02.PrintNumbersReverseOrder.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Array-Lab\02.PrintNumbersReverseOrder\obj\Debug\net6.0\refint\02.PrintNumbersReverseOrder.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Array-Lab\02.PrintNumbersReverseOrder\obj\Debug\net6.0\02.PrintNumbersReverseOrder.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Array-Lab\02.PrintNumbersReverseOrder\obj\Debug\net6.0\02.PrintNumbersReverseOrder.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Array-Lab\02.PrintNumbersReverseOrder\obj\Debug\net6.0\ref\02.PrintNumbersReverseOrder.dll

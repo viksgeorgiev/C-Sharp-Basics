@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\A02.AdAstra\bin\Debug\net6.0\A02.AdAstra.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\A02.AdAstra\bin\Debug\net6.0\A02.AdAstra.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\A02.AdAstra\bin\Debug\net6.0\A02.AdAstra.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\A02.AdAstra\bin\Debug\net6.0\A02.AdAstra.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\A02.AdAstra\bin\Debug\net6.0\A02.AdAstra.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\A02.AdAstra\obj\Debug\net6.0\A02.AdAstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\A02.AdAstra\obj\Debug\net6.0\A02.AdAstra.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\A02.AdAstra\obj\Debug\net6.0\A02.AdAstra.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\A02.AdAstra\obj\Debug\net6.0\A02.AdAstra.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\A02.AdAstra\obj\Debug\net6.0\A02.AdAstra.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\A02.AdAstra\obj\Debug\net6.0\refint\A02.AdAstra.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\A02.AdAstra\obj\Debug\net6.0\A02.AdAstra.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\A02.AdAstra\obj\Debug\net6.0\A02.AdAstra.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\A02.AdAstra\obj\Debug\net6.0\ref\A02.AdAstra.dll

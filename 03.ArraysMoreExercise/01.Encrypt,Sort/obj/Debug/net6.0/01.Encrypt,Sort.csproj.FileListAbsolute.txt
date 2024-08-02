@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\01.Encrypt,Sort\bin\Debug\net6.0\01.Encrypt,Sort.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\01.Encrypt,Sort\bin\Debug\net6.0\01.Encrypt,Sort.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\01.Encrypt,Sort\bin\Debug\net6.0\01.Encrypt,Sort.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\01.Encrypt,Sort\bin\Debug\net6.0\01.Encrypt,Sort.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\01.Encrypt,Sort\bin\Debug\net6.0\01.Encrypt,Sort.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\01.Encrypt,Sort\obj\Debug\net6.0\01.Encrypt,Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\01.Encrypt,Sort\obj\Debug\net6.0\01.Encrypt,Sort.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\01.Encrypt,Sort\obj\Debug\net6.0\01.Encrypt,Sort.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\01.Encrypt,Sort\obj\Debug\net6.0\01.Encrypt,Sort.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\01.Encrypt,Sort\obj\Debug\net6.0\01.Encrypt,Sort.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\01.Encrypt,Sort\obj\Debug\net6.0\refint\01.Encrypt,Sort.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\01.Encrypt,Sort\obj\Debug\net6.0\01.Encrypt,Sort.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\01.Encrypt,Sort\obj\Debug\net6.0\01.Encrypt,Sort.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\01.Encrypt,Sort\obj\Debug\net6.0\ref\01.Encrypt,Sort.dll

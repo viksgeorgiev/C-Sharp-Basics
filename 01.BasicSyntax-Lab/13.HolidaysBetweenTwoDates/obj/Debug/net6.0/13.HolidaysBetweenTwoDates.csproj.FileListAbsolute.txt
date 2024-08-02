@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\13.HolidaysBetweenTwoDates\bin\Debug\net6.0\13.HolidaysBetweenTwoDates.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\13.HolidaysBetweenTwoDates\bin\Debug\net6.0\13.HolidaysBetweenTwoDates.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\13.HolidaysBetweenTwoDates\bin\Debug\net6.0\13.HolidaysBetweenTwoDates.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\13.HolidaysBetweenTwoDates\bin\Debug\net6.0\13.HolidaysBetweenTwoDates.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\13.HolidaysBetweenTwoDates\bin\Debug\net6.0\13.HolidaysBetweenTwoDates.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\13.HolidaysBetweenTwoDates\obj\Debug\net6.0\13.HolidaysBetweenTwoDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\13.HolidaysBetweenTwoDates\obj\Debug\net6.0\13.HolidaysBetweenTwoDates.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\13.HolidaysBetweenTwoDates\obj\Debug\net6.0\13.HolidaysBetweenTwoDates.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\13.HolidaysBetweenTwoDates\obj\Debug\net6.0\13.HolidaysBetweenTwoDates.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\13.HolidaysBetweenTwoDates\obj\Debug\net6.0\13.HolidaysBetweenTwoDates.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\13.HolidaysBetweenTwoDates\obj\Debug\net6.0\refint\13.HolidaysBetweenTwoDates.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\13.HolidaysBetweenTwoDates\obj\Debug\net6.0\13.HolidaysBetweenTwoDates.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\13.HolidaysBetweenTwoDates\obj\Debug\net6.0\13.HolidaysBetweenTwoDates.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\13.HolidaysBetweenTwoDates\obj\Debug\net6.0\ref\13.HolidaysBetweenTwoDates.dll

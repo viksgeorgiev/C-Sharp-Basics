@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Lab\01.MatchFullName\bin\Debug\net6.0\01.MatchFullName.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Lab\01.MatchFullName\bin\Debug\net6.0\01.MatchFullName.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Lab\01.MatchFullName\bin\Debug\net6.0\01.MatchFullName.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Lab\01.MatchFullName\bin\Debug\net6.0\01.MatchFullName.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Lab\01.MatchFullName\bin\Debug\net6.0\01.MatchFullName.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Lab\01.MatchFullName\obj\Debug\net6.0\01.MatchFullName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Lab\01.MatchFullName\obj\Debug\net6.0\01.MatchFullName.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Lab\01.MatchFullName\obj\Debug\net6.0\01.MatchFullName.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Lab\01.MatchFullName\obj\Debug\net6.0\01.MatchFullName.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Lab\01.MatchFullName\obj\Debug\net6.0\01.MatchFullName.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Lab\01.MatchFullName\obj\Debug\net6.0\refint\01.MatchFullName.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Lab\01.MatchFullName\obj\Debug\net6.0\01.MatchFullName.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Lab\01.MatchFullName\obj\Debug\net6.0\01.MatchFullName.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Lab\01.MatchFullName\obj\Debug\net6.0\ref\01.MatchFullName.dll

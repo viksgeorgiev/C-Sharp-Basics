@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\06.StrongNumber\bin\Debug\net6.0\06.StrongNumber.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\06.StrongNumber\bin\Debug\net6.0\06.StrongNumber.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\06.StrongNumber\bin\Debug\net6.0\06.StrongNumber.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\06.StrongNumber\bin\Debug\net6.0\06.StrongNumber.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\06.StrongNumber\bin\Debug\net6.0\06.StrongNumber.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\06.StrongNumber\obj\Debug\net6.0\06.StrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\06.StrongNumber\obj\Debug\net6.0\06.StrongNumber.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\06.StrongNumber\obj\Debug\net6.0\06.StrongNumber.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\06.StrongNumber\obj\Debug\net6.0\06.StrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\06.StrongNumber\obj\Debug\net6.0\06.StrongNumber.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\06.StrongNumber\obj\Debug\net6.0\refint\06.StrongNumber.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\06.StrongNumber\obj\Debug\net6.0\06.StrongNumber.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\06.StrongNumber\obj\Debug\net6.0\06.StrongNumber.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\06.StrongNumber\obj\Debug\net6.0\ref\06.StrongNumber.dll

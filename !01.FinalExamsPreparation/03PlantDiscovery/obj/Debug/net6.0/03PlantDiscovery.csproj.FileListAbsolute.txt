@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03PlantDiscovery\bin\Debug\net6.0\03PlantDiscovery.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03PlantDiscovery\bin\Debug\net6.0\03PlantDiscovery.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03PlantDiscovery\bin\Debug\net6.0\03PlantDiscovery.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03PlantDiscovery\bin\Debug\net6.0\03PlantDiscovery.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03PlantDiscovery\bin\Debug\net6.0\03PlantDiscovery.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03PlantDiscovery\obj\Debug\net6.0\03PlantDiscovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03PlantDiscovery\obj\Debug\net6.0\03PlantDiscovery.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03PlantDiscovery\obj\Debug\net6.0\03PlantDiscovery.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03PlantDiscovery\obj\Debug\net6.0\03PlantDiscovery.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03PlantDiscovery\obj\Debug\net6.0\03PlantDiscovery.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03PlantDiscovery\obj\Debug\net6.0\refint\03PlantDiscovery.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03PlantDiscovery\obj\Debug\net6.0\03PlantDiscovery.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03PlantDiscovery\obj\Debug\net6.0\03PlantDiscovery.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03PlantDiscovery\obj\Debug\net6.0\ref\03PlantDiscovery.dll

@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\03.CharactersInRange\bin\Debug\net6.0\03.CharactersInRange.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\03.CharactersInRange\bin\Debug\net6.0\03.CharactersInRange.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\03.CharactersInRange\bin\Debug\net6.0\03.CharactersInRange.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\03.CharactersInRange\bin\Debug\net6.0\03.CharactersInRange.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\03.CharactersInRange\bin\Debug\net6.0\03.CharactersInRange.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\03.CharactersInRange\obj\Debug\net6.0\03.CharactersInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\03.CharactersInRange\obj\Debug\net6.0\03.CharactersInRange.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\03.CharactersInRange\obj\Debug\net6.0\03.CharactersInRange.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\03.CharactersInRange\obj\Debug\net6.0\03.CharactersInRange.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\03.CharactersInRange\obj\Debug\net6.0\03.CharactersInRange.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\03.CharactersInRange\obj\Debug\net6.0\refint\03.CharactersInRange.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\03.CharactersInRange\obj\Debug\net6.0\03.CharactersInRange.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\03.CharactersInRange\obj\Debug\net6.0\03.CharactersInRange.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\03.CharactersInRange\obj\Debug\net6.0\ref\03.CharactersInRange.dll

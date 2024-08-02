@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03NeedForSpeedIII\bin\Debug\net6.0\B03NeedForSpeedIII.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03NeedForSpeedIII\bin\Debug\net6.0\B03NeedForSpeedIII.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03NeedForSpeedIII\bin\Debug\net6.0\B03NeedForSpeedIII.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03NeedForSpeedIII\bin\Debug\net6.0\B03NeedForSpeedIII.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03NeedForSpeedIII\bin\Debug\net6.0\B03NeedForSpeedIII.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03NeedForSpeedIII\obj\Debug\net6.0\B03NeedForSpeedIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03NeedForSpeedIII\obj\Debug\net6.0\B03NeedForSpeedIII.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03NeedForSpeedIII\obj\Debug\net6.0\B03NeedForSpeedIII.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03NeedForSpeedIII\obj\Debug\net6.0\B03NeedForSpeedIII.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03NeedForSpeedIII\obj\Debug\net6.0\B03NeedForSpeedIII.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03NeedForSpeedIII\obj\Debug\net6.0\refint\B03NeedForSpeedIII.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03NeedForSpeedIII\obj\Debug\net6.0\B03NeedForSpeedIII.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03NeedForSpeedIII\obj\Debug\net6.0\B03NeedForSpeedIII.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03NeedForSpeedIII\obj\Debug\net6.0\ref\B03NeedForSpeedIII.dll

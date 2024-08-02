@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\04.Game\bin\Debug\net6.0\04.Game.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\04.Game\bin\Debug\net6.0\04.Game.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\04.Game\bin\Debug\net6.0\04.Game.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\04.Game\bin\Debug\net6.0\04.Game.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\04.Game\bin\Debug\net6.0\04.Game.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\04.Game\obj\Debug\net6.0\04.Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\04.Game\obj\Debug\net6.0\04.Game.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\04.Game\obj\Debug\net6.0\04.Game.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\04.Game\obj\Debug\net6.0\04.Game.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\04.Game\obj\Debug\net6.0\04.Game.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\04.Game\obj\Debug\net6.0\refint\04.Game.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\04.Game\obj\Debug\net6.0\04.Game.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\04.Game\obj\Debug\net6.0\04.Game.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\04.Game\obj\Debug\net6.0\ref\04.Game.dll

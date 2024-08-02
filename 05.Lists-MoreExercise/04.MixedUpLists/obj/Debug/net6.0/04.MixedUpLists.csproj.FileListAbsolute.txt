@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\04.MixedUpLists\bin\Debug\net6.0\04.MixedUpLists.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\04.MixedUpLists\bin\Debug\net6.0\04.MixedUpLists.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\04.MixedUpLists\bin\Debug\net6.0\04.MixedUpLists.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\04.MixedUpLists\bin\Debug\net6.0\04.MixedUpLists.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\04.MixedUpLists\bin\Debug\net6.0\04.MixedUpLists.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\04.MixedUpLists\obj\Debug\net6.0\04.MixedUpLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\04.MixedUpLists\obj\Debug\net6.0\04.MixedUpLists.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\04.MixedUpLists\obj\Debug\net6.0\04.MixedUpLists.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\04.MixedUpLists\obj\Debug\net6.0\04.MixedUpLists.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\04.MixedUpLists\obj\Debug\net6.0\04.MixedUpLists.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\04.MixedUpLists\obj\Debug\net6.0\refint\04.MixedUpLists.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\04.MixedUpLists\obj\Debug\net6.0\04.MixedUpLists.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\04.MixedUpLists\obj\Debug\net6.0\04.MixedUpLists.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\04.MixedUpLists\obj\Debug\net6.0\ref\04.MixedUpLists.dll

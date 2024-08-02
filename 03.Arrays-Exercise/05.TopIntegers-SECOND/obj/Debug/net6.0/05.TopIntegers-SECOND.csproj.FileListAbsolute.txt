@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Arrays-Exercise\05.TopIntegers-SECOND\bin\Debug\net6.0\05.TopIntegers-SECOND.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Arrays-Exercise\05.TopIntegers-SECOND\bin\Debug\net6.0\05.TopIntegers-SECOND.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Arrays-Exercise\05.TopIntegers-SECOND\bin\Debug\net6.0\05.TopIntegers-SECOND.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Arrays-Exercise\05.TopIntegers-SECOND\bin\Debug\net6.0\05.TopIntegers-SECOND.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Arrays-Exercise\05.TopIntegers-SECOND\bin\Debug\net6.0\05.TopIntegers-SECOND.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Arrays-Exercise\05.TopIntegers-SECOND\obj\Debug\net6.0\05.TopIntegers-SECOND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Arrays-Exercise\05.TopIntegers-SECOND\obj\Debug\net6.0\05.TopIntegers-SECOND.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Arrays-Exercise\05.TopIntegers-SECOND\obj\Debug\net6.0\05.TopIntegers-SECOND.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Arrays-Exercise\05.TopIntegers-SECOND\obj\Debug\net6.0\05.TopIntegers-SECOND.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Arrays-Exercise\05.TopIntegers-SECOND\obj\Debug\net6.0\05.TopIntegers-SECOND.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Arrays-Exercise\05.TopIntegers-SECOND\obj\Debug\net6.0\refint\05.TopIntegers-SECOND.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Arrays-Exercise\05.TopIntegers-SECOND\obj\Debug\net6.0\05.TopIntegers-SECOND.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Arrays-Exercise\05.TopIntegers-SECOND\obj\Debug\net6.0\05.TopIntegers-SECOND.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Arrays-Exercise\05.TopIntegers-SECOND\obj\Debug\net6.0\ref\05.TopIntegers-SECOND.dll

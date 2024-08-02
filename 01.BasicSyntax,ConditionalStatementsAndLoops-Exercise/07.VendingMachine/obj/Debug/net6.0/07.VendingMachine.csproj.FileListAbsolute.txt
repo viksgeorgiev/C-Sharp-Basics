@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\07.VendingMachine\bin\Debug\net6.0\07.VendingMachine.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\07.VendingMachine\bin\Debug\net6.0\07.VendingMachine.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\07.VendingMachine\bin\Debug\net6.0\07.VendingMachine.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\07.VendingMachine\bin\Debug\net6.0\07.VendingMachine.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\07.VendingMachine\bin\Debug\net6.0\07.VendingMachine.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\07.VendingMachine\obj\Debug\net6.0\07.VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\07.VendingMachine\obj\Debug\net6.0\07.VendingMachine.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\07.VendingMachine\obj\Debug\net6.0\07.VendingMachine.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\07.VendingMachine\obj\Debug\net6.0\07.VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\07.VendingMachine\obj\Debug\net6.0\07.VendingMachine.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\07.VendingMachine\obj\Debug\net6.0\refint\07.VendingMachine.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\07.VendingMachine\obj\Debug\net6.0\07.VendingMachine.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\07.VendingMachine\obj\Debug\net6.0\07.VendingMachine.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\07.VendingMachine\obj\Debug\net6.0\ref\07.VendingMachine.dll

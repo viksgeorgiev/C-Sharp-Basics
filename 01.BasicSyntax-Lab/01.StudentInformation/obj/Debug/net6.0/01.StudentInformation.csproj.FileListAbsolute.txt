@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\01.StudentInformation\bin\Debug\net6.0\01.StudentInformation.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\01.StudentInformation\bin\Debug\net6.0\01.StudentInformation.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\01.StudentInformation\bin\Debug\net6.0\01.StudentInformation.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\01.StudentInformation\bin\Debug\net6.0\01.StudentInformation.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\01.StudentInformation\bin\Debug\net6.0\01.StudentInformation.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\01.StudentInformation\obj\Debug\net6.0\01.StudentInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\01.StudentInformation\obj\Debug\net6.0\01.StudentInformation.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\01.StudentInformation\obj\Debug\net6.0\01.StudentInformation.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\01.StudentInformation\obj\Debug\net6.0\01.StudentInformation.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\01.StudentInformation\obj\Debug\net6.0\01.StudentInformation.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\01.StudentInformation\obj\Debug\net6.0\refint\01.StudentInformation.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\01.StudentInformation\obj\Debug\net6.0\01.StudentInformation.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\01.StudentInformation\obj\Debug\net6.0\01.StudentInformation.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\01.StudentInformation\obj\Debug\net6.0\ref\01.StudentInformation.dll

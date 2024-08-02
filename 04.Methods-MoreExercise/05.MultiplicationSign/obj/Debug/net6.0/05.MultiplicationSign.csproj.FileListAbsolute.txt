@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\05.MultiplicationSign\bin\Debug\net6.0\05.MultiplicationSign.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\05.MultiplicationSign\bin\Debug\net6.0\05.MultiplicationSign.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\05.MultiplicationSign\bin\Debug\net6.0\05.MultiplicationSign.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\05.MultiplicationSign\bin\Debug\net6.0\05.MultiplicationSign.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\05.MultiplicationSign\bin\Debug\net6.0\05.MultiplicationSign.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\05.MultiplicationSign\obj\Debug\net6.0\05.MultiplicationSign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\05.MultiplicationSign\obj\Debug\net6.0\05.MultiplicationSign.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\05.MultiplicationSign\obj\Debug\net6.0\05.MultiplicationSign.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\05.MultiplicationSign\obj\Debug\net6.0\05.MultiplicationSign.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\05.MultiplicationSign\obj\Debug\net6.0\05.MultiplicationSign.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\05.MultiplicationSign\obj\Debug\net6.0\refint\05.MultiplicationSign.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\05.MultiplicationSign\obj\Debug\net6.0\05.MultiplicationSign.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\05.MultiplicationSign\obj\Debug\net6.0\05.MultiplicationSign.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\05.MultiplicationSign\obj\Debug\net6.0\ref\05.MultiplicationSign.dll

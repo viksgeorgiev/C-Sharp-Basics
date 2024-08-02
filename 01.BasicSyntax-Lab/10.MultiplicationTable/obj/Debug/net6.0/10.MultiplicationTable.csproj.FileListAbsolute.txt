@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\10.MultiplicationTable\bin\Debug\net6.0\10.MultiplicationTable.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\10.MultiplicationTable\bin\Debug\net6.0\10.MultiplicationTable.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\10.MultiplicationTable\bin\Debug\net6.0\10.MultiplicationTable.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\10.MultiplicationTable\bin\Debug\net6.0\10.MultiplicationTable.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\10.MultiplicationTable\bin\Debug\net6.0\10.MultiplicationTable.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\10.MultiplicationTable\obj\Debug\net6.0\refint\10.MultiplicationTable.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\10.MultiplicationTable\obj\Debug\net6.0\ref\10.MultiplicationTable.dll

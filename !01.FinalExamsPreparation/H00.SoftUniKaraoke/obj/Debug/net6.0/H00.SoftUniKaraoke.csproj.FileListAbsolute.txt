@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\H00.SoftUniKaraoke\bin\Debug\net6.0\H00.SoftUniKaraoke.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\H00.SoftUniKaraoke\bin\Debug\net6.0\H00.SoftUniKaraoke.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\H00.SoftUniKaraoke\bin\Debug\net6.0\H00.SoftUniKaraoke.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\H00.SoftUniKaraoke\bin\Debug\net6.0\H00.SoftUniKaraoke.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\H00.SoftUniKaraoke\bin\Debug\net6.0\H00.SoftUniKaraoke.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\H00.SoftUniKaraoke\obj\Debug\net6.0\H00.SoftUniKaraoke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\H00.SoftUniKaraoke\obj\Debug\net6.0\H00.SoftUniKaraoke.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\H00.SoftUniKaraoke\obj\Debug\net6.0\H00.SoftUniKaraoke.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\H00.SoftUniKaraoke\obj\Debug\net6.0\H00.SoftUniKaraoke.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\H00.SoftUniKaraoke\obj\Debug\net6.0\H00.SoftUniKaraoke.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\H00.SoftUniKaraoke\obj\Debug\net6.0\refint\H00.SoftUniKaraoke.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\H00.SoftUniKaraoke\obj\Debug\net6.0\H00.SoftUniKaraoke.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\H00.SoftUniKaraoke\obj\Debug\net6.0\H00.SoftUniKaraoke.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\H00.SoftUniKaraoke\obj\Debug\net6.0\ref\H00.SoftUniKaraoke.dll

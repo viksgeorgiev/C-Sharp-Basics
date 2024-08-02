@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.AssociativeArrays\06.StudentAcademy\bin\Debug\net6.0\06.StudentAcademy.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.AssociativeArrays\06.StudentAcademy\bin\Debug\net6.0\06.StudentAcademy.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.AssociativeArrays\06.StudentAcademy\bin\Debug\net6.0\06.StudentAcademy.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.AssociativeArrays\06.StudentAcademy\bin\Debug\net6.0\06.StudentAcademy.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.AssociativeArrays\06.StudentAcademy\bin\Debug\net6.0\06.StudentAcademy.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.AssociativeArrays\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.AssociativeArrays\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.AssociativeArrays\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.AssociativeArrays\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.AssociativeArrays\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.AssociativeArrays\06.StudentAcademy\obj\Debug\net6.0\refint\06.StudentAcademy.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.AssociativeArrays\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.AssociativeArrays\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.AssociativeArrays\06.StudentAcademy\obj\Debug\net6.0\ref\06.StudentAcademy.dll

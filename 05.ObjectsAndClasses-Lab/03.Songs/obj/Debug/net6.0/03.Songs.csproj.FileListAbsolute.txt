@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\03.Songs\bin\Debug\net6.0\03.Songs.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\03.Songs\bin\Debug\net6.0\03.Songs.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\03.Songs\bin\Debug\net6.0\03.Songs.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\03.Songs\bin\Debug\net6.0\03.Songs.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\03.Songs\bin\Debug\net6.0\03.Songs.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\03.Songs\obj\Debug\net6.0\03.Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\03.Songs\obj\Debug\net6.0\03.Songs.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\03.Songs\obj\Debug\net6.0\03.Songs.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\03.Songs\obj\Debug\net6.0\03.Songs.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\03.Songs\obj\Debug\net6.0\03.Songs.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\03.Songs\obj\Debug\net6.0\refint\03.Songs.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\03.Songs\obj\Debug\net6.0\03.Songs.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\03.Songs\obj\Debug\net6.0\03.Songs.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\03.Songs\obj\Debug\net6.0\ref\03.Songs.dll

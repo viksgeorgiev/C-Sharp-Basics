@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.MidExamPreparation\03.MovingTarget\bin\Debug\net6.0\03.MovingTarget.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.MidExamPreparation\03.MovingTarget\bin\Debug\net6.0\03.MovingTarget.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.MidExamPreparation\03.MovingTarget\bin\Debug\net6.0\03.MovingTarget.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.MidExamPreparation\03.MovingTarget\bin\Debug\net6.0\03.MovingTarget.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.MidExamPreparation\03.MovingTarget\bin\Debug\net6.0\03.MovingTarget.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.MidExamPreparation\03.MovingTarget\obj\Debug\net6.0\03.MovingTarget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.MidExamPreparation\03.MovingTarget\obj\Debug\net6.0\03.MovingTarget.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.MidExamPreparation\03.MovingTarget\obj\Debug\net6.0\03.MovingTarget.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.MidExamPreparation\03.MovingTarget\obj\Debug\net6.0\03.MovingTarget.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.MidExamPreparation\03.MovingTarget\obj\Debug\net6.0\03.MovingTarget.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.MidExamPreparation\03.MovingTarget\obj\Debug\net6.0\refint\03.MovingTarget.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.MidExamPreparation\03.MovingTarget\obj\Debug\net6.0\03.MovingTarget.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.MidExamPreparation\03.MovingTarget\obj\Debug\net6.0\03.MovingTarget.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.MidExamPreparation\03.MovingTarget\obj\Debug\net6.0\ref\03.MovingTarget.dll

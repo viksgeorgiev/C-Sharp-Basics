@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\06.SortThreeNumbers\bin\Debug\net6.0\06.SortThreeNumbers.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\06.SortThreeNumbers\bin\Debug\net6.0\06.SortThreeNumbers.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\06.SortThreeNumbers\bin\Debug\net6.0\06.SortThreeNumbers.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\06.SortThreeNumbers\bin\Debug\net6.0\06.SortThreeNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\06.SortThreeNumbers\bin\Debug\net6.0\06.SortThreeNumbers.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\06.SortThreeNumbers\obj\Debug\net6.0\06.SortThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\06.SortThreeNumbers\obj\Debug\net6.0\06.SortThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\06.SortThreeNumbers\obj\Debug\net6.0\06.SortThreeNumbers.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\06.SortThreeNumbers\obj\Debug\net6.0\06.SortThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\06.SortThreeNumbers\obj\Debug\net6.0\06.SortThreeNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\06.SortThreeNumbers\obj\Debug\net6.0\refint\06.SortThreeNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\06.SortThreeNumbers\obj\Debug\net6.0\06.SortThreeNumbers.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\06.SortThreeNumbers\obj\Debug\net6.0\06.SortThreeNumbers.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\06.SortThreeNumbers\obj\Debug\net6.0\ref\06.SortThreeNumbers.dll

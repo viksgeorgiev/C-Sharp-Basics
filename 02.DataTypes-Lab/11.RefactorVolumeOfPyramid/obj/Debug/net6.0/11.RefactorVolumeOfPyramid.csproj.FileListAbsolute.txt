@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\11.RefactorVolumeOfPyramid\bin\Debug\net6.0\11.RefactorVolumeOfPyramid.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\11.RefactorVolumeOfPyramid\bin\Debug\net6.0\11.RefactorVolumeOfPyramid.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\11.RefactorVolumeOfPyramid\bin\Debug\net6.0\11.RefactorVolumeOfPyramid.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\11.RefactorVolumeOfPyramid\bin\Debug\net6.0\11.RefactorVolumeOfPyramid.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\11.RefactorVolumeOfPyramid\bin\Debug\net6.0\11.RefactorVolumeOfPyramid.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\11.RefactorVolumeOfPyramid\obj\Debug\net6.0\11.RefactorVolumeOfPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\11.RefactorVolumeOfPyramid\obj\Debug\net6.0\11.RefactorVolumeOfPyramid.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\11.RefactorVolumeOfPyramid\obj\Debug\net6.0\11.RefactorVolumeOfPyramid.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\11.RefactorVolumeOfPyramid\obj\Debug\net6.0\11.RefactorVolumeOfPyramid.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\11.RefactorVolumeOfPyramid\obj\Debug\net6.0\11.RefactorVolumeOfPyramid.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\11.RefactorVolumeOfPyramid\obj\Debug\net6.0\refint\11.RefactorVolumeOfPyramid.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\11.RefactorVolumeOfPyramid\obj\Debug\net6.0\11.RefactorVolumeOfPyramid.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\11.RefactorVolumeOfPyramid\obj\Debug\net6.0\11.RefactorVolumeOfPyramid.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\11.RefactorVolumeOfPyramid\obj\Debug\net6.0\ref\11.RefactorVolumeOfPyramid.dll

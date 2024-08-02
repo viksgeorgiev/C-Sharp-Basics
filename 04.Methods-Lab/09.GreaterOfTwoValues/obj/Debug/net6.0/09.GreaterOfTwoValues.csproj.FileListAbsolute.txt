@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\09.GreaterOfTwoValues\bin\Debug\net6.0\09.GreaterOfTwoValues.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\09.GreaterOfTwoValues\bin\Debug\net6.0\09.GreaterOfTwoValues.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\09.GreaterOfTwoValues\bin\Debug\net6.0\09.GreaterOfTwoValues.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\09.GreaterOfTwoValues\bin\Debug\net6.0\09.GreaterOfTwoValues.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\09.GreaterOfTwoValues\bin\Debug\net6.0\09.GreaterOfTwoValues.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\09.GreaterOfTwoValues\obj\Debug\net6.0\09.GreaterOfTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\09.GreaterOfTwoValues\obj\Debug\net6.0\09.GreaterOfTwoValues.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\09.GreaterOfTwoValues\obj\Debug\net6.0\09.GreaterOfTwoValues.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\09.GreaterOfTwoValues\obj\Debug\net6.0\09.GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\09.GreaterOfTwoValues\obj\Debug\net6.0\09.GreaterOfTwoValues.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\09.GreaterOfTwoValues\obj\Debug\net6.0\refint\09.GreaterOfTwoValues.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\09.GreaterOfTwoValues\obj\Debug\net6.0\09.GreaterOfTwoValues.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\09.GreaterOfTwoValues\obj\Debug\net6.0\09.GreaterOfTwoValues.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\09.GreaterOfTwoValues\obj\Debug\net6.0\ref\09.GreaterOfTwoValues.dll

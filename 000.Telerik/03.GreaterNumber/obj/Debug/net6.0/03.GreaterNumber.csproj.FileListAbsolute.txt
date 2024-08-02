@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\03.GreaterNumber\bin\Debug\net6.0\03.GreaterNumber.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\03.GreaterNumber\bin\Debug\net6.0\03.GreaterNumber.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\03.GreaterNumber\bin\Debug\net6.0\03.GreaterNumber.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\03.GreaterNumber\bin\Debug\net6.0\03.GreaterNumber.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\03.GreaterNumber\bin\Debug\net6.0\03.GreaterNumber.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\03.GreaterNumber\obj\Debug\net6.0\03.GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\03.GreaterNumber\obj\Debug\net6.0\03.GreaterNumber.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\03.GreaterNumber\obj\Debug\net6.0\03.GreaterNumber.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\03.GreaterNumber\obj\Debug\net6.0\03.GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\03.GreaterNumber\obj\Debug\net6.0\03.GreaterNumber.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\03.GreaterNumber\obj\Debug\net6.0\refint\03.GreaterNumber.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\03.GreaterNumber\obj\Debug\net6.0\03.GreaterNumber.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\03.GreaterNumber\obj\Debug\net6.0\03.GreaterNumber.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\03.GreaterNumber\obj\Debug\net6.0\ref\03.GreaterNumber.dll

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6639175B-4FD4-48A8-ADCB-B8CC69962A2B}|07.ListManipulationAdvanced\\07.ListManipulationAdvanced.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\05.lists-lab\\07.listmanipulationadvanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6639175B-4FD4-48A8-ADCB-B8CC69962A2B}|07.ListManipulationAdvanced\\07.ListManipulationAdvanced.csproj|solutionrelative:07.listmanipulationadvanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40385C4C-151B-4629-8347-AD2981BDB0AB}|06.ListManipulationBasics\\06.ListManipulationBasics.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\05.lists-lab\\06.listmanipulationbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40385C4C-151B-4629-8347-AD2981BDB0AB}|06.ListManipulationBasics\\06.ListManipulationBasics.csproj|solutionrelative:06.listmanipulationbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E56BF-433D-448B-8F39-A1D22F9D29B0}|05.RemoveNegativesAndReverse\\05.RemoveNegativesAndReverse.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\05.lists-lab\\05.removenegativesandreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8E56BF-433D-448B-8F39-A1D22F9D29B0}|05.RemoveNegativesAndReverse\\05.RemoveNegativesAndReverse.csproj|solutionrelative:05.removenegativesandreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B49707D-D4D6-4DAD-A567-E1AA3AA7EBF4}|04.ListOfProducts\\04.ListOfProducts.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\05.lists-lab\\04.listofproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B49707D-D4D6-4DAD-A567-E1AA3AA7EBF4}|04.ListOfProducts\\04.ListOfProducts.csproj|solutionrelative:04.listofproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B178CC0-5958-4C3E-8328-D2721F174A16}|03.MergingLists\\03.MergingLists.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\05.lists-lab\\03.merginglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B178CC0-5958-4C3E-8328-D2721F174A16}|03.MergingLists\\03.MergingLists.csproj|solutionrelative:03.merginglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCD3921-E873-416E-B139-DF289DBED811}|02.Gauss\u0027Trick\\02.Gauss\u0027Trick.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\05.lists-lab\\02.gauss\u0027trick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCD3921-E873-416E-B139-DF289DBED811}|02.Gauss\u0027Trick\\02.Gauss\u0027Trick.csproj|solutionrelative:02.gauss\u0027trick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BED8A69-0BA0-442D-99F8-406E1D5D1343}|01.SumAdjacentEqualNumbers\\01.SumAdjacentEqualNumbers.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\05.lists-lab\\01.sumadjacentequalnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BED8A69-0BA0-442D-99F8-406E1D5D1343}|01.SumAdjacentEqualNumbers\\01.SumAdjacentEqualNumbers.csproj|solutionrelative:01.sumadjacentequalnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Lab\\07.ListManipulationAdvanced\\Program.cs",
+              "RelativeDocumentMoniker": "07.ListManipulationAdvanced\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Lab\\07.ListManipulationAdvanced\\Program.cs",
+              "RelativeToolTip": "07.ListManipulationAdvanced\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T09:57:41.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Lab\\06.ListManipulationBasics\\Program.cs",
+              "RelativeDocumentMoniker": "06.ListManipulationBasics\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Lab\\06.ListManipulationBasics\\Program.cs",
+              "RelativeToolTip": "06.ListManipulationBasics\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAowDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T09:43:55.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Lab\\05.RemoveNegativesAndReverse\\Program.cs",
+              "RelativeDocumentMoniker": "05.RemoveNegativesAndReverse\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Lab\\05.RemoveNegativesAndReverse\\Program.cs",
+              "RelativeToolTip": "05.RemoveNegativesAndReverse\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T09:31:50.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Lab\\04.ListOfProducts\\Program.cs",
+              "RelativeDocumentMoniker": "04.ListOfProducts\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Lab\\04.ListOfProducts\\Program.cs",
+              "RelativeToolTip": "04.ListOfProducts\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T09:22:59.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Lab\\03.MergingLists\\Program.cs",
+              "RelativeDocumentMoniker": "03.MergingLists\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Lab\\03.MergingLists\\Program.cs",
+              "RelativeToolTip": "03.MergingLists\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwB0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T08:55:14.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Lab\\02.Gauss\u0027Trick\\Program.cs",
+              "RelativeDocumentMoniker": "02.Gauss\u0027Trick\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Lab\\02.Gauss\u0027Trick\\Program.cs",
+              "RelativeToolTip": "02.Gauss\u0027Trick\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T08:37:36.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Lab\\01.SumAdjacentEqualNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01.SumAdjacentEqualNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Lab\\01.SumAdjacentEqualNumbers\\Program.cs",
+              "RelativeToolTip": "01.SumAdjacentEqualNumbers\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T08:04:37.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

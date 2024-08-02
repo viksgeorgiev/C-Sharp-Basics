@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\05.HTML\bin\Debug\net6.0\05.HTML.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\05.HTML\bin\Debug\net6.0\05.HTML.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\05.HTML\bin\Debug\net6.0\05.HTML.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\05.HTML\bin\Debug\net6.0\05.HTML.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\05.HTML\bin\Debug\net6.0\05.HTML.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\05.HTML\obj\Debug\net6.0\05.HTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\05.HTML\obj\Debug\net6.0\05.HTML.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\05.HTML\obj\Debug\net6.0\05.HTML.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\05.HTML\obj\Debug\net6.0\05.HTML.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\05.HTML\obj\Debug\net6.0\05.HTML.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\05.HTML\obj\Debug\net6.0\refint\05.HTML.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\05.HTML\obj\Debug\net6.0\05.HTML.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\05.HTML\obj\Debug\net6.0\05.HTML.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\05.HTML\obj\Debug\net6.0\ref\05.HTML.dll

@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\02.Race\bin\Debug\net6.0\02.Race.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\02.Race\bin\Debug\net6.0\02.Race.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\02.Race\bin\Debug\net6.0\02.Race.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\02.Race\bin\Debug\net6.0\02.Race.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\02.Race\bin\Debug\net6.0\02.Race.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\02.Race\obj\Debug\net6.0\02.Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\02.Race\obj\Debug\net6.0\02.Race.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\02.Race\obj\Debug\net6.0\02.Race.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\02.Race\obj\Debug\net6.0\02.Race.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\02.Race\obj\Debug\net6.0\02.Race.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\02.Race\obj\Debug\net6.0\refint\02.Race.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\02.Race\obj\Debug\net6.0\02.Race.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\02.Race\obj\Debug\net6.0\02.Race.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\02.Race\obj\Debug\net6.0\ref\02.Race.dll

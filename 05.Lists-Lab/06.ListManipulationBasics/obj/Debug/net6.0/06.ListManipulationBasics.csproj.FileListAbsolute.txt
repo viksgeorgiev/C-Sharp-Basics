@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\06.ListManipulationBasics\bin\Debug\net6.0\06.ListManipulationBasics.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\06.ListManipulationBasics\bin\Debug\net6.0\06.ListManipulationBasics.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\06.ListManipulationBasics\bin\Debug\net6.0\06.ListManipulationBasics.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\06.ListManipulationBasics\bin\Debug\net6.0\06.ListManipulationBasics.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\06.ListManipulationBasics\bin\Debug\net6.0\06.ListManipulationBasics.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\06.ListManipulationBasics\obj\Debug\net6.0\06.ListManipulationBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\06.ListManipulationBasics\obj\Debug\net6.0\06.ListManipulationBasics.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\06.ListManipulationBasics\obj\Debug\net6.0\06.ListManipulationBasics.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\06.ListManipulationBasics\obj\Debug\net6.0\06.ListManipulationBasics.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\06.ListManipulationBasics\obj\Debug\net6.0\06.ListManipulationBasics.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\06.ListManipulationBasics\obj\Debug\net6.0\refint\06.ListManipulationBasics.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\06.ListManipulationBasics\obj\Debug\net6.0\06.ListManipulationBasics.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\06.ListManipulationBasics\obj\Debug\net6.0\06.ListManipulationBasics.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\06.ListManipulationBasics\obj\Debug\net6.0\ref\06.ListManipulationBasics.dll

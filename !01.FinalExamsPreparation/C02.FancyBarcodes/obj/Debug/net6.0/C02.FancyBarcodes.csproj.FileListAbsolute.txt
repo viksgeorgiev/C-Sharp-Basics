@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\C02.FancyBarcodes\bin\Debug\net6.0\C02.FancyBarcodes.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\C02.FancyBarcodes\bin\Debug\net6.0\C02.FancyBarcodes.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\C02.FancyBarcodes\bin\Debug\net6.0\C02.FancyBarcodes.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\C02.FancyBarcodes\bin\Debug\net6.0\C02.FancyBarcodes.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\C02.FancyBarcodes\bin\Debug\net6.0\C02.FancyBarcodes.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\C02.FancyBarcodes\obj\Debug\net6.0\C02.FancyBarcodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\C02.FancyBarcodes\obj\Debug\net6.0\C02.FancyBarcodes.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\C02.FancyBarcodes\obj\Debug\net6.0\C02.FancyBarcodes.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\C02.FancyBarcodes\obj\Debug\net6.0\C02.FancyBarcodes.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\C02.FancyBarcodes\obj\Debug\net6.0\C02.FancyBarcodes.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\C02.FancyBarcodes\obj\Debug\net6.0\refint\C02.FancyBarcodes.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\C02.FancyBarcodes\obj\Debug\net6.0\C02.FancyBarcodes.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\C02.FancyBarcodes\obj\Debug\net6.0\C02.FancyBarcodes.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\C02.FancyBarcodes\obj\Debug\net6.0\ref\C02.FancyBarcodes.dll

@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\06.ThreeGroups\bin\Debug\net6.0\06.ThreeGroups.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\06.ThreeGroups\bin\Debug\net6.0\06.ThreeGroups.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\06.ThreeGroups\bin\Debug\net6.0\06.ThreeGroups.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\06.ThreeGroups\bin\Debug\net6.0\06.ThreeGroups.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\06.ThreeGroups\bin\Debug\net6.0\06.ThreeGroups.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\06.ThreeGroups\obj\Debug\net6.0\06.ThreeGroups.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\06.ThreeGroups\obj\Debug\net6.0\06.ThreeGroups.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\06.ThreeGroups\obj\Debug\net6.0\06.ThreeGroups.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\06.ThreeGroups\obj\Debug\net6.0\06.ThreeGroups.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\06.ThreeGroups\obj\Debug\net6.0\06.ThreeGroups.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\06.ThreeGroups\obj\Debug\net6.0\refint\06.ThreeGroups.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\06.ThreeGroups\obj\Debug\net6.0\06.ThreeGroups.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\06.ThreeGroups\obj\Debug\net6.0\06.ThreeGroups.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\06.ThreeGroups\obj\Debug\net6.0\ref\06.ThreeGroups.dll

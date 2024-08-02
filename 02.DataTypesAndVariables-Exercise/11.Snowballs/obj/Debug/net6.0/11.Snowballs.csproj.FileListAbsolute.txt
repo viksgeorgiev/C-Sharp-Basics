@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\11.Snowballs\bin\Debug\net6.0\11.Snowballs.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\11.Snowballs\bin\Debug\net6.0\11.Snowballs.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\11.Snowballs\bin\Debug\net6.0\11.Snowballs.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\11.Snowballs\bin\Debug\net6.0\11.Snowballs.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\11.Snowballs\bin\Debug\net6.0\11.Snowballs.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\net6.0\11.Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\net6.0\11.Snowballs.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\net6.0\11.Snowballs.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\net6.0\11.Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\net6.0\11.Snowballs.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\net6.0\refint\11.Snowballs.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\net6.0\11.Snowballs.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\net6.0\11.Snowballs.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\net6.0\ref\11.Snowballs.dll

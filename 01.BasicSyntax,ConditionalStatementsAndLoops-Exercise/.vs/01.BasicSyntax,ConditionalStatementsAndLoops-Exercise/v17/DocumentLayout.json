@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E937D9C-A6B3-41A5-A280-7A03C2C319C0}|11.Orders\\11.Orders.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.basicsyntax,conditionalstatementsandloops-exercise\\11.orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E937D9C-A6B3-41A5-A280-7A03C2C319C0}|11.Orders\\11.Orders.csproj|solutionrelative:11.orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C47E4C8-B72F-4332-8DF1-81B8979C5A6C}|10.RageExpenses\\10.RageExpenses.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.basicsyntax,conditionalstatementsandloops-exercise\\10.rageexpenses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C47E4C8-B72F-4332-8DF1-81B8979C5A6C}|10.RageExpenses\\10.RageExpenses.csproj|solutionrelative:10.rageexpenses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B0FE8B-19A4-451F-BCDA-B21BEAFDD48B}|09.Padawan\\09.Padawan.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.basicsyntax,conditionalstatementsandloops-exercise\\09.padawan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B0FE8B-19A4-451F-BCDA-B21BEAFDD48B}|09.Padawan\\09.Padawan.csproj|solutionrelative:09.padawan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7CBB5C-1025-4C9B-B78D-64296F0A9F2A}|08.Triangle\\08.Triangle.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.basicsyntax,conditionalstatementsandloops-exercise\\08.triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB7CBB5C-1025-4C9B-B78D-64296F0A9F2A}|08.Triangle\\08.Triangle.csproj|solutionrelative:08.triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEE066C-9DBD-4CD1-A010-3615EADDE4BA}|07.VendingMachine\\07.VendingMachine.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.basicsyntax,conditionalstatementsandloops-exercise\\07.vendingmachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEE066C-9DBD-4CD1-A010-3615EADDE4BA}|07.VendingMachine\\07.VendingMachine.csproj|solutionrelative:07.vendingmachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD9B491-9657-4057-8B3D-F7A7049F3159}|06.StrongNumber\\06.StrongNumber.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.basicsyntax,conditionalstatementsandloops-exercise\\06.strongnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD9B491-9657-4057-8B3D-F7A7049F3159}|06.StrongNumber\\06.StrongNumber.csproj|solutionrelative:06.strongnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98499826-A861-4114-B5CE-218849BD89D4}|05.Login\\05.Login.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.basicsyntax,conditionalstatementsandloops-exercise\\05.login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98499826-A861-4114-B5CE-218849BD89D4}|05.Login\\05.Login.csproj|solutionrelative:05.login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE33744-DD5C-429C-A929-72420E1A1842}|04.PrinAndSum\\04.PrinAndSum.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.basicsyntax,conditionalstatementsandloops-exercise\\04.prinandsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE33744-DD5C-429C-A929-72420E1A1842}|04.PrinAndSum\\04.PrinAndSum.csproj|solutionrelative:04.prinandsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59793E2E-9B42-4688-A133-E96AE01FEB35}|03.Vacation\\03.Vacation.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.basicsyntax,conditionalstatementsandloops-exercise\\03.vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59793E2E-9B42-4688-A133-E96AE01FEB35}|03.Vacation\\03.Vacation.csproj|solutionrelative:03.vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A7C02F-B82A-40D0-8230-D7A893A1E8BE}|02.Division\\02.Division.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.basicsyntax,conditionalstatementsandloops-exercise\\02.division\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A7C02F-B82A-40D0-8230-D7A893A1E8BE}|02.Division\\02.Division.csproj|solutionrelative:02.division\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06CC504-F9CD-4B4A-91C2-5A50ADAA42B1}|01.Ages\\01.Ages.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.basicsyntax,conditionalstatementsandloops-exercise\\01.ages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06CC504-F9CD-4B4A-91C2-5A50ADAA42B1}|01.Ages\\01.Ages.csproj|solutionrelative:01.ages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\\11.Orders\\Program.cs",
+              "RelativeDocumentMoniker": "11.Orders\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\\11.Orders\\Program.cs",
+              "RelativeToolTip": "11.Orders\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:25:20.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\\10.RageExpenses\\Program.cs",
+              "RelativeDocumentMoniker": "10.RageExpenses\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\\10.RageExpenses\\Program.cs",
+              "RelativeToolTip": "10.RageExpenses\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwCUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:08:40.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\\09.Padawan\\Program.cs",
+              "RelativeDocumentMoniker": "09.Padawan\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\\09.Padawan\\Program.cs",
+              "RelativeToolTip": "09.Padawan\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwAoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:48:35.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\\08.Triangle\\Program.cs",
+              "RelativeDocumentMoniker": "08.Triangle\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\\08.Triangle\\Program.cs",
+              "RelativeToolTip": "08.Triangle\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:41:54.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\\07.VendingMachine\\Program.cs",
+              "RelativeDocumentMoniker": "07.VendingMachine\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\\07.VendingMachine\\Program.cs",
+              "RelativeToolTip": "07.VendingMachine\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAUwGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:31:10.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\\06.StrongNumber\\Program.cs",
+              "RelativeDocumentMoniker": "06.StrongNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\\06.StrongNumber\\Program.cs",
+              "RelativeToolTip": "06.StrongNumber\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwBoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:14:13.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\\05.Login\\Program.cs",
+              "RelativeDocumentMoniker": "05.Login\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\\05.Login\\Program.cs",
+              "RelativeToolTip": "05.Login\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:55:36.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\\04.PrinAndSum\\Program.cs",
+              "RelativeDocumentMoniker": "04.PrinAndSum\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\\04.PrinAndSum\\Program.cs",
+              "RelativeToolTip": "04.PrinAndSum\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:51:33.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\\03.Vacation\\Program.cs",
+              "RelativeDocumentMoniker": "03.Vacation\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\\03.Vacation\\Program.cs",
+              "RelativeToolTip": "03.Vacation\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAUwEIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:34:18.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\\02.Division\\Program.cs",
+              "RelativeDocumentMoniker": "02.Division\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\\02.Division\\Program.cs",
+              "RelativeToolTip": "02.Division\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:29:04.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\\01.Ages\\Program.cs",
+              "RelativeDocumentMoniker": "01.Ages\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\\01.Ages\\Program.cs",
+              "RelativeToolTip": "01.Ages\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:20:32.809Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

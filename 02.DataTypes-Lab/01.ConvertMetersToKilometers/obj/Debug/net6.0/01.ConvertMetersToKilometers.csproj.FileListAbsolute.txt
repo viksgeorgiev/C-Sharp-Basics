@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\01.ConvertMetersToKilometers\bin\Debug\net6.0\01.ConvertMetersToKilometers.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\01.ConvertMetersToKilometers\bin\Debug\net6.0\01.ConvertMetersToKilometers.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\01.ConvertMetersToKilometers\bin\Debug\net6.0\01.ConvertMetersToKilometers.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\01.ConvertMetersToKilometers\bin\Debug\net6.0\01.ConvertMetersToKilometers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\01.ConvertMetersToKilometers\bin\Debug\net6.0\01.ConvertMetersToKilometers.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\01.ConvertMetersToKilometers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\01.ConvertMetersToKilometers.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\01.ConvertMetersToKilometers.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\01.ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\01.ConvertMetersToKilometers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\refint\01.ConvertMetersToKilometers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\01.ConvertMetersToKilometers.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\01.ConvertMetersToKilometers.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\ref\01.ConvertMetersToKilometers.dll

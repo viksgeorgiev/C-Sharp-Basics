@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.MidExamPreparation\02.ArrayModifier\bin\Debug\net6.0\02.ArrayModifier.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.MidExamPreparation\02.ArrayModifier\bin\Debug\net6.0\02.ArrayModifier.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.MidExamPreparation\02.ArrayModifier\bin\Debug\net6.0\02.ArrayModifier.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.MidExamPreparation\02.ArrayModifier\bin\Debug\net6.0\02.ArrayModifier.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.MidExamPreparation\02.ArrayModifier\bin\Debug\net6.0\02.ArrayModifier.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.MidExamPreparation\02.ArrayModifier\obj\Debug\net6.0\02.ArrayModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.MidExamPreparation\02.ArrayModifier\obj\Debug\net6.0\02.ArrayModifier.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.MidExamPreparation\02.ArrayModifier\obj\Debug\net6.0\02.ArrayModifier.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.MidExamPreparation\02.ArrayModifier\obj\Debug\net6.0\02.ArrayModifier.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.MidExamPreparation\02.ArrayModifier\obj\Debug\net6.0\02.ArrayModifier.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.MidExamPreparation\02.ArrayModifier\obj\Debug\net6.0\refint\02.ArrayModifier.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.MidExamPreparation\02.ArrayModifier\obj\Debug\net6.0\02.ArrayModifier.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.MidExamPreparation\02.ArrayModifier\obj\Debug\net6.0\02.ArrayModifier.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.MidExamPreparation\02.ArrayModifier\obj\Debug\net6.0\ref\02.ArrayModifier.dll

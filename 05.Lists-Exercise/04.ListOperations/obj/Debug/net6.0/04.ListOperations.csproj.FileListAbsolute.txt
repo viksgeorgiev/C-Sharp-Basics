@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\04.ListOperations\bin\Debug\net6.0\04.ListOperations.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\04.ListOperations\bin\Debug\net6.0\04.ListOperations.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\04.ListOperations\bin\Debug\net6.0\04.ListOperations.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\04.ListOperations\bin\Debug\net6.0\04.ListOperations.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\04.ListOperations\bin\Debug\net6.0\04.ListOperations.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\04.ListOperations\obj\Debug\net6.0\04.ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\04.ListOperations\obj\Debug\net6.0\04.ListOperations.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\04.ListOperations\obj\Debug\net6.0\04.ListOperations.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\04.ListOperations\obj\Debug\net6.0\04.ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\04.ListOperations\obj\Debug\net6.0\04.ListOperations.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\04.ListOperations\obj\Debug\net6.0\refint\04.ListOperations.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\04.ListOperations\obj\Debug\net6.0\04.ListOperations.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\04.ListOperations\obj\Debug\net6.0\04.ListOperations.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\04.ListOperations\obj\Debug\net6.0\ref\04.ListOperations.dll

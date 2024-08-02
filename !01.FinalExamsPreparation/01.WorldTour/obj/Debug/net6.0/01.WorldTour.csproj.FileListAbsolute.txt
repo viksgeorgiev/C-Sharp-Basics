@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\01.WorldTour\bin\Debug\net6.0\01.WorldTour.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\01.WorldTour\bin\Debug\net6.0\01.WorldTour.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\01.WorldTour\bin\Debug\net6.0\01.WorldTour.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\01.WorldTour\bin\Debug\net6.0\01.WorldTour.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\01.WorldTour\bin\Debug\net6.0\01.WorldTour.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\01.WorldTour\obj\Debug\net6.0\01.WorldTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\01.WorldTour\obj\Debug\net6.0\01.WorldTour.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\01.WorldTour\obj\Debug\net6.0\01.WorldTour.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\01.WorldTour\obj\Debug\net6.0\01.WorldTour.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\01.WorldTour\obj\Debug\net6.0\01.WorldTour.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\01.WorldTour\obj\Debug\net6.0\refint\01.WorldTour.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\01.WorldTour\obj\Debug\net6.0\01.WorldTour.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\01.WorldTour\obj\Debug\net6.0\01.WorldTour.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\01.WorldTour\obj\Debug\net6.0\ref\01.WorldTour.dll

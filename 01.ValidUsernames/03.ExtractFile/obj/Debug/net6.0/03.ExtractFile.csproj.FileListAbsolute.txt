@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\03.ExtractFile\bin\Debug\net6.0\03.ExtractFile.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\03.ExtractFile\bin\Debug\net6.0\03.ExtractFile.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\03.ExtractFile\bin\Debug\net6.0\03.ExtractFile.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\03.ExtractFile\bin\Debug\net6.0\03.ExtractFile.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\03.ExtractFile\bin\Debug\net6.0\03.ExtractFile.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\03.ExtractFile\obj\Debug\net6.0\03.ExtractFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\03.ExtractFile\obj\Debug\net6.0\03.ExtractFile.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\03.ExtractFile\obj\Debug\net6.0\03.ExtractFile.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\03.ExtractFile\obj\Debug\net6.0\03.ExtractFile.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\03.ExtractFile\obj\Debug\net6.0\03.ExtractFile.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\03.ExtractFile\obj\Debug\net6.0\refint\03.ExtractFile.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\03.ExtractFile\obj\Debug\net6.0\03.ExtractFile.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\03.ExtractFile\obj\Debug\net6.0\03.ExtractFile.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\03.ExtractFile\obj\Debug\net6.0\ref\03.ExtractFile.dll

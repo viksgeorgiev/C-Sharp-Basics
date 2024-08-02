@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\01.Problem.1\bin\Debug\net6.0\01.JourneyToThe LegendaryArtifact.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\01.Problem.1\bin\Debug\net6.0\01.JourneyToThe LegendaryArtifact.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\01.Problem.1\bin\Debug\net6.0\01.JourneyToThe LegendaryArtifact.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\01.Problem.1\bin\Debug\net6.0\01.JourneyToThe LegendaryArtifact.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\01.Problem.1\bin\Debug\net6.0\01.JourneyToThe LegendaryArtifact.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\01.Problem.1\obj\Debug\net6.0\01.JourneyToThe LegendaryArtifact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\01.Problem.1\obj\Debug\net6.0\01.JourneyToThe LegendaryArtifact.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\01.Problem.1\obj\Debug\net6.0\01.JourneyToThe LegendaryArtifact.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\01.Problem.1\obj\Debug\net6.0\01.JourneyToThe LegendaryArtifact.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\01.Problem.1\obj\Debug\net6.0\01.JourneyToThe LegendaryArtifact.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\01.Problem.1\obj\Debug\net6.0\refint\01.JourneyToThe LegendaryArtifact.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\01.Problem.1\obj\Debug\net6.0\01.JourneyToThe LegendaryArtifact.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\01.Problem.1\obj\Debug\net6.0\01.JourneyToThe LegendaryArtifact.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\01.Problem.1\obj\Debug\net6.0\ref\01.JourneyToThe LegendaryArtifact.dll

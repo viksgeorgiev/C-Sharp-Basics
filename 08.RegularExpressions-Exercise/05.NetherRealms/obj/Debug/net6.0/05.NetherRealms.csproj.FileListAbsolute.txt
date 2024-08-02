@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\05.NetherRealms\bin\Debug\net6.0\05.NetherRealms.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\05.NetherRealms\bin\Debug\net6.0\05.NetherRealms.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\05.NetherRealms\bin\Debug\net6.0\05.NetherRealms.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\05.NetherRealms\bin\Debug\net6.0\05.NetherRealms.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\05.NetherRealms\bin\Debug\net6.0\05.NetherRealms.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\05.NetherRealms\obj\Debug\net6.0\05.NetherRealms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\05.NetherRealms\obj\Debug\net6.0\05.NetherRealms.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\05.NetherRealms\obj\Debug\net6.0\05.NetherRealms.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\05.NetherRealms\obj\Debug\net6.0\05.NetherRealms.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\05.NetherRealms\obj\Debug\net6.0\05.NetherRealms.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\05.NetherRealms\obj\Debug\net6.0\refint\05.NetherRealms.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\05.NetherRealms\obj\Debug\net6.0\05.NetherRealms.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\05.NetherRealms\obj\Debug\net6.0\05.NetherRealms.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\05.NetherRealms\obj\Debug\net6.0\ref\05.NetherRealms.dll

@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\10.LowerOrUpper\bin\Debug\net6.0\10.LowerOrUpper.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\10.LowerOrUpper\bin\Debug\net6.0\10.LowerOrUpper.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\10.LowerOrUpper\bin\Debug\net6.0\10.LowerOrUpper.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\10.LowerOrUpper\bin\Debug\net6.0\10.LowerOrUpper.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\10.LowerOrUpper\bin\Debug\net6.0\10.LowerOrUpper.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\10.LowerOrUpper\obj\Debug\net6.0\10.LowerOrUpper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\10.LowerOrUpper\obj\Debug\net6.0\10.LowerOrUpper.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\10.LowerOrUpper\obj\Debug\net6.0\10.LowerOrUpper.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\10.LowerOrUpper\obj\Debug\net6.0\10.LowerOrUpper.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\10.LowerOrUpper\obj\Debug\net6.0\10.LowerOrUpper.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\10.LowerOrUpper\obj\Debug\net6.0\refint\10.LowerOrUpper.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\10.LowerOrUpper\obj\Debug\net6.0\10.LowerOrUpper.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\10.LowerOrUpper\obj\Debug\net6.0\10.LowerOrUpper.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\10.LowerOrUpper\obj\Debug\net6.0\ref\10.LowerOrUpper.dll

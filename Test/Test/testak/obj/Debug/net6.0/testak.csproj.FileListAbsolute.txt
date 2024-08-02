@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\Test\Test\testak\bin\Debug\net6.0\testak.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\Test\Test\testak\bin\Debug\net6.0\testak.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\Test\Test\testak\bin\Debug\net6.0\testak.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\Test\Test\testak\bin\Debug\net6.0\testak.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\Test\Test\testak\bin\Debug\net6.0\testak.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\Test\Test\testak\obj\Debug\net6.0\testak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\Test\Test\testak\obj\Debug\net6.0\testak.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\Test\Test\testak\obj\Debug\net6.0\testak.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\Test\Test\testak\obj\Debug\net6.0\testak.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\Test\Test\testak\obj\Debug\net6.0\testak.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\Test\Test\testak\obj\Debug\net6.0\refint\testak.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\Test\Test\testak\obj\Debug\net6.0\testak.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\Test\Test\testak\obj\Debug\net6.0\testak.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\Test\Test\testak\obj\Debug\net6.0\ref\testak.dll

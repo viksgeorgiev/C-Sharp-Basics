@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\A01.TheImitationGame\bin\Debug\net6.0\A01.TheImitationGame.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\A01.TheImitationGame\bin\Debug\net6.0\A01.TheImitationGame.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\A01.TheImitationGame\bin\Debug\net6.0\A01.TheImitationGame.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\A01.TheImitationGame\bin\Debug\net6.0\A01.TheImitationGame.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\A01.TheImitationGame\bin\Debug\net6.0\A01.TheImitationGame.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\A01.TheImitationGame\obj\Debug\net6.0\A01.TheImitationGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\A01.TheImitationGame\obj\Debug\net6.0\A01.TheImitationGame.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\A01.TheImitationGame\obj\Debug\net6.0\A01.TheImitationGame.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\A01.TheImitationGame\obj\Debug\net6.0\A01.TheImitationGame.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\A01.TheImitationGame\obj\Debug\net6.0\A01.TheImitationGame.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\A01.TheImitationGame\obj\Debug\net6.0\refint\A01.TheImitationGame.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\A01.TheImitationGame\obj\Debug\net6.0\A01.TheImitationGame.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\A01.TheImitationGame\obj\Debug\net6.0\A01.TheImitationGame.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\A01.TheImitationGame\obj\Debug\net6.0\ref\A01.TheImitationGame.dll

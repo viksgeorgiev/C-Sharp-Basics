@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\05.Mess\bin\Debug\net6.0\05.Mess.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\05.Mess\bin\Debug\net6.0\05.Mess.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\05.Mess\bin\Debug\net6.0\05.Mess.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\05.Mess\bin\Debug\net6.0\05.Mess.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\05.Mess\bin\Debug\net6.0\05.Mess.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\05.Mess\obj\Debug\net6.0\05.Mess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\05.Mess\obj\Debug\net6.0\05.Mess.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\05.Mess\obj\Debug\net6.0\05.Mess.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\05.Mess\obj\Debug\net6.0\05.Mess.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\05.Mess\obj\Debug\net6.0\05.Mess.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\05.Mess\obj\Debug\net6.0\refint\05.Mess.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\05.Mess\obj\Debug\net6.0\05.Mess.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\05.Mess\obj\Debug\net6.0\05.Mess.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\05.Mess\obj\Debug\net6.0\ref\05.Mess.dll

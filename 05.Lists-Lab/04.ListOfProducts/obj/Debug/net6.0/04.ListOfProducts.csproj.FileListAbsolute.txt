@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\04.ListOfProducts\bin\Debug\net6.0\04.ListOfProducts.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\04.ListOfProducts\bin\Debug\net6.0\04.ListOfProducts.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\04.ListOfProducts\bin\Debug\net6.0\04.ListOfProducts.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\04.ListOfProducts\bin\Debug\net6.0\04.ListOfProducts.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\04.ListOfProducts\bin\Debug\net6.0\04.ListOfProducts.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\04.ListOfProducts\obj\Debug\net6.0\04.ListOfProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\04.ListOfProducts\obj\Debug\net6.0\04.ListOfProducts.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\04.ListOfProducts\obj\Debug\net6.0\04.ListOfProducts.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\04.ListOfProducts\obj\Debug\net6.0\04.ListOfProducts.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\04.ListOfProducts\obj\Debug\net6.0\04.ListOfProducts.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\04.ListOfProducts\obj\Debug\net6.0\refint\04.ListOfProducts.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\04.ListOfProducts\obj\Debug\net6.0\04.ListOfProducts.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\04.ListOfProducts\obj\Debug\net6.0\04.ListOfProducts.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\04.ListOfProducts\obj\Debug\net6.0\ref\04.ListOfProducts.dll

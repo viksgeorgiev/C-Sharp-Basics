@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\01.SumAdjacentEqualNumbers\bin\Debug\net6.0\01.SumAdjacentEqualNumbers.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\01.SumAdjacentEqualNumbers\bin\Debug\net6.0\01.SumAdjacentEqualNumbers.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\01.SumAdjacentEqualNumbers\bin\Debug\net6.0\01.SumAdjacentEqualNumbers.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\01.SumAdjacentEqualNumbers\bin\Debug\net6.0\01.SumAdjacentEqualNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\01.SumAdjacentEqualNumbers\bin\Debug\net6.0\01.SumAdjacentEqualNumbers.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\01.SumAdjacentEqualNumbers\obj\Debug\net6.0\01.SumAdjacentEqualNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\01.SumAdjacentEqualNumbers\obj\Debug\net6.0\01.SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\01.SumAdjacentEqualNumbers\obj\Debug\net6.0\01.SumAdjacentEqualNumbers.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\01.SumAdjacentEqualNumbers\obj\Debug\net6.0\01.SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\01.SumAdjacentEqualNumbers\obj\Debug\net6.0\01.SumAdjacentEqualNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\01.SumAdjacentEqualNumbers\obj\Debug\net6.0\refint\01.SumAdjacentEqualNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\01.SumAdjacentEqualNumbers\obj\Debug\net6.0\01.SumAdjacentEqualNumbers.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\01.SumAdjacentEqualNumbers\obj\Debug\net6.0\01.SumAdjacentEqualNumbers.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\01.SumAdjacentEqualNumbers\obj\Debug\net6.0\ref\01.SumAdjacentEqualNumbers.dll

@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\D03.P!rates\bin\Debug\net6.0\D03.P!rates.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\D03.P!rates\bin\Debug\net6.0\D03.P!rates.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\D03.P!rates\bin\Debug\net6.0\D03.P!rates.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\D03.P!rates\bin\Debug\net6.0\D03.P!rates.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\D03.P!rates\bin\Debug\net6.0\D03.P!rates.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\D03.P!rates\obj\Debug\net6.0\D03.P!rates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\D03.P!rates\obj\Debug\net6.0\D03.P!rates.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\D03.P!rates\obj\Debug\net6.0\D03.P!rates.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\D03.P!rates\obj\Debug\net6.0\D03.P!rates.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\D03.P!rates\obj\Debug\net6.0\D03.P!rates.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\D03.P!rates\obj\Debug\net6.0\refint\D03.P!rates.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\D03.P!rates\obj\Debug\net6.0\D03.P!rates.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\D03.P!rates\obj\Debug\net6.0\D03.P!rates.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\D03.P!rates\obj\Debug\net6.0\ref\D03.P!rates.dll

@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\07.AssociativeArrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D422D51-7A2B-4B7C-B65A-A30572EFD6DA}|07.CompanyUsers\\07.CompanyUsers.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\07.associativearrays\\07.companyusers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D422D51-7A2B-4B7C-B65A-A30572EFD6DA}|07.CompanyUsers\\07.CompanyUsers.csproj|solutionrelative:07.companyusers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D1E080-DDA5-47BD-A76E-518696373179}|06.StudentAcademy\\06.StudentAcademy.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\07.associativearrays\\06.studentacademy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95D1E080-DDA5-47BD-A76E-518696373179}|06.StudentAcademy\\06.StudentAcademy.csproj|solutionrelative:06.studentacademy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81BF0920-9843-463E-918D-4FD5887F71DC}|05.Courses\\05.Courses.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\07.associativearrays\\05.courses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81BF0920-9843-463E-918D-4FD5887F71DC}|05.Courses\\05.Courses.csproj|solutionrelative:05.courses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8005DF1C-E53B-46C9-A0DB-3698532C2A65}|04.SoftUniParking\\04.SoftUniParking.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\07.associativearrays\\04.softuniparking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8005DF1C-E53B-46C9-A0DB-3698532C2A65}|04.SoftUniParking\\04.SoftUniParking.csproj|solutionrelative:04.softuniparking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F54CAD6-1D75-4E9D-8719-3868CBC0978F}|03.Orders\\03.Orders.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\07.associativearrays\\03.orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F54CAD6-1D75-4E9D-8719-3868CBC0978F}|03.Orders\\03.Orders.csproj|solutionrelative:03.orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8EC381-9728-4134-832E-8361F6AB046A}|02.AMinerTask\\02.AMinerTask.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\07.associativearrays\\02.aminertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8EC381-9728-4134-832E-8361F6AB046A}|02.AMinerTask\\02.AMinerTask.csproj|solutionrelative:02.aminertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834B6E4E-49BF-44E0-B9F1-CF0120B0AF0A}|01.CountCharsInAString\\01.CountCharsInAString.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\07.associativearrays\\01.countcharsinastring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834B6E4E-49BF-44E0-B9F1-CF0120B0AF0A}|01.CountCharsInAString\\01.CountCharsInAString.csproj|solutionrelative:01.countcharsinastring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\07.AssociativeArrays\\07.CompanyUsers\\Program.cs",
+              "RelativeDocumentMoniker": "07.CompanyUsers\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\07.AssociativeArrays\\07.CompanyUsers\\Program.cs",
+              "RelativeToolTip": "07.CompanyUsers\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAmwCkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:00:17.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\07.AssociativeArrays\\06.StudentAcademy\\Program.cs",
+              "RelativeDocumentMoniker": "06.StudentAcademy\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\07.AssociativeArrays\\06.StudentAcademy\\Program.cs",
+              "RelativeToolTip": "06.StudentAcademy\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:20:47.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\07.AssociativeArrays\\05.Courses\\Program.cs",
+              "RelativeDocumentMoniker": "05.Courses\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\07.AssociativeArrays\\05.Courses\\Program.cs",
+              "RelativeToolTip": "05.Courses\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:07:30.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\07.AssociativeArrays\\04.SoftUniParking\\Program.cs",
+              "RelativeDocumentMoniker": "04.SoftUniParking\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\07.AssociativeArrays\\04.SoftUniParking\\Program.cs",
+              "RelativeToolTip": "04.SoftUniParking\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:37:58.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\07.AssociativeArrays\\03.Orders\\Program.cs",
+              "RelativeDocumentMoniker": "03.Orders\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\07.AssociativeArrays\\03.Orders\\Program.cs",
+              "RelativeToolTip": "03.Orders\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAmwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:18:10.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\07.AssociativeArrays\\02.AMinerTask\\Program.cs",
+              "RelativeDocumentMoniker": "02.AMinerTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\07.AssociativeArrays\\02.AMinerTask\\Program.cs",
+              "RelativeToolTip": "02.AMinerTask\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAcwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:58:26.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\07.AssociativeArrays\\01.CountCharsInAString\\Program.cs",
+              "RelativeDocumentMoniker": "01.CountCharsInAString\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\07.AssociativeArrays\\01.CountCharsInAString\\Program.cs",
+              "RelativeToolTip": "01.CountCharsInAString\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:45:02.47Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

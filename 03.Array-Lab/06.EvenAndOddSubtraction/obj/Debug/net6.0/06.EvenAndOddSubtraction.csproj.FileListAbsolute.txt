@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Array-Lab\06.EvenAndOddSubtraction\bin\Debug\net6.0\06.EvenAndOddSubtraction.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Array-Lab\06.EvenAndOddSubtraction\bin\Debug\net6.0\06.EvenAndOddSubtraction.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Array-Lab\06.EvenAndOddSubtraction\bin\Debug\net6.0\06.EvenAndOddSubtraction.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Array-Lab\06.EvenAndOddSubtraction\bin\Debug\net6.0\06.EvenAndOddSubtraction.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Array-Lab\06.EvenAndOddSubtraction\bin\Debug\net6.0\06.EvenAndOddSubtraction.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Array-Lab\06.EvenAndOddSubtraction\obj\Debug\net6.0\06.EvenAndOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Array-Lab\06.EvenAndOddSubtraction\obj\Debug\net6.0\06.EvenAndOddSubtraction.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Array-Lab\06.EvenAndOddSubtraction\obj\Debug\net6.0\06.EvenAndOddSubtraction.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Array-Lab\06.EvenAndOddSubtraction\obj\Debug\net6.0\06.EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Array-Lab\06.EvenAndOddSubtraction\obj\Debug\net6.0\06.EvenAndOddSubtraction.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Array-Lab\06.EvenAndOddSubtraction\obj\Debug\net6.0\refint\06.EvenAndOddSubtraction.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Array-Lab\06.EvenAndOddSubtraction\obj\Debug\net6.0\06.EvenAndOddSubtraction.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Array-Lab\06.EvenAndOddSubtraction\obj\Debug\net6.0\06.EvenAndOddSubtraction.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.Array-Lab\06.EvenAndOddSubtraction\obj\Debug\net6.0\ref\06.EvenAndOddSubtraction.dll

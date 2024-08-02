@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\02.PascalTriangle\bin\Debug\net6.0\02.PascalTriangle.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\02.PascalTriangle\bin\Debug\net6.0\02.PascalTriangle.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\02.PascalTriangle\bin\Debug\net6.0\02.PascalTriangle.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\02.PascalTriangle\bin\Debug\net6.0\02.PascalTriangle.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\02.PascalTriangle\bin\Debug\net6.0\02.PascalTriangle.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\02.PascalTriangle\obj\Debug\net6.0\02.PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\02.PascalTriangle\obj\Debug\net6.0\02.PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\02.PascalTriangle\obj\Debug\net6.0\02.PascalTriangle.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\02.PascalTriangle\obj\Debug\net6.0\02.PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\02.PascalTriangle\obj\Debug\net6.0\02.PascalTriangle.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\02.PascalTriangle\obj\Debug\net6.0\refint\02.PascalTriangle.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\02.PascalTriangle\obj\Debug\net6.0\02.PascalTriangle.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\02.PascalTriangle\obj\Debug\net6.0\02.PascalTriangle.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\02.PascalTriangle\obj\Debug\net6.0\ref\02.PascalTriangle.dll

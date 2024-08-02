@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\12.EvenNumber\obj\Debug\net6.0\refint\12.EvenNumber.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\12.EvenNumber\obj\Debug\net6.0\ref\12.EvenNumber.dll

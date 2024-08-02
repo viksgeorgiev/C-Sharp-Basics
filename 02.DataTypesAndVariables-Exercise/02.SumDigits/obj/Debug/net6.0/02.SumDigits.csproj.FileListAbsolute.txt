@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\02.SumDigits\bin\Debug\net6.0\02.SumDigits.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\02.SumDigits\bin\Debug\net6.0\02.SumDigits.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\02.SumDigits\bin\Debug\net6.0\02.SumDigits.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\02.SumDigits\bin\Debug\net6.0\02.SumDigits.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\02.SumDigits\bin\Debug\net6.0\02.SumDigits.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\02.SumDigits\obj\Debug\net6.0\02.SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\02.SumDigits\obj\Debug\net6.0\02.SumDigits.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\02.SumDigits\obj\Debug\net6.0\02.SumDigits.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\02.SumDigits\obj\Debug\net6.0\02.SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\02.SumDigits\obj\Debug\net6.0\02.SumDigits.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\02.SumDigits\obj\Debug\net6.0\refint\02.SumDigits.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\02.SumDigits\obj\Debug\net6.0\02.SumDigits.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\02.SumDigits\obj\Debug\net6.0\02.SumDigits.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\02.SumDigits\obj\Debug\net6.0\ref\02.SumDigits.dll

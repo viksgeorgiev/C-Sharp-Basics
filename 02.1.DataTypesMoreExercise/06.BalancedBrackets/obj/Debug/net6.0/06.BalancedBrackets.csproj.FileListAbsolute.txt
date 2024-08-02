@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.1.DataTypesMoreExercise\06.BalancedBrackets\bin\Debug\net6.0\06.BalancedBrackets.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.1.DataTypesMoreExercise\06.BalancedBrackets\bin\Debug\net6.0\06.BalancedBrackets.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.1.DataTypesMoreExercise\06.BalancedBrackets\bin\Debug\net6.0\06.BalancedBrackets.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.1.DataTypesMoreExercise\06.BalancedBrackets\bin\Debug\net6.0\06.BalancedBrackets.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.1.DataTypesMoreExercise\06.BalancedBrackets\bin\Debug\net6.0\06.BalancedBrackets.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.1.DataTypesMoreExercise\06.BalancedBrackets\obj\Debug\net6.0\06.BalancedBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.1.DataTypesMoreExercise\06.BalancedBrackets\obj\Debug\net6.0\06.BalancedBrackets.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.1.DataTypesMoreExercise\06.BalancedBrackets\obj\Debug\net6.0\06.BalancedBrackets.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.1.DataTypesMoreExercise\06.BalancedBrackets\obj\Debug\net6.0\06.BalancedBrackets.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.1.DataTypesMoreExercise\06.BalancedBrackets\obj\Debug\net6.0\06.BalancedBrackets.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.1.DataTypesMoreExercise\06.BalancedBrackets\obj\Debug\net6.0\refint\06.BalancedBrackets.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.1.DataTypesMoreExercise\06.BalancedBrackets\obj\Debug\net6.0\06.BalancedBrackets.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.1.DataTypesMoreExercise\06.BalancedBrackets\obj\Debug\net6.0\06.BalancedBrackets.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.1.DataTypesMoreExercise\06.BalancedBrackets\obj\Debug\net6.0\ref\06.BalancedBrackets.dll

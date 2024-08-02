@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\01.ActivationKeys\bin\Debug\net6.0\01.ActivationKeys.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\01.ActivationKeys\bin\Debug\net6.0\01.ActivationKeys.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\01.ActivationKeys\bin\Debug\net6.0\01.ActivationKeys.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\01.ActivationKeys\bin\Debug\net6.0\01.ActivationKeys.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\01.ActivationKeys\bin\Debug\net6.0\01.ActivationKeys.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\01.ActivationKeys\obj\Debug\net6.0\01.ActivationKeys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\01.ActivationKeys\obj\Debug\net6.0\01.ActivationKeys.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\01.ActivationKeys\obj\Debug\net6.0\01.ActivationKeys.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\01.ActivationKeys\obj\Debug\net6.0\01.ActivationKeys.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\01.ActivationKeys\obj\Debug\net6.0\01.ActivationKeys.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\01.ActivationKeys\obj\Debug\net6.0\refint\01.ActivationKeys.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\01.ActivationKeys\obj\Debug\net6.0\01.ActivationKeys.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\01.ActivationKeys\obj\Debug\net6.0\01.ActivationKeys.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\01.ActivationKeys\obj\Debug\net6.0\ref\01.ActivationKeys.dll

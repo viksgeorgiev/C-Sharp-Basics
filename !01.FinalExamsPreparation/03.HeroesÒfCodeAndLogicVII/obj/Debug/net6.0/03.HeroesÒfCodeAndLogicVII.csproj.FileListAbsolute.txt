@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03.HeroesÒfCodeAndLogicVII\bin\Debug\net6.0\03.HeroesÒfCodeAndLogicVII.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03.HeroesÒfCodeAndLogicVII\bin\Debug\net6.0\03.HeroesÒfCodeAndLogicVII.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03.HeroesÒfCodeAndLogicVII\bin\Debug\net6.0\03.HeroesÒfCodeAndLogicVII.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03.HeroesÒfCodeAndLogicVII\bin\Debug\net6.0\03.HeroesÒfCodeAndLogicVII.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03.HeroesÒfCodeAndLogicVII\bin\Debug\net6.0\03.HeroesÒfCodeAndLogicVII.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03.HeroesÒfCodeAndLogicVII\obj\Debug\net6.0\03.HeroesÒfCodeAndLogicVII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03.HeroesÒfCodeAndLogicVII\obj\Debug\net6.0\03.HeroesÒfCodeAndLogicVII.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03.HeroesÒfCodeAndLogicVII\obj\Debug\net6.0\03.HeroesÒfCodeAndLogicVII.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03.HeroesÒfCodeAndLogicVII\obj\Debug\net6.0\03.HeroesÒfCodeAndLogicVII.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03.HeroesÒfCodeAndLogicVII\obj\Debug\net6.0\03.HeroesÒfCodeAndLogicVII.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03.HeroesÒfCodeAndLogicVII\obj\Debug\net6.0\refint\03.HeroesÒfCodeAndLogicVII.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03.HeroesÒfCodeAndLogicVII\obj\Debug\net6.0\03.HeroesÒfCodeAndLogicVII.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03.HeroesÒfCodeAndLogicVII\obj\Debug\net6.0\03.HeroesÒfCodeAndLogicVII.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03.HeroesÒfCodeAndLogicVII\obj\Debug\net6.0\ref\03.HeroesÒfCodeAndLogicVII.dll

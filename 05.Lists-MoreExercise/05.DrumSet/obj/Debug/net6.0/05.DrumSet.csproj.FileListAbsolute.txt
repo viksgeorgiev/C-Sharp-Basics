@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\05.DrumSet\bin\Debug\net6.0\05.DrumSet.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\05.DrumSet\bin\Debug\net6.0\05.DrumSet.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\05.DrumSet\bin\Debug\net6.0\05.DrumSet.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\05.DrumSet\bin\Debug\net6.0\05.DrumSet.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\05.DrumSet\bin\Debug\net6.0\05.DrumSet.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\05.DrumSet\obj\Debug\net6.0\05.DrumSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\05.DrumSet\obj\Debug\net6.0\05.DrumSet.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\05.DrumSet\obj\Debug\net6.0\05.DrumSet.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\05.DrumSet\obj\Debug\net6.0\05.DrumSet.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\05.DrumSet\obj\Debug\net6.0\05.DrumSet.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\05.DrumSet\obj\Debug\net6.0\refint\05.DrumSet.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\05.DrumSet\obj\Debug\net6.0\05.DrumSet.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\05.DrumSet\obj\Debug\net6.0\05.DrumSet.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\05.DrumSet\obj\Debug\net6.0\ref\05.DrumSet.dll

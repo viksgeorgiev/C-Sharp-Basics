@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.MidExamPreparaton\01.Counter-Strike\bin\Debug\net6.0\01.Counter-Strike.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.MidExamPreparaton\01.Counter-Strike\bin\Debug\net6.0\01.Counter-Strike.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.MidExamPreparaton\01.Counter-Strike\bin\Debug\net6.0\01.Counter-Strike.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.MidExamPreparaton\01.Counter-Strike\bin\Debug\net6.0\01.Counter-Strike.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.MidExamPreparaton\01.Counter-Strike\bin\Debug\net6.0\01.Counter-Strike.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.MidExamPreparaton\01.Counter-Strike\obj\Debug\net6.0\01.Counter-Strike.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.MidExamPreparaton\01.Counter-Strike\obj\Debug\net6.0\01.Counter-Strike.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.MidExamPreparaton\01.Counter-Strike\obj\Debug\net6.0\01.Counter-Strike.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.MidExamPreparaton\01.Counter-Strike\obj\Debug\net6.0\01.Counter-Strike.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.MidExamPreparaton\01.Counter-Strike\obj\Debug\net6.0\01.Counter-Strike.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.MidExamPreparaton\01.Counter-Strike\obj\Debug\net6.0\refint\01.Counter-Strike.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.MidExamPreparaton\01.Counter-Strike\obj\Debug\net6.0\01.Counter-Strike.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.MidExamPreparaton\01.Counter-Strike\obj\Debug\net6.0\01.Counter-Strike.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.MidExamPreparaton\01.Counter-Strike\obj\Debug\net6.0\ref\01.Counter-Strike.dll

@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.1.DataTypesMoreExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{195C14F4-7AAD-46AE-96F4-591966190ACA}|06.BalancedBrackets\\06.BalancedBrackets.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\02.1.datatypesmoreexercise\\06.balancedbrackets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195C14F4-7AAD-46AE-96F4-591966190ACA}|06.BalancedBrackets\\06.BalancedBrackets.csproj|solutionrelative:06.balancedbrackets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753A521A-C5ED-4A36-8BAF-500F71BB5EFA}|05.DecryptingMessage\\05.DecryptingMessage.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\02.1.datatypesmoreexercise\\05.decryptingmessage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753A521A-C5ED-4A36-8BAF-500F71BB5EFA}|05.DecryptingMessage\\05.DecryptingMessage.csproj|solutionrelative:05.decryptingmessage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B004B10-9BE0-4476-B204-7E3D58EB84F3}|04.RefactoringPrimeChecker\\04.RefactoringPrimeChecker.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\02.1.datatypesmoreexercise\\04.refactoringprimechecker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B004B10-9BE0-4476-B204-7E3D58EB84F3}|04.RefactoringPrimeChecker\\04.RefactoringPrimeChecker.csproj|solutionrelative:04.refactoringprimechecker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EA90C4-716F-4407-B1BC-A8D8AABE54FE}|03.FloatingEquality\\03.FloatingEquality.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\02.1.datatypesmoreexercise\\03.floatingequality\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57EA90C4-716F-4407-B1BC-A8D8AABE54FE}|03.FloatingEquality\\03.FloatingEquality.csproj|solutionrelative:03.floatingequality\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D1AA8C-4EC1-4DBC-94A8-A280A5B97882}|02.FromLeftToTheRight\\02.FromLeftToTheRight.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\02.1.datatypesmoreexercise\\02.fromlefttotheright\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D1AA8C-4EC1-4DBC-94A8-A280A5B97882}|02.FromLeftToTheRight\\02.FromLeftToTheRight.csproj|solutionrelative:02.fromlefttotheright\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3CDAFE-8F2A-4B54-B3CA-7F9380B60E58}|01.DataTypeFinder\\01.DataTypeFinder.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\02.1.datatypesmoreexercise\\01.datatypefinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3CDAFE-8F2A-4B54-B3CA-7F9380B60E58}|01.DataTypeFinder\\01.DataTypeFinder.csproj|solutionrelative:01.datatypefinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.1.DataTypesMoreExercise\\06.BalancedBrackets\\Program.cs",
+              "RelativeDocumentMoniker": "06.BalancedBrackets\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.1.DataTypesMoreExercise\\06.BalancedBrackets\\Program.cs",
+              "RelativeToolTip": "06.BalancedBrackets\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:03:36.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.1.DataTypesMoreExercise\\05.DecryptingMessage\\Program.cs",
+              "RelativeDocumentMoniker": "05.DecryptingMessage\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.1.DataTypesMoreExercise\\05.DecryptingMessage\\Program.cs",
+              "RelativeToolTip": "05.DecryptingMessage\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:56:51.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.1.DataTypesMoreExercise\\04.RefactoringPrimeChecker\\Program.cs",
+              "RelativeDocumentMoniker": "04.RefactoringPrimeChecker\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.1.DataTypesMoreExercise\\04.RefactoringPrimeChecker\\Program.cs",
+              "RelativeToolTip": "04.RefactoringPrimeChecker\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:48:28.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.1.DataTypesMoreExercise\\03.FloatingEquality\\Program.cs",
+              "RelativeDocumentMoniker": "03.FloatingEquality\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.1.DataTypesMoreExercise\\03.FloatingEquality\\Program.cs",
+              "RelativeToolTip": "03.FloatingEquality\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:34:49.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.1.DataTypesMoreExercise\\02.FromLeftToTheRight\\Program.cs",
+              "RelativeDocumentMoniker": "02.FromLeftToTheRight\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.1.DataTypesMoreExercise\\02.FromLeftToTheRight\\Program.cs",
+              "RelativeToolTip": "02.FromLeftToTheRight\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvygAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:48:48.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.1.DataTypesMoreExercise\\01.DataTypeFinder\\Program.cs",
+              "RelativeDocumentMoniker": "01.DataTypeFinder\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.1.DataTypesMoreExercise\\01.DataTypeFinder\\Program.cs",
+              "RelativeToolTip": "01.DataTypeFinder\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvyIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:31:33.725Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

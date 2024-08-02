@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\01.SortNumbers\bin\Debug\net6.0\01.SortNumbers.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\01.SortNumbers\bin\Debug\net6.0\01.SortNumbers.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\01.SortNumbers\bin\Debug\net6.0\01.SortNumbers.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\01.SortNumbers\bin\Debug\net6.0\01.SortNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\01.SortNumbers\bin\Debug\net6.0\01.SortNumbers.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\01.SortNumbers\obj\Debug\net6.0\01.SortNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\01.SortNumbers\obj\Debug\net6.0\01.SortNumbers.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\01.SortNumbers\obj\Debug\net6.0\01.SortNumbers.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\01.SortNumbers\obj\Debug\net6.0\01.SortNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\01.SortNumbers\obj\Debug\net6.0\01.SortNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\01.SortNumbers\obj\Debug\net6.0\refint\01.SortNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\01.SortNumbers\obj\Debug\net6.0\01.SortNumbers.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\01.SortNumbers\obj\Debug\net6.0\01.SortNumbers.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\01.SortNumbers\obj\Debug\net6.0\ref\01.SortNumbers.dll

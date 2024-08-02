@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\05.Orders\bin\Debug\net6.0\05.Orders.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\05.Orders\bin\Debug\net6.0\05.Orders.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\05.Orders\bin\Debug\net6.0\05.Orders.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\05.Orders\bin\Debug\net6.0\05.Orders.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\05.Orders\bin\Debug\net6.0\05.Orders.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\05.Orders\obj\Debug\net6.0\05.Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\05.Orders\obj\Debug\net6.0\05.Orders.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\05.Orders\obj\Debug\net6.0\05.Orders.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\05.Orders\obj\Debug\net6.0\05.Orders.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\05.Orders\obj\Debug\net6.0\05.Orders.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\05.Orders\obj\Debug\net6.0\refint\05.Orders.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\05.Orders\obj\Debug\net6.0\05.Orders.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\05.Orders\obj\Debug\net6.0\05.Orders.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\05.Orders\obj\Debug\net6.0\ref\05.Orders.dll

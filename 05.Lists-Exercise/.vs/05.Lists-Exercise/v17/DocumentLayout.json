@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{327F3289-088E-4E9B-AF92-ECC00704E1A4}|07.AppendArrays\\07.AppendArrays.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\05.lists-exercise\\07.appendarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{327F3289-088E-4E9B-AF92-ECC00704E1A4}|07.AppendArrays\\07.AppendArrays.csproj|solutionrelative:07.appendarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41562B7E-0B2D-44B8-A174-4CAD14F6C106}|06.CardsGame\\06.CardsGame.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\05.lists-exercise\\06.cardsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41562B7E-0B2D-44B8-A174-4CAD14F6C106}|06.CardsGame\\06.CardsGame.csproj|solutionrelative:06.cardsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE0E29E-1FB4-4F5F-9B57-3BA1426A306D}|05.BombNumbers\\05.BombNumbers.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\05.lists-exercise\\05.bombnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE0E29E-1FB4-4F5F-9B57-3BA1426A306D}|05.BombNumbers\\05.BombNumbers.csproj|solutionrelative:05.bombnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F06E1A-47A6-4F80-8D39-8D0AE9920DB2}|04.ListOperations\\04.ListOperations.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\05.lists-exercise\\04.listoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F06E1A-47A6-4F80-8D39-8D0AE9920DB2}|04.ListOperations\\04.ListOperations.csproj|solutionrelative:04.listoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF84CCC-3019-4687-842A-A55DDF03CF5E}|03.HouseParty\\03.HouseParty.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\05.lists-exercise\\03.houseparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF84CCC-3019-4687-842A-A55DDF03CF5E}|03.HouseParty\\03.HouseParty.csproj|solutionrelative:03.houseparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D92D31A1-CB55-4CCC-B278-182AE02DDEA0}|02.ChangeList\\02.ChangeList.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\05.lists-exercise\\02.changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D92D31A1-CB55-4CCC-B278-182AE02DDEA0}|02.ChangeList\\02.ChangeList.csproj|solutionrelative:02.changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FFDBA7-0C9B-4566-A338-9C8CDB4B3B08}|01.Train\\01.Train.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\05.lists-exercise\\01.train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12FFDBA7-0C9B-4566-A338-9C8CDB4B3B08}|01.Train\\01.Train.csproj|solutionrelative:01.train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Exercise\\07.AppendArrays\\Program.cs",
+              "RelativeDocumentMoniker": "07.AppendArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Exercise\\07.AppendArrays\\Program.cs",
+              "RelativeToolTip": "07.AppendArrays\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:37:51.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Exercise\\06.CardsGame\\Program.cs",
+              "RelativeDocumentMoniker": "06.CardsGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Exercise\\06.CardsGame\\Program.cs",
+              "RelativeToolTip": "06.CardsGame\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvyMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:07:47.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Exercise\\05.BombNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "05.BombNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Exercise\\05.BombNumbers\\Program.cs",
+              "RelativeToolTip": "05.BombNumbers\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvyQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:52:11.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Exercise\\04.ListOperations\\Program.cs",
+              "RelativeDocumentMoniker": "04.ListOperations\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Exercise\\04.ListOperations\\Program.cs",
+              "RelativeToolTip": "04.ListOperations\\Program.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAA8wG8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:04:39.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Exercise\\03.HouseParty\\Program.cs",
+              "RelativeDocumentMoniker": "03.HouseParty\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Exercise\\03.HouseParty\\Program.cs",
+              "RelativeToolTip": "03.HouseParty\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvy0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:49:11.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Exercise\\02.ChangeList\\Program.cs",
+              "RelativeDocumentMoniker": "02.ChangeList\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Exercise\\02.ChangeList\\Program.cs",
+              "RelativeToolTip": "02.ChangeList\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvyIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:32:39.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Exercise\\01.Train\\Program.cs",
+              "RelativeDocumentMoniker": "01.Train\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.Lists-Exercise\\01.Train\\Program.cs",
+              "RelativeToolTip": "01.Train\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvyIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:51:27.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

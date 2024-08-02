@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\03.LongerLine\bin\Debug\net6.0\03.LongerLine.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\03.LongerLine\bin\Debug\net6.0\03.LongerLine.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\03.LongerLine\bin\Debug\net6.0\03.LongerLine.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\03.LongerLine\bin\Debug\net6.0\03.LongerLine.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\03.LongerLine\bin\Debug\net6.0\03.LongerLine.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\03.LongerLine\obj\Debug\net6.0\03.LongerLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\03.LongerLine\obj\Debug\net6.0\03.LongerLine.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\03.LongerLine\obj\Debug\net6.0\03.LongerLine.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\03.LongerLine\obj\Debug\net6.0\03.LongerLine.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\03.LongerLine\obj\Debug\net6.0\03.LongerLine.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\03.LongerLine\obj\Debug\net6.0\refint\03.LongerLine.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\03.LongerLine\obj\Debug\net6.0\03.LongerLine.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\03.LongerLine\obj\Debug\net6.0\03.LongerLine.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\03.LongerLine\obj\Debug\net6.0\ref\03.LongerLine.dll

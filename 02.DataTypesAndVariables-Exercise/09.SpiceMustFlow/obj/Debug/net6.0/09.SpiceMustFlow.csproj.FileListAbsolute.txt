@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\09.SpiceMustFlow\bin\Debug\net6.0\09.SpiceMustFlow.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\09.SpiceMustFlow\bin\Debug\net6.0\09.SpiceMustFlow.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\09.SpiceMustFlow\bin\Debug\net6.0\09.SpiceMustFlow.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\09.SpiceMustFlow\bin\Debug\net6.0\09.SpiceMustFlow.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\09.SpiceMustFlow\bin\Debug\net6.0\09.SpiceMustFlow.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\net6.0\09.SpiceMustFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\net6.0\09.SpiceMustFlow.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\net6.0\09.SpiceMustFlow.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\net6.0\09.SpiceMustFlow.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\net6.0\09.SpiceMustFlow.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\net6.0\refint\09.SpiceMustFlow.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\net6.0\09.SpiceMustFlow.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\net6.0\09.SpiceMustFlow.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\net6.0\ref\09.SpiceMustFlow.dll

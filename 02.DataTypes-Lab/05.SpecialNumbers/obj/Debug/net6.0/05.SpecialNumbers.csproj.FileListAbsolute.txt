@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\05.SpecialNumbers\bin\Debug\net6.0\05.SpecialNumbers.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\05.SpecialNumbers\bin\Debug\net6.0\05.SpecialNumbers.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\05.SpecialNumbers\bin\Debug\net6.0\05.SpecialNumbers.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\05.SpecialNumbers\bin\Debug\net6.0\05.SpecialNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\05.SpecialNumbers\bin\Debug\net6.0\05.SpecialNumbers.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\05.SpecialNumbers\obj\Debug\net6.0\05.SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\05.SpecialNumbers\obj\Debug\net6.0\05.SpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\05.SpecialNumbers\obj\Debug\net6.0\05.SpecialNumbers.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\05.SpecialNumbers\obj\Debug\net6.0\05.SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\05.SpecialNumbers\obj\Debug\net6.0\05.SpecialNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\05.SpecialNumbers\obj\Debug\net6.0\refint\05.SpecialNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\05.SpecialNumbers\obj\Debug\net6.0\05.SpecialNumbers.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\05.SpecialNumbers\obj\Debug\net6.0\05.SpecialNumbers.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\05.SpecialNumbers\obj\Debug\net6.0\ref\05.SpecialNumbers.dll

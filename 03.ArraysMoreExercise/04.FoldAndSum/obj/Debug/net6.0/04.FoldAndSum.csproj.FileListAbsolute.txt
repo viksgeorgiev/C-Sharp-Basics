@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\04.FoldAndSum\bin\Debug\net6.0\04.FoldAndSum.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\04.FoldAndSum\bin\Debug\net6.0\04.FoldAndSum.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\04.FoldAndSum\bin\Debug\net6.0\04.FoldAndSum.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\04.FoldAndSum\bin\Debug\net6.0\04.FoldAndSum.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\04.FoldAndSum\bin\Debug\net6.0\04.FoldAndSum.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\04.FoldAndSum\obj\Debug\net6.0\04.FoldAndSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\04.FoldAndSum\obj\Debug\net6.0\04.FoldAndSum.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\04.FoldAndSum\obj\Debug\net6.0\04.FoldAndSum.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\04.FoldAndSum\obj\Debug\net6.0\04.FoldAndSum.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\04.FoldAndSum\obj\Debug\net6.0\04.FoldAndSum.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\04.FoldAndSum\obj\Debug\net6.0\refint\04.FoldAndSum.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\04.FoldAndSum\obj\Debug\net6.0\04.FoldAndSum.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\04.FoldAndSum\obj\Debug\net6.0\04.FoldAndSum.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\04.FoldAndSum\obj\Debug\net6.0\ref\04.FoldAndSum.dll

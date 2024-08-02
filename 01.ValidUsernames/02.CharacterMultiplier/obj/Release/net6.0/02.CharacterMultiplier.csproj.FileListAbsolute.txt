@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\02.CharacterMultiplier\bin\Release\net6.0\02.CharacterMultiplier.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\02.CharacterMultiplier\bin\Release\net6.0\02.CharacterMultiplier.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\02.CharacterMultiplier\bin\Release\net6.0\02.CharacterMultiplier.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\02.CharacterMultiplier\bin\Release\net6.0\02.CharacterMultiplier.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\02.CharacterMultiplier\bin\Release\net6.0\02.CharacterMultiplier.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\02.CharacterMultiplier\obj\Release\net6.0\02.CharacterMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\02.CharacterMultiplier\obj\Release\net6.0\02.CharacterMultiplier.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\02.CharacterMultiplier\obj\Release\net6.0\02.CharacterMultiplier.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\02.CharacterMultiplier\obj\Release\net6.0\02.CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\02.CharacterMultiplier\obj\Release\net6.0\02.CharacterMultiplier.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\02.CharacterMultiplier\obj\Release\net6.0\refint\02.CharacterMultiplier.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\02.CharacterMultiplier\obj\Release\net6.0\02.CharacterMultiplier.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\02.CharacterMultiplier\obj\Release\net6.0\02.CharacterMultiplier.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\02.CharacterMultiplier\obj\Release\net6.0\ref\02.CharacterMultiplier.dll

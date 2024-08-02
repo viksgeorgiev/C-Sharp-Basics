@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\04.SumOfChars\bin\Debug\net6.0\04.SumOfChars.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\04.SumOfChars\bin\Debug\net6.0\04.SumOfChars.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\04.SumOfChars\bin\Debug\net6.0\04.SumOfChars.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\04.SumOfChars\bin\Debug\net6.0\04.SumOfChars.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\04.SumOfChars\bin\Debug\net6.0\04.SumOfChars.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\refint\04.SumOfChars.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\ref\04.SumOfChars.dll

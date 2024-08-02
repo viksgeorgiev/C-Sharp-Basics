@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\G00.Santa'sNewList\bin\Debug\net6.0\G00.Santa'sNewList.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\G00.Santa'sNewList\bin\Debug\net6.0\G00.Santa'sNewList.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\G00.Santa'sNewList\bin\Debug\net6.0\G00.Santa'sNewList.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\G00.Santa'sNewList\bin\Debug\net6.0\G00.Santa'sNewList.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\G00.Santa'sNewList\bin\Debug\net6.0\G00.Santa'sNewList.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\G00.Santa'sNewList\obj\Debug\net6.0\G00.Santa'sNewList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\G00.Santa'sNewList\obj\Debug\net6.0\G00.Santa'sNewList.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\G00.Santa'sNewList\obj\Debug\net6.0\G00.Santa'sNewList.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\G00.Santa'sNewList\obj\Debug\net6.0\G00.Santa'sNewList.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\G00.Santa'sNewList\obj\Debug\net6.0\G00.Santa'sNewList.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\G00.Santa'sNewList\obj\Debug\net6.0\refint\G00.Santa'sNewList.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\G00.Santa'sNewList\obj\Debug\net6.0\G00.Santa'sNewList.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\G00.Santa'sNewList\obj\Debug\net6.0\G00.Santa'sNewList.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\G00.Santa'sNewList\obj\Debug\net6.0\ref\G00.Santa'sNewList.dll

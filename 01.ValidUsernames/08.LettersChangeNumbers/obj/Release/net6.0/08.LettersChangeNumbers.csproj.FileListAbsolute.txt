@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\08.LettersChangeNumbers\bin\Release\net6.0\08.LettersChangeNumbers.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\08.LettersChangeNumbers\bin\Release\net6.0\08.LettersChangeNumbers.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\08.LettersChangeNumbers\bin\Release\net6.0\08.LettersChangeNumbers.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\08.LettersChangeNumbers\bin\Release\net6.0\08.LettersChangeNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\08.LettersChangeNumbers\bin\Release\net6.0\08.LettersChangeNumbers.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\08.LettersChangeNumbers\obj\Release\net6.0\08.LettersChangeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\08.LettersChangeNumbers\obj\Release\net6.0\08.LettersChangeNumbers.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\08.LettersChangeNumbers\obj\Release\net6.0\08.LettersChangeNumbers.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\08.LettersChangeNumbers\obj\Release\net6.0\08.LettersChangeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\08.LettersChangeNumbers\obj\Release\net6.0\08.LettersChangeNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\08.LettersChangeNumbers\obj\Release\net6.0\refint\08.LettersChangeNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\08.LettersChangeNumbers\obj\Release\net6.0\08.LettersChangeNumbers.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\08.LettersChangeNumbers\obj\Release\net6.0\08.LettersChangeNumbers.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\08.LettersChangeNumbers\obj\Release\net6.0\ref\08.LettersChangeNumbers.dll

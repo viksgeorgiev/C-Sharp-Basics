@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\02.CenterPoint\bin\Debug\net6.0\02.CenterPoint.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\02.CenterPoint\bin\Debug\net6.0\02.CenterPoint.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\02.CenterPoint\bin\Debug\net6.0\02.CenterPoint.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\02.CenterPoint\bin\Debug\net6.0\02.CenterPoint.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\02.CenterPoint\bin\Debug\net6.0\02.CenterPoint.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\02.CenterPoint\obj\Debug\net6.0\02.CenterPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\02.CenterPoint\obj\Debug\net6.0\02.CenterPoint.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\02.CenterPoint\obj\Debug\net6.0\02.CenterPoint.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\02.CenterPoint\obj\Debug\net6.0\02.CenterPoint.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\02.CenterPoint\obj\Debug\net6.0\02.CenterPoint.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\02.CenterPoint\obj\Debug\net6.0\refint\02.CenterPoint.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\02.CenterPoint\obj\Debug\net6.0\02.CenterPoint.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\02.CenterPoint\obj\Debug\net6.0\02.CenterPoint.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-MoreExercise\02.CenterPoint\obj\Debug\net6.0\ref\02.CenterPoint.dll

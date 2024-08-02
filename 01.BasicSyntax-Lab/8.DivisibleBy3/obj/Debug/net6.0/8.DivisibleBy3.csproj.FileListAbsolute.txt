@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\8.DivisibleBy3\bin\Debug\net6.0\8.DivisibleBy3.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\8.DivisibleBy3\bin\Debug\net6.0\8.DivisibleBy3.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\8.DivisibleBy3\bin\Debug\net6.0\8.DivisibleBy3.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\8.DivisibleBy3\bin\Debug\net6.0\8.DivisibleBy3.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\8.DivisibleBy3\bin\Debug\net6.0\8.DivisibleBy3.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\8.DivisibleBy3\obj\Debug\net6.0\8.DivisibleBy3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\8.DivisibleBy3\obj\Debug\net6.0\8.DivisibleBy3.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\8.DivisibleBy3\obj\Debug\net6.0\8.DivisibleBy3.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\8.DivisibleBy3\obj\Debug\net6.0\8.DivisibleBy3.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\8.DivisibleBy3\obj\Debug\net6.0\8.DivisibleBy3.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\8.DivisibleBy3\obj\Debug\net6.0\refint\8.DivisibleBy3.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\8.DivisibleBy3\obj\Debug\net6.0\8.DivisibleBy3.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\8.DivisibleBy3\obj\Debug\net6.0\8.DivisibleBy3.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\8.DivisibleBy3\obj\Debug\net6.0\ref\8.DivisibleBy3.dll

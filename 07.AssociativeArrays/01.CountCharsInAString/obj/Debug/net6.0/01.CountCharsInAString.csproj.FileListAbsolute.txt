@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.AssociativeArrays\01.CountCharsInAString\bin\Debug\net6.0\01.CountCharsInAString.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.AssociativeArrays\01.CountCharsInAString\bin\Debug\net6.0\01.CountCharsInAString.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.AssociativeArrays\01.CountCharsInAString\bin\Debug\net6.0\01.CountCharsInAString.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.AssociativeArrays\01.CountCharsInAString\bin\Debug\net6.0\01.CountCharsInAString.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.AssociativeArrays\01.CountCharsInAString\bin\Debug\net6.0\01.CountCharsInAString.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.AssociativeArrays\01.CountCharsInAString\obj\Debug\net6.0\01.CountCharsInAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.AssociativeArrays\01.CountCharsInAString\obj\Debug\net6.0\01.CountCharsInAString.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.AssociativeArrays\01.CountCharsInAString\obj\Debug\net6.0\01.CountCharsInAString.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.AssociativeArrays\01.CountCharsInAString\obj\Debug\net6.0\01.CountCharsInAString.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.AssociativeArrays\01.CountCharsInAString\obj\Debug\net6.0\01.CountCharsInAString.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.AssociativeArrays\01.CountCharsInAString\obj\Debug\net6.0\refint\01.CountCharsInAString.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.AssociativeArrays\01.CountCharsInAString\obj\Debug\net6.0\01.CountCharsInAString.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.AssociativeArrays\01.CountCharsInAString\obj\Debug\net6.0\01.CountCharsInAString.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.AssociativeArrays\01.CountCharsInAString\obj\Debug\net6.0\ref\01.CountCharsInAString.dll

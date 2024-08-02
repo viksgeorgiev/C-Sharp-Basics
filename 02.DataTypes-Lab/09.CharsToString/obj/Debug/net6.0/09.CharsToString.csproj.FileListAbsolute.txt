@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\09.CharsToString\bin\Debug\net6.0\09.CharsToString.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\09.CharsToString\bin\Debug\net6.0\09.CharsToString.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\09.CharsToString\bin\Debug\net6.0\09.CharsToString.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\09.CharsToString\bin\Debug\net6.0\09.CharsToString.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\09.CharsToString\bin\Debug\net6.0\09.CharsToString.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\09.CharsToString\obj\Debug\net6.0\09.CharsToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\09.CharsToString\obj\Debug\net6.0\09.CharsToString.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\09.CharsToString\obj\Debug\net6.0\09.CharsToString.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\09.CharsToString\obj\Debug\net6.0\09.CharsToString.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\09.CharsToString\obj\Debug\net6.0\09.CharsToString.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\09.CharsToString\obj\Debug\net6.0\refint\09.CharsToString.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\09.CharsToString\obj\Debug\net6.0\09.CharsToString.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\09.CharsToString\obj\Debug\net6.0\09.CharsToString.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\09.CharsToString\obj\Debug\net6.0\ref\09.CharsToString.dll

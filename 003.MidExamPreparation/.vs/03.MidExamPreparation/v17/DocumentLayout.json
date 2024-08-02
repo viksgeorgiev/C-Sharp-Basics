@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.MidExamPreparation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E29ED6E4-A1F2-42B3-A94B-0922D3BFD6D7}|03.Numbers\\03.Numbers.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\03.midexampreparation\\03.numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E29ED6E4-A1F2-42B3-A94B-0922D3BFD6D7}|03.Numbers\\03.Numbers.csproj|solutionrelative:03.numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B006667F-87D1-40E4-AED5-B8B5872875CA}|02.ArrayModifier\\02.ArrayModifier.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\03.midexampreparation\\02.arraymodifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B006667F-87D1-40E4-AED5-B8B5872875CA}|02.ArrayModifier\\02.ArrayModifier.csproj|solutionrelative:02.arraymodifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DB7F57-6D8F-4E17-8117-0AB01A2EB334}|01.SoftUniReception\\01.SoftUniReception.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\03.midexampreparation\\01.softunireception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DB7F57-6D8F-4E17-8117-0AB01A2EB334}|01.SoftUniReception\\01.SoftUniReception.csproj|solutionrelative:01.softunireception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.MidExamPreparation\\03.Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "03.Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.MidExamPreparation\\03.Numbers\\Program.cs",
+              "RelativeToolTip": "03.Numbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T22:14:21.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.MidExamPreparation\\02.ArrayModifier\\Program.cs",
+              "RelativeDocumentMoniker": "02.ArrayModifier\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.MidExamPreparation\\02.ArrayModifier\\Program.cs",
+              "RelativeToolTip": "02.ArrayModifier\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvyUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T21:42:04.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.MidExamPreparation\\01.SoftUniReception\\Program.cs",
+              "RelativeDocumentMoniker": "01.SoftUniReception\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.MidExamPreparation\\01.SoftUniReception\\Program.cs",
+              "RelativeToolTip": "01.SoftUniReception\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T21:25:09.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

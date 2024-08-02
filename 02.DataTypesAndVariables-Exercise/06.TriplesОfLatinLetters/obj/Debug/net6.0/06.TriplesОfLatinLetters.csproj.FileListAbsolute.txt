@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\06.TriplesОfLatinLetters\bin\Debug\net6.0\06.TriplesОfLatinLetters.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\06.TriplesОfLatinLetters\bin\Debug\net6.0\06.TriplesОfLatinLetters.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\06.TriplesОfLatinLetters\bin\Debug\net6.0\06.TriplesОfLatinLetters.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\06.TriplesОfLatinLetters\bin\Debug\net6.0\06.TriplesОfLatinLetters.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\06.TriplesОfLatinLetters\bin\Debug\net6.0\06.TriplesОfLatinLetters.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\06.TriplesОfLatinLetters\obj\Debug\net6.0\06.TriplesОfLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\06.TriplesОfLatinLetters\obj\Debug\net6.0\06.TriplesОfLatinLetters.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\06.TriplesОfLatinLetters\obj\Debug\net6.0\06.TriplesОfLatinLetters.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\06.TriplesОfLatinLetters\obj\Debug\net6.0\06.TriplesОfLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\06.TriplesОfLatinLetters\obj\Debug\net6.0\06.TriplesОfLatinLetters.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\06.TriplesОfLatinLetters\obj\Debug\net6.0\refint\06.TriplesОfLatinLetters.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\06.TriplesОfLatinLetters\obj\Debug\net6.0\06.TriplesОfLatinLetters.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\06.TriplesОfLatinLetters\obj\Debug\net6.0\06.TriplesОfLatinLetters.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypesAndVariables-Exercise\06.TriplesОfLatinLetters\obj\Debug\net6.0\ref\06.TriplesОfLatinLetters.dll

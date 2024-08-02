@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.MidExamPreparation\01.BlackFlag\bin\Debug\net6.0\01.BlackFlag.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.MidExamPreparation\01.BlackFlag\bin\Debug\net6.0\01.BlackFlag.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.MidExamPreparation\01.BlackFlag\bin\Debug\net6.0\01.BlackFlag.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.MidExamPreparation\01.BlackFlag\bin\Debug\net6.0\01.BlackFlag.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.MidExamPreparation\01.BlackFlag\bin\Debug\net6.0\01.BlackFlag.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.MidExamPreparation\01.BlackFlag\obj\Debug\net6.0\01.BlackFlag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.MidExamPreparation\01.BlackFlag\obj\Debug\net6.0\01.BlackFlag.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.MidExamPreparation\01.BlackFlag\obj\Debug\net6.0\01.BlackFlag.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.MidExamPreparation\01.BlackFlag\obj\Debug\net6.0\01.BlackFlag.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.MidExamPreparation\01.BlackFlag\obj\Debug\net6.0\01.BlackFlag.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.MidExamPreparation\01.BlackFlag\obj\Debug\net6.0\refint\01.BlackFlag.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.MidExamPreparation\01.BlackFlag\obj\Debug\net6.0\01.BlackFlag.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.MidExamPreparation\01.BlackFlag\obj\Debug\net6.0\01.BlackFlag.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.MidExamPreparation\01.BlackFlag\obj\Debug\net6.0\ref\01.BlackFlag.dll

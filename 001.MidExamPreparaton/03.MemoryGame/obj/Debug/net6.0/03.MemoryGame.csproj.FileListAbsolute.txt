@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.MidExamPreparaton\03.MemoryGame\bin\Debug\net6.0\03.MemoryGame.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.MidExamPreparaton\03.MemoryGame\bin\Debug\net6.0\03.MemoryGame.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.MidExamPreparaton\03.MemoryGame\bin\Debug\net6.0\03.MemoryGame.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.MidExamPreparaton\03.MemoryGame\bin\Debug\net6.0\03.MemoryGame.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.MidExamPreparaton\03.MemoryGame\bin\Debug\net6.0\03.MemoryGame.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.MidExamPreparaton\03.MemoryGame\obj\Debug\net6.0\03.MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.MidExamPreparaton\03.MemoryGame\obj\Debug\net6.0\03.MemoryGame.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.MidExamPreparaton\03.MemoryGame\obj\Debug\net6.0\03.MemoryGame.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.MidExamPreparaton\03.MemoryGame\obj\Debug\net6.0\03.MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.MidExamPreparaton\03.MemoryGame\obj\Debug\net6.0\03.MemoryGame.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.MidExamPreparaton\03.MemoryGame\obj\Debug\net6.0\refint\03.MemoryGame.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.MidExamPreparaton\03.MemoryGame\obj\Debug\net6.0\03.MemoryGame.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.MidExamPreparaton\03.MemoryGame\obj\Debug\net6.0\03.MemoryGame.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.MidExamPreparaton\03.MemoryGame\obj\Debug\net6.0\ref\03.MemoryGame.dll

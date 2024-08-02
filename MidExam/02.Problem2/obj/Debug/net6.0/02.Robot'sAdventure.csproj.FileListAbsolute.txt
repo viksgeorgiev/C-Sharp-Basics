@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\02.Problem2\bin\Debug\net6.0\02.Robot'sAdventure.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\02.Problem2\bin\Debug\net6.0\02.Robot'sAdventure.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\02.Problem2\bin\Debug\net6.0\02.Robot'sAdventure.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\02.Problem2\bin\Debug\net6.0\02.Robot'sAdventure.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\02.Problem2\bin\Debug\net6.0\02.Robot'sAdventure.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\02.Problem2\obj\Debug\net6.0\02.Robot'sAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\02.Problem2\obj\Debug\net6.0\02.Robot'sAdventure.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\02.Problem2\obj\Debug\net6.0\02.Robot'sAdventure.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\02.Problem2\obj\Debug\net6.0\02.Robot'sAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\02.Problem2\obj\Debug\net6.0\02.Robot'sAdventure.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\02.Problem2\obj\Debug\net6.0\refint\02.Robot'sAdventure.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\02.Problem2\obj\Debug\net6.0\02.Robot'sAdventure.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\02.Problem2\obj\Debug\net6.0\02.Robot'sAdventure.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\02.Problem2\obj\Debug\net6.0\ref\02.Robot'sAdventure.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.MidExamPreparation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59AC9139-ECE9-4EFD-94F0-822401F951A0}|03.HeartDelivery\\03.HeartDelivery.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\05.midexampreparation\\03.heartdelivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AC9139-ECE9-4EFD-94F0-822401F951A0}|03.HeartDelivery\\03.HeartDelivery.csproj|solutionrelative:03.heartdelivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82653194-8D46-4A68-8326-9B786EEFF62E}|02.ShoppingList\\02.ShoppingList.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\05.midexampreparation\\02.shoppinglist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82653194-8D46-4A68-8326-9B786EEFF62E}|02.ShoppingList\\02.ShoppingList.csproj|solutionrelative:02.shoppinglist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B03835-C6F2-42D3-B738-2D9AB9BBAA26}|01.Guinea Pig\\01.Guinea Pig.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\05.midexampreparation\\01.guinea pig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B03835-C6F2-42D3-B738-2D9AB9BBAA26}|01.Guinea Pig\\01.Guinea Pig.csproj|solutionrelative:01.guinea pig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.MidExamPreparation\\03.HeartDelivery\\Program.cs",
+              "RelativeDocumentMoniker": "03.HeartDelivery\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.MidExamPreparation\\03.HeartDelivery\\Program.cs",
+              "RelativeToolTip": "03.HeartDelivery\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAADwvzQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:25:10.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.MidExamPreparation\\02.ShoppingList\\Program.cs",
+              "RelativeDocumentMoniker": "02.ShoppingList\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.MidExamPreparation\\02.ShoppingList\\Program.cs",
+              "RelativeToolTip": "02.ShoppingList\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAswDQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:08:27.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.MidExamPreparation\\01.Guinea Pig\\Program.cs",
+              "RelativeDocumentMoniker": "01.Guinea Pig\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\05.MidExamPreparation\\01.Guinea Pig\\Program.cs",
+              "RelativeToolTip": "01.Guinea Pig\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvyEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T23:35:51.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

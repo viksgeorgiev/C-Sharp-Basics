@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\03.TreasureFinder\bin\Debug\net6.0\03.TreasureFinder.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\03.TreasureFinder\bin\Debug\net6.0\03.TreasureFinder.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\03.TreasureFinder\bin\Debug\net6.0\03.TreasureFinder.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\03.TreasureFinder\bin\Debug\net6.0\03.TreasureFinder.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\03.TreasureFinder\bin\Debug\net6.0\03.TreasureFinder.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\03.TreasureFinder\obj\Debug\net6.0\03.TreasureFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\03.TreasureFinder\obj\Debug\net6.0\03.TreasureFinder.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\03.TreasureFinder\obj\Debug\net6.0\03.TreasureFinder.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\03.TreasureFinder\obj\Debug\net6.0\03.TreasureFinder.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\03.TreasureFinder\obj\Debug\net6.0\03.TreasureFinder.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\03.TreasureFinder\obj\Debug\net6.0\refint\03.TreasureFinder.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\03.TreasureFinder\obj\Debug\net6.0\03.TreasureFinder.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\03.TreasureFinder\obj\Debug\net6.0\03.TreasureFinder.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\03.TreasureFinder\obj\Debug\net6.0\ref\03.TreasureFinder.dll

@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\10.RageExpenses\bin\Debug\net6.0\10.RageExpenses.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\10.RageExpenses\bin\Debug\net6.0\10.RageExpenses.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\10.RageExpenses\bin\Debug\net6.0\10.RageExpenses.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\10.RageExpenses\bin\Debug\net6.0\10.RageExpenses.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\10.RageExpenses\bin\Debug\net6.0\10.RageExpenses.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\10.RageExpenses\obj\Debug\net6.0\10.RageExpenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\10.RageExpenses\obj\Debug\net6.0\10.RageExpenses.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\10.RageExpenses\obj\Debug\net6.0\10.RageExpenses.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\10.RageExpenses\obj\Debug\net6.0\10.RageExpenses.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\10.RageExpenses\obj\Debug\net6.0\10.RageExpenses.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\10.RageExpenses\obj\Debug\net6.0\refint\10.RageExpenses.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\10.RageExpenses\obj\Debug\net6.0\10.RageExpenses.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\10.RageExpenses\obj\Debug\net6.0\10.RageExpenses.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\10.RageExpenses\obj\Debug\net6.0\ref\10.RageExpenses.dll

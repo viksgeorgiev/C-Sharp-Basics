@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\02.DestinationMapper\bin\Debug\net6.0\02.DestinationMapper.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\02.DestinationMapper\bin\Debug\net6.0\02.DestinationMapper.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\02.DestinationMapper\bin\Debug\net6.0\02.DestinationMapper.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\02.DestinationMapper\bin\Debug\net6.0\02.DestinationMapper.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\02.DestinationMapper\bin\Debug\net6.0\02.DestinationMapper.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\02.DestinationMapper\obj\Debug\net6.0\02.DestinationMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\02.DestinationMapper\obj\Debug\net6.0\02.DestinationMapper.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\02.DestinationMapper\obj\Debug\net6.0\02.DestinationMapper.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\02.DestinationMapper\obj\Debug\net6.0\02.DestinationMapper.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\02.DestinationMapper\obj\Debug\net6.0\02.DestinationMapper.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\02.DestinationMapper\obj\Debug\net6.0\refint\02.DestinationMapper.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\02.DestinationMapper\obj\Debug\net6.0\02.DestinationMapper.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\02.DestinationMapper\obj\Debug\net6.0\02.DestinationMapper.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\02.DestinationMapper\obj\Debug\net6.0\ref\02.DestinationMapper.dll

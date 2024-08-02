@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\01.ReverseNumberArray\bin\Debug\net6.0\01.ReverseNumberArray.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\01.ReverseNumberArray\bin\Debug\net6.0\01.ReverseNumberArray.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\01.ReverseNumberArray\bin\Debug\net6.0\01.ReverseNumberArray.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\01.ReverseNumberArray\bin\Debug\net6.0\01.ReverseNumberArray.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\01.ReverseNumberArray\bin\Debug\net6.0\01.ReverseNumberArray.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\01.ReverseNumberArray\obj\Debug\net6.0\01.ReverseNumberArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\01.ReverseNumberArray\obj\Debug\net6.0\01.ReverseNumberArray.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\01.ReverseNumberArray\obj\Debug\net6.0\01.ReverseNumberArray.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\01.ReverseNumberArray\obj\Debug\net6.0\01.ReverseNumberArray.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\01.ReverseNumberArray\obj\Debug\net6.0\01.ReverseNumberArray.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\01.ReverseNumberArray\obj\Debug\net6.0\refint\01.ReverseNumberArray.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\01.ReverseNumberArray\obj\Debug\net6.0\01.ReverseNumberArray.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\01.ReverseNumberArray\obj\Debug\net6.0\01.ReverseNumberArray.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\01.ReverseNumberArray\obj\Debug\net6.0\ref\01.ReverseNumberArray.dll

@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\03.Problem3\bin\Debug\net6.0\03.TheAngryCat.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\03.Problem3\bin\Debug\net6.0\03.TheAngryCat.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\03.Problem3\bin\Debug\net6.0\03.TheAngryCat.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\03.Problem3\bin\Debug\net6.0\03.TheAngryCat.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\03.Problem3\bin\Debug\net6.0\03.TheAngryCat.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\03.Problem3\obj\Debug\net6.0\03.TheAngryCat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\03.Problem3\obj\Debug\net6.0\03.TheAngryCat.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\03.Problem3\obj\Debug\net6.0\03.TheAngryCat.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\03.Problem3\obj\Debug\net6.0\03.TheAngryCat.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\03.Problem3\obj\Debug\net6.0\03.TheAngryCat.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\03.Problem3\obj\Debug\net6.0\refint\03.TheAngryCat.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\03.Problem3\obj\Debug\net6.0\03.TheAngryCat.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\03.Problem3\obj\Debug\net6.0\03.TheAngryCat.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\MidExam\03.Problem3\obj\Debug\net6.0\ref\03.TheAngryCat.dll

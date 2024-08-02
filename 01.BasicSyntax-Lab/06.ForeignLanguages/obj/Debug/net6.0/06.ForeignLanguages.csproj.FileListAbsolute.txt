@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\06.ForeignLanguages\bin\Debug\net6.0\06.ForeignLanguages.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\06.ForeignLanguages\bin\Debug\net6.0\06.ForeignLanguages.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\06.ForeignLanguages\bin\Debug\net6.0\06.ForeignLanguages.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\06.ForeignLanguages\bin\Debug\net6.0\06.ForeignLanguages.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\06.ForeignLanguages\bin\Debug\net6.0\06.ForeignLanguages.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\06.ForeignLanguages\obj\Debug\net6.0\06.ForeignLanguages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\06.ForeignLanguages\obj\Debug\net6.0\06.ForeignLanguages.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\06.ForeignLanguages\obj\Debug\net6.0\06.ForeignLanguages.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\06.ForeignLanguages\obj\Debug\net6.0\06.ForeignLanguages.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\06.ForeignLanguages\obj\Debug\net6.0\06.ForeignLanguages.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\06.ForeignLanguages\obj\Debug\net6.0\refint\06.ForeignLanguages.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\06.ForeignLanguages\obj\Debug\net6.0\06.ForeignLanguages.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\06.ForeignLanguages\obj\Debug\net6.0\06.ForeignLanguages.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\06.ForeignLanguages\obj\Debug\net6.0\ref\06.ForeignLanguages.dll

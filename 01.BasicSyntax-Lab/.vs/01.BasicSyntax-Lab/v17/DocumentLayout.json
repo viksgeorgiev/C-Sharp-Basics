@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{713A8520-8ECA-486C-8C5F-BCB2F17EE7B4}|13.HolidaysBetweenTwoDates\\13.HolidaysBetweenTwoDates.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.basicsyntax-lab\\13.holidaysbetweentwodates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713A8520-8ECA-486C-8C5F-BCB2F17EE7B4}|13.HolidaysBetweenTwoDates\\13.HolidaysBetweenTwoDates.csproj|solutionrelative:13.holidaysbetweentwodates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7332B27E-71E5-4ACF-A9FB-4578A224DDF5}|12.EvenNumber\\12.EvenNumber.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.basicsyntax-lab\\12.evennumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7332B27E-71E5-4ACF-A9FB-4578A224DDF5}|12.EvenNumber\\12.EvenNumber.csproj|solutionrelative:12.evennumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8882630A-A3BA-4E3F-BF71-A0F54187290E}|11.MultiplicationTable2.0\\11.MultiplicationTable2.0.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.basicsyntax-lab\\11.multiplicationtable2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8882630A-A3BA-4E3F-BF71-A0F54187290E}|11.MultiplicationTable2.0\\11.MultiplicationTable2.0.csproj|solutionrelative:11.multiplicationtable2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A064F696-1BA6-4698-BCC9-7C2B6AF7CBE3}|10.MultiplicationTable\\10.MultiplicationTable.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.basicsyntax-lab\\10.multiplicationtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A064F696-1BA6-4698-BCC9-7C2B6AF7CBE3}|10.MultiplicationTable\\10.MultiplicationTable.csproj|solutionrelative:10.multiplicationtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E7F1BC-B899-4DE7-B3CE-41A6AFF721D1}|09.SumOfOddNumbers\\09.SumOfOddNumbers.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.basicsyntax-lab\\09.sumofoddnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E7F1BC-B899-4DE7-B3CE-41A6AFF721D1}|09.SumOfOddNumbers\\09.SumOfOddNumbers.csproj|solutionrelative:09.sumofoddnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91969D8E-65DB-4BDE-A41C-FDC4EDC315B5}|07.TheatrePromotion\\07.TheatrePromotion.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.basicsyntax-lab\\07.theatrepromotion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91969D8E-65DB-4BDE-A41C-FDC4EDC315B5}|07.TheatrePromotion\\07.TheatrePromotion.csproj|solutionrelative:07.theatrepromotion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1313822-0473-44B1-87EE-88783EC9D4EE}|06.ForeignLanguages\\06.ForeignLanguages.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.basicsyntax-lab\\06.foreignlanguages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1313822-0473-44B1-87EE-88783EC9D4EE}|06.ForeignLanguages\\06.ForeignLanguages.csproj|solutionrelative:06.foreignlanguages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28356B1F-023D-4F61-9422-9E41D7EE5A2E}|05.MonthPrinter\\05.MonthPrinter.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.basicsyntax-lab\\05.monthprinter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28356B1F-023D-4F61-9422-9E41D7EE5A2E}|05.MonthPrinter\\05.MonthPrinter.csproj|solutionrelative:05.monthprinter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44574182-AD39-4BC4-9444-83A4FDF0AFDA}|04.BackIn30Minutes\\04.BackIn30Minutes.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.basicsyntax-lab\\04.backin30minutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44574182-AD39-4BC4-9444-83A4FDF0AFDA}|04.BackIn30Minutes\\04.BackIn30Minutes.csproj|solutionrelative:04.backin30minutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C2FF4F-E738-4173-9E8F-086329CFD75A}|03.PassedOrFailed\\03.PassedOrFailed.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.basicsyntax-lab\\03.passedorfailed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C2FF4F-E738-4173-9E8F-086329CFD75A}|03.PassedOrFailed\\03.PassedOrFailed.csproj|solutionrelative:03.passedorfailed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F651708-706F-4E3D-B1AF-E5BD1225F2E7}|02.Passed\\02.Passed.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.basicsyntax-lab\\02.passed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F651708-706F-4E3D-B1AF-E5BD1225F2E7}|02.Passed\\02.Passed.csproj|solutionrelative:02.passed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B8C942-D59A-46C9-AE70-E642A9668E61}|01.StudentInformation\\01.StudentInformation.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.basicsyntax-lab\\01.studentinformation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B8C942-D59A-46C9-AE70-E642A9668E61}|01.StudentInformation\\01.StudentInformation.csproj|solutionrelative:01.studentinformation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834AE66C-1FA0-4D90-8638-4FE56224568C}|8.DivisibleBy3\\08.DivisibleBy3.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.basicsyntax-lab\\8.divisibleby3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834AE66C-1FA0-4D90-8638-4FE56224568C}|8.DivisibleBy3\\08.DivisibleBy3.csproj|solutionrelative:8.divisibleby3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax-Lab\\13.HolidaysBetweenTwoDates\\Program.cs",
+              "RelativeDocumentMoniker": "13.HolidaysBetweenTwoDates\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax-Lab\\13.HolidaysBetweenTwoDates\\Program.cs",
+              "RelativeToolTip": "13.HolidaysBetweenTwoDates\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwBcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T12:23:26.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax-Lab\\12.EvenNumber\\Program.cs",
+              "RelativeDocumentMoniker": "12.EvenNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax-Lab\\12.EvenNumber\\Program.cs",
+              "RelativeToolTip": "12.EvenNumber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T12:19:04.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax-Lab\\11.MultiplicationTable2.0\\Program.cs",
+              "RelativeDocumentMoniker": "11.MultiplicationTable2.0\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax-Lab\\11.MultiplicationTable2.0\\Program.cs",
+              "RelativeToolTip": "11.MultiplicationTable2.0\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T12:14:26.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax-Lab\\10.MultiplicationTable\\Program.cs",
+              "RelativeDocumentMoniker": "10.MultiplicationTable\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax-Lab\\10.MultiplicationTable\\Program.cs",
+              "RelativeToolTip": "10.MultiplicationTable\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T12:10:24.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax-Lab\\09.SumOfOddNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "09.SumOfOddNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax-Lab\\09.SumOfOddNumbers\\Program.cs",
+              "RelativeToolTip": "09.SumOfOddNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T11:32:24.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax-Lab\\8.DivisibleBy3\\Program.cs",
+              "RelativeDocumentMoniker": "8.DivisibleBy3\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax-Lab\\8.DivisibleBy3\\Program.cs",
+              "RelativeToolTip": "8.DivisibleBy3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T11:06:42.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax-Lab\\07.TheatrePromotion\\Program.cs",
+              "RelativeDocumentMoniker": "07.TheatrePromotion\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax-Lab\\07.TheatrePromotion\\Program.cs",
+              "RelativeToolTip": "07.TheatrePromotion\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAmwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T10:56:16.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax-Lab\\06.ForeignLanguages\\Program.cs",
+              "RelativeDocumentMoniker": "06.ForeignLanguages\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax-Lab\\06.ForeignLanguages\\Program.cs",
+              "RelativeToolTip": "06.ForeignLanguages\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T10:38:32.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax-Lab\\05.MonthPrinter\\Program.cs",
+              "RelativeDocumentMoniker": "05.MonthPrinter\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax-Lab\\05.MonthPrinter\\Program.cs",
+              "RelativeToolTip": "05.MonthPrinter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T10:33:21.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax-Lab\\04.BackIn30Minutes\\Program.cs",
+              "RelativeDocumentMoniker": "04.BackIn30Minutes\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax-Lab\\04.BackIn30Minutes\\Program.cs",
+              "RelativeToolTip": "04.BackIn30Minutes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T10:23:01.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax-Lab\\03.PassedOrFailed\\Program.cs",
+              "RelativeDocumentMoniker": "03.PassedOrFailed\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax-Lab\\03.PassedOrFailed\\Program.cs",
+              "RelativeToolTip": "03.PassedOrFailed\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T10:20:40.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax-Lab\\02.Passed\\Program.cs",
+              "RelativeDocumentMoniker": "02.Passed\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax-Lab\\02.Passed\\Program.cs",
+              "RelativeToolTip": "02.Passed\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T10:16:36.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax-Lab\\01.StudentInformation\\Program.cs",
+              "RelativeDocumentMoniker": "01.StudentInformation\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.BasicSyntax-Lab\\01.StudentInformation\\Program.cs",
+              "RelativeToolTip": "01.StudentInformation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:03:01.116Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

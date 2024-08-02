@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\B02.MirrorWords\bin\Debug\net6.0\B02.MirrorWords.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\B02.MirrorWords\bin\Debug\net6.0\B02.MirrorWords.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\B02.MirrorWords\bin\Debug\net6.0\B02.MirrorWords.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\B02.MirrorWords\bin\Debug\net6.0\B02.MirrorWords.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\B02.MirrorWords\bin\Debug\net6.0\B02.MirrorWords.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\B02.MirrorWords\obj\Debug\net6.0\B02.MirrorWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\B02.MirrorWords\obj\Debug\net6.0\B02.MirrorWords.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\B02.MirrorWords\obj\Debug\net6.0\B02.MirrorWords.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\B02.MirrorWords\obj\Debug\net6.0\B02.MirrorWords.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\B02.MirrorWords\obj\Debug\net6.0\B02.MirrorWords.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\B02.MirrorWords\obj\Debug\net6.0\refint\B02.MirrorWords.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\B02.MirrorWords\obj\Debug\net6.0\B02.MirrorWords.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\B02.MirrorWords\obj\Debug\net6.0\B02.MirrorWords.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\B02.MirrorWords\obj\Debug\net6.0\ref\B02.MirrorWords.dll

@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\01.SmallestOfThreeNumbers\bin\Debug\net6.0\01.SmallestOfThreeNumbers.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\01.SmallestOfThreeNumbers\bin\Debug\net6.0\01.SmallestOfThreeNumbers.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\01.SmallestOfThreeNumbers\bin\Debug\net6.0\01.SmallestOfThreeNumbers.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\01.SmallestOfThreeNumbers\bin\Debug\net6.0\01.SmallestOfThreeNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\01.SmallestOfThreeNumbers\bin\Debug\net6.0\01.SmallestOfThreeNumbers.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\01.SmallestOfThreeNumbers\obj\Debug\net6.0\01.SmallestOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\01.SmallestOfThreeNumbers\obj\Debug\net6.0\01.SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\01.SmallestOfThreeNumbers\obj\Debug\net6.0\01.SmallestOfThreeNumbers.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\01.SmallestOfThreeNumbers\obj\Debug\net6.0\01.SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\01.SmallestOfThreeNumbers\obj\Debug\net6.0\01.SmallestOfThreeNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\01.SmallestOfThreeNumbers\obj\Debug\net6.0\refint\01.SmallestOfThreeNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\01.SmallestOfThreeNumbers\obj\Debug\net6.0\01.SmallestOfThreeNumbers.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\01.SmallestOfThreeNumbers\obj\Debug\net6.0\01.SmallestOfThreeNumbers.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\01.SmallestOfThreeNumbers\obj\Debug\net6.0\ref\01.SmallestOfThreeNumbers.dll

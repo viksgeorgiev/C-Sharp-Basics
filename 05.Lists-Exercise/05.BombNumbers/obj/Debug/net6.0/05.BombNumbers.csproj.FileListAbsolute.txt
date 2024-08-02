@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\05.BombNumbers\bin\Debug\net6.0\05.BombNumbers.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\05.BombNumbers\bin\Debug\net6.0\05.BombNumbers.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\05.BombNumbers\bin\Debug\net6.0\05.BombNumbers.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\05.BombNumbers\bin\Debug\net6.0\05.BombNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\05.BombNumbers\bin\Debug\net6.0\05.BombNumbers.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\05.BombNumbers\obj\Debug\net6.0\05.BombNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\05.BombNumbers\obj\Debug\net6.0\05.BombNumbers.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\05.BombNumbers\obj\Debug\net6.0\05.BombNumbers.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\05.BombNumbers\obj\Debug\net6.0\05.BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\05.BombNumbers\obj\Debug\net6.0\05.BombNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\05.BombNumbers\obj\Debug\net6.0\refint\05.BombNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\05.BombNumbers\obj\Debug\net6.0\05.BombNumbers.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\05.BombNumbers\obj\Debug\net6.0\05.BombNumbers.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\05.BombNumbers\obj\Debug\net6.0\ref\05.BombNumbers.dll

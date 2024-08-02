@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.Array-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BF7983-FF02-476D-B04D-9FE0A84649F1}|08.CondenseArrayToNumber\\08.CondenseArrayToNumber.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\03.array-lab\\08.condensearraytonumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BF7983-FF02-476D-B04D-9FE0A84649F1}|08.CondenseArrayToNumber\\08.CondenseArrayToNumber.csproj|solutionrelative:08.condensearraytonumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8D2962-630B-44F2-9B3B-6C7620501F87}|07.EqualArrays\\07.EqualArrays.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\03.array-lab\\07.equalarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8D2962-630B-44F2-9B3B-6C7620501F87}|07.EqualArrays\\07.EqualArrays.csproj|solutionrelative:07.equalarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF7430C-2FF9-47C1-9F79-860A203721E6}|05.SumEvenNumbers\\05.SumEvenNumbers.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\03.array-lab\\05.sumevennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF7430C-2FF9-47C1-9F79-860A203721E6}|05.SumEvenNumbers\\05.SumEvenNumbers.csproj|solutionrelative:05.sumevennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6069BC-1167-478C-9E80-E94141351AF1}|06.EvenAndOddSubtraction\\06.EvenAndOddSubtraction.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\03.array-lab\\06.evenandoddsubtraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6069BC-1167-478C-9E80-E94141351AF1}|06.EvenAndOddSubtraction\\06.EvenAndOddSubtraction.csproj|solutionrelative:06.evenandoddsubtraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4628472B-7D2A-4743-B89B-38BC6527F618}|03.RoundingNumbers\\03.RoundingNumbers.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\03.array-lab\\03.roundingnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4628472B-7D2A-4743-B89B-38BC6527F618}|03.RoundingNumbers\\03.RoundingNumbers.csproj|solutionrelative:03.roundingnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE0621C7-B41C-4A4B-BAA9-7D09941EE680}|04.ReverseArrayOfStrings\\04.ReverseArrayOfStrings.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\03.array-lab\\04.reversearrayofstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE0621C7-B41C-4A4B-BAA9-7D09941EE680}|04.ReverseArrayOfStrings\\04.ReverseArrayOfStrings.csproj|solutionrelative:04.reversearrayofstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA0DB93-749E-4910-8AA0-F717327F4962}|02.PrintNumbersReverseOrder\\02.PrintNumbersReverseOrder.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\03.array-lab\\02.printnumbersreverseorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA0DB93-749E-4910-8AA0-F717327F4962}|02.PrintNumbersReverseOrder\\02.PrintNumbersReverseOrder.csproj|solutionrelative:02.printnumbersreverseorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825C5890-A962-4B8E-BB82-9926A5FF7D80}|01.DayOfWeek\\01.DayOfWeek.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\03.array-lab\\01.dayofweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825C5890-A962-4B8E-BB82-9926A5FF7D80}|01.DayOfWeek\\01.DayOfWeek.csproj|solutionrelative:01.dayofweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.Array-Lab\\08.CondenseArrayToNumber\\Program.cs",
+              "RelativeDocumentMoniker": "08.CondenseArrayToNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.Array-Lab\\08.CondenseArrayToNumber\\Program.cs",
+              "RelativeToolTip": "08.CondenseArrayToNumber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T16:15:59.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.Array-Lab\\07.EqualArrays\\Program.cs",
+              "RelativeDocumentMoniker": "07.EqualArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.Array-Lab\\07.EqualArrays\\Program.cs",
+              "RelativeToolTip": "07.EqualArrays\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:37:40.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.Array-Lab\\06.EvenAndOddSubtraction\\Program.cs",
+              "RelativeDocumentMoniker": "06.EvenAndOddSubtraction\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.Array-Lab\\06.EvenAndOddSubtraction\\Program.cs",
+              "RelativeToolTip": "06.EvenAndOddSubtraction\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:35:55.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.Array-Lab\\05.SumEvenNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "05.SumEvenNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.Array-Lab\\05.SumEvenNumbers\\Program.cs",
+              "RelativeToolTip": "05.SumEvenNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:31:26.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.Array-Lab\\04.ReverseArrayOfStrings\\Program.cs",
+              "RelativeDocumentMoniker": "04.ReverseArrayOfStrings\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.Array-Lab\\04.ReverseArrayOfStrings\\Program.cs",
+              "RelativeToolTip": "04.ReverseArrayOfStrings\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:28:50.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.Array-Lab\\03.RoundingNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "03.RoundingNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.Array-Lab\\03.RoundingNumbers\\Program.cs",
+              "RelativeToolTip": "03.RoundingNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:16:04.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.Array-Lab\\02.PrintNumbersReverseOrder\\Program.cs",
+              "RelativeDocumentMoniker": "02.PrintNumbersReverseOrder\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.Array-Lab\\02.PrintNumbersReverseOrder\\Program.cs",
+              "RelativeToolTip": "02.PrintNumbersReverseOrder\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:13:05.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.Array-Lab\\01.DayOfWeek\\Program.cs",
+              "RelativeDocumentMoniker": "01.DayOfWeek\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.Array-Lab\\01.DayOfWeek\\Program.cs",
+              "RelativeToolTip": "01.DayOfWeek\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:07:44.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

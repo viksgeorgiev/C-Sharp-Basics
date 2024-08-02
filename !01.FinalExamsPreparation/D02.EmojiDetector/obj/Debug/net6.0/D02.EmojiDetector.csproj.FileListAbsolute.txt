@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\D02.EmojiDetector\bin\Debug\net6.0\D02.EmojiDetector.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\D02.EmojiDetector\bin\Debug\net6.0\D02.EmojiDetector.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\D02.EmojiDetector\bin\Debug\net6.0\D02.EmojiDetector.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\D02.EmojiDetector\bin\Debug\net6.0\D02.EmojiDetector.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\D02.EmojiDetector\bin\Debug\net6.0\D02.EmojiDetector.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\D02.EmojiDetector\obj\Debug\net6.0\D02.EmojiDetector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\D02.EmojiDetector\obj\Debug\net6.0\D02.EmojiDetector.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\D02.EmojiDetector\obj\Debug\net6.0\D02.EmojiDetector.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\D02.EmojiDetector\obj\Debug\net6.0\D02.EmojiDetector.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\D02.EmojiDetector\obj\Debug\net6.0\D02.EmojiDetector.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\D02.EmojiDetector\obj\Debug\net6.0\refint\D02.EmojiDetector.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\D02.EmojiDetector\obj\Debug\net6.0\D02.EmojiDetector.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\D02.EmojiDetector\obj\Debug\net6.0\D02.EmojiDetector.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\D02.EmojiDetector\obj\Debug\net6.0\ref\D02.EmojiDetector.dll

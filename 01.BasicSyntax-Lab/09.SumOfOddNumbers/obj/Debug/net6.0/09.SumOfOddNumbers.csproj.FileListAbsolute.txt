@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\09.SumOfOddNumbers\bin\Debug\net6.0\09.SumOfOddNumbers.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\09.SumOfOddNumbers\bin\Debug\net6.0\09.SumOfOddNumbers.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\09.SumOfOddNumbers\bin\Debug\net6.0\09.SumOfOddNumbers.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\09.SumOfOddNumbers\bin\Debug\net6.0\09.SumOfOddNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\09.SumOfOddNumbers\bin\Debug\net6.0\09.SumOfOddNumbers.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\09.SumOfOddNumbers\obj\Debug\net6.0\09.SumOfOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\09.SumOfOddNumbers\obj\Debug\net6.0\09.SumOfOddNumbers.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\09.SumOfOddNumbers\obj\Debug\net6.0\09.SumOfOddNumbers.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\09.SumOfOddNumbers\obj\Debug\net6.0\09.SumOfOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\09.SumOfOddNumbers\obj\Debug\net6.0\09.SumOfOddNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\09.SumOfOddNumbers\obj\Debug\net6.0\refint\09.SumOfOddNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\09.SumOfOddNumbers\obj\Debug\net6.0\09.SumOfOddNumbers.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\09.SumOfOddNumbers\obj\Debug\net6.0\09.SumOfOddNumbers.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\09.SumOfOddNumbers\obj\Debug\net6.0\ref\09.SumOfOddNumbers.dll

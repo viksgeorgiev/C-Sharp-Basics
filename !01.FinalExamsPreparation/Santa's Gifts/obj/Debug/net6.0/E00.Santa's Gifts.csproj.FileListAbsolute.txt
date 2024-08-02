@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\Santa's Gifts\bin\Debug\net6.0\E00.Santa's Gifts.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\Santa's Gifts\bin\Debug\net6.0\E00.Santa's Gifts.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\Santa's Gifts\bin\Debug\net6.0\E00.Santa's Gifts.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\Santa's Gifts\bin\Debug\net6.0\E00.Santa's Gifts.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\Santa's Gifts\bin\Debug\net6.0\E00.Santa's Gifts.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\Santa's Gifts\obj\Debug\net6.0\E00.Santa's Gifts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\Santa's Gifts\obj\Debug\net6.0\E00.Santa's Gifts.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\Santa's Gifts\obj\Debug\net6.0\E00.Santa's Gifts.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\Santa's Gifts\obj\Debug\net6.0\E00.Santa's Gifts.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\Santa's Gifts\obj\Debug\net6.0\E00.Santa's Gifts.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\Santa's Gifts\obj\Debug\net6.0\refint\E00.Santa's Gifts.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\Santa's Gifts\obj\Debug\net6.0\E00.Santa's Gifts.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\Santa's Gifts\obj\Debug\net6.0\E00.Santa's Gifts.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\Santa's Gifts\obj\Debug\net6.0\ref\E00.Santa's Gifts.dll

@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\02\bin\Debug\net6.0\02.EnglishNameOfTheLastDigit.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\02\bin\Debug\net6.0\02.EnglishNameOfTheLastDigit.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\02\bin\Debug\net6.0\02.EnglishNameOfTheLastDigit.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\02\bin\Debug\net6.0\02.EnglishNameOfTheLastDigit.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\02\bin\Debug\net6.0\02.EnglishNameOfTheLastDigit.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\02\obj\Debug\net6.0\02.EnglishNameOfTheLastDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\02\obj\Debug\net6.0\02.EnglishNameOfTheLastDigit.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\02\obj\Debug\net6.0\02.EnglishNameOfTheLastDigit.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\02\obj\Debug\net6.0\02.EnglishNameOfTheLastDigit.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\02\obj\Debug\net6.0\02.EnglishNameOfTheLastDigit.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\02\obj\Debug\net6.0\refint\02.EnglishNameOfTheLastDigit.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\02\obj\Debug\net6.0\02.EnglishNameOfTheLastDigit.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\02\obj\Debug\net6.0\02.EnglishNameOfTheLastDigit.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.1.BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\02\obj\Debug\net6.0\ref\02.EnglishNameOfTheLastDigit.dll

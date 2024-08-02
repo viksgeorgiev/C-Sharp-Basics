@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\07.VehicleCatalogue\bin\Debug\net6.0\07.VehicleCatalogue.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\07.VehicleCatalogue\bin\Debug\net6.0\07.VehicleCatalogue.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\07.VehicleCatalogue\bin\Debug\net6.0\07.VehicleCatalogue.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\07.VehicleCatalogue\bin\Debug\net6.0\07.VehicleCatalogue.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\07.VehicleCatalogue\bin\Debug\net6.0\07.VehicleCatalogue.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\net6.0\07.VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\net6.0\07.VehicleCatalogue.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\net6.0\07.VehicleCatalogue.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\net6.0\07.VehicleCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\net6.0\07.VehicleCatalogue.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\net6.0\refint\07.VehicleCatalogue.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\net6.0\07.VehicleCatalogue.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\net6.0\07.VehicleCatalogue.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\net6.0\ref\07.VehicleCatalogue.dll

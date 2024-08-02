@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.MidExamPreparation\02ShootForTheWin\bin\Debug\net6.0\02ShootForTheWin.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.MidExamPreparation\02ShootForTheWin\bin\Debug\net6.0\02ShootForTheWin.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.MidExamPreparation\02ShootForTheWin\bin\Debug\net6.0\02ShootForTheWin.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.MidExamPreparation\02ShootForTheWin\bin\Debug\net6.0\02ShootForTheWin.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.MidExamPreparation\02ShootForTheWin\bin\Debug\net6.0\02ShootForTheWin.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.MidExamPreparation\02ShootForTheWin\obj\Debug\net6.0\02ShootForTheWin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.MidExamPreparation\02ShootForTheWin\obj\Debug\net6.0\02ShootForTheWin.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.MidExamPreparation\02ShootForTheWin\obj\Debug\net6.0\02ShootForTheWin.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.MidExamPreparation\02ShootForTheWin\obj\Debug\net6.0\02ShootForTheWin.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.MidExamPreparation\02ShootForTheWin\obj\Debug\net6.0\02ShootForTheWin.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.MidExamPreparation\02ShootForTheWin\obj\Debug\net6.0\refint\02ShootForTheWin.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.MidExamPreparation\02ShootForTheWin\obj\Debug\net6.0\02ShootForTheWin.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.MidExamPreparation\02ShootForTheWin\obj\Debug\net6.0\02ShootForTheWin.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.MidExamPreparation\02ShootForTheWin\obj\Debug\net6.0\ref\02ShootForTheWin.dll

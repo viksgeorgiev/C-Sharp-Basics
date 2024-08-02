@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\11.MathOperations\obj\Debug\net6.0\11.MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\11.MathOperations\obj\Debug\net6.0\11.MathOperations.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\11.MathOperations\obj\Debug\net6.0\11.MathOperations.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\11.MathOperations\obj\Debug\net6.0\11.MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\11.MathOperations\bin\Debug\net6.0\11.MathOperations.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\11.MathOperations\bin\Debug\net6.0\11.MathOperations.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\11.MathOperations\bin\Debug\net6.0\11.MathOperations.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\11.MathOperations\bin\Debug\net6.0\11.MathOperations.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\11.MathOperations\bin\Debug\net6.0\11.MathOperations.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\11.MathOperations\obj\Debug\net6.0\11.MathOperations.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\11.MathOperations\obj\Debug\net6.0\refint\11.MathOperations.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\11.MathOperations\obj\Debug\net6.0\11.MathOperations.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\11.MathOperations\obj\Debug\net6.0\11.MathOperations.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\11.MathOperations\obj\Debug\net6.0\ref\11.MathOperations.dll

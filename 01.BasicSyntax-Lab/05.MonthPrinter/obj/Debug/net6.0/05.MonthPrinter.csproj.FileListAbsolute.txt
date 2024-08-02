@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\05.MonthPrinter\bin\Debug\net6.0\05.MonthPrinter.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\05.MonthPrinter\bin\Debug\net6.0\05.MonthPrinter.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\05.MonthPrinter\bin\Debug\net6.0\05.MonthPrinter.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\05.MonthPrinter\bin\Debug\net6.0\05.MonthPrinter.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\05.MonthPrinter\bin\Debug\net6.0\05.MonthPrinter.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\05.MonthPrinter\obj\Debug\net6.0\05.MonthPrinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\05.MonthPrinter\obj\Debug\net6.0\05.MonthPrinter.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\05.MonthPrinter\obj\Debug\net6.0\05.MonthPrinter.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\05.MonthPrinter\obj\Debug\net6.0\05.MonthPrinter.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\05.MonthPrinter\obj\Debug\net6.0\05.MonthPrinter.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\05.MonthPrinter\obj\Debug\net6.0\refint\05.MonthPrinter.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\05.MonthPrinter\obj\Debug\net6.0\05.MonthPrinter.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\05.MonthPrinter\obj\Debug\net6.0\05.MonthPrinter.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax-Lab\05.MonthPrinter\obj\Debug\net6.0\ref\05.MonthPrinter.dll

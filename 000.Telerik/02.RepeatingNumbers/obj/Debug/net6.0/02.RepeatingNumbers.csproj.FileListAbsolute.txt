@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\02.RepeatingNumbers\bin\Debug\net6.0\02.RepeatingNumbers.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\02.RepeatingNumbers\bin\Debug\net6.0\02.RepeatingNumbers.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\02.RepeatingNumbers\bin\Debug\net6.0\02.RepeatingNumbers.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\02.RepeatingNumbers\bin\Debug\net6.0\02.RepeatingNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\02.RepeatingNumbers\bin\Debug\net6.0\02.RepeatingNumbers.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\02.RepeatingNumbers\obj\Debug\net6.0\02.RepeatingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\02.RepeatingNumbers\obj\Debug\net6.0\02.RepeatingNumbers.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\02.RepeatingNumbers\obj\Debug\net6.0\02.RepeatingNumbers.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\02.RepeatingNumbers\obj\Debug\net6.0\02.RepeatingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\02.RepeatingNumbers\obj\Debug\net6.0\02.RepeatingNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\02.RepeatingNumbers\obj\Debug\net6.0\refint\02.RepeatingNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\02.RepeatingNumbers\obj\Debug\net6.0\02.RepeatingNumbers.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\02.RepeatingNumbers\obj\Debug\net6.0\02.RepeatingNumbers.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\000.Telerik\02.RepeatingNumbers\obj\Debug\net6.0\ref\02.RepeatingNumbers.dll

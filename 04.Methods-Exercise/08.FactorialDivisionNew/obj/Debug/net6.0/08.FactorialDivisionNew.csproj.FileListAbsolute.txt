@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\08.FactorialDivisionNew\bin\Debug\net6.0\08.FactorialDivisionNew.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\08.FactorialDivisionNew\bin\Debug\net6.0\08.FactorialDivisionNew.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\08.FactorialDivisionNew\bin\Debug\net6.0\08.FactorialDivisionNew.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\08.FactorialDivisionNew\bin\Debug\net6.0\08.FactorialDivisionNew.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\08.FactorialDivisionNew\bin\Debug\net6.0\08.FactorialDivisionNew.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\08.FactorialDivisionNew\obj\Debug\net6.0\08.FactorialDivisionNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\08.FactorialDivisionNew\obj\Debug\net6.0\08.FactorialDivisionNew.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\08.FactorialDivisionNew\obj\Debug\net6.0\08.FactorialDivisionNew.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\08.FactorialDivisionNew\obj\Debug\net6.0\08.FactorialDivisionNew.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\08.FactorialDivisionNew\obj\Debug\net6.0\08.FactorialDivisionNew.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\08.FactorialDivisionNew\obj\Debug\net6.0\refint\08.FactorialDivisionNew.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\08.FactorialDivisionNew\obj\Debug\net6.0\08.FactorialDivisionNew.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\08.FactorialDivisionNew\obj\Debug\net6.0\08.FactorialDivisionNew.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\08.FactorialDivisionNew\obj\Debug\net6.0\ref\08.FactorialDivisionNew.dll

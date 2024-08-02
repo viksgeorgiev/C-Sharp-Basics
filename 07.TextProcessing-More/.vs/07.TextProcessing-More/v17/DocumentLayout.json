@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\07.TextProcessing-More\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31FE3D41-389A-4488-967C-0AD0C0892FF3}|05.HTML\\05.HTML.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\07.textprocessing-more\\05.html\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FE3D41-389A-4488-967C-0AD0C0892FF3}|05.HTML\\05.HTML.csproj|solutionrelative:05.html\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CB68BC-5084-466C-B39A-B72254B4828D}|04.MorseCodeTranslator\\04.MorseCodeTranslator.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\07.textprocessing-more\\04.morsecodetranslator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CB68BC-5084-466C-B39A-B72254B4828D}|04.MorseCodeTranslator\\04.MorseCodeTranslator.csproj|solutionrelative:04.morsecodetranslator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFF2CDD-8994-4010-B270-B3C617C493A5}|03.TreasureFinder\\03.TreasureFinder.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\07.textprocessing-more\\03.treasurefinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFF2CDD-8994-4010-B270-B3C617C493A5}|03.TreasureFinder\\03.TreasureFinder.csproj|solutionrelative:03.treasurefinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0823896C-3BD1-47C7-ACFC-5EFA3030B62D}|01.ExtractPersonInformation\\01.ExtractPersonInformation.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\07.textprocessing-more\\01.extractpersoninformation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0823896C-3BD1-47C7-ACFC-5EFA3030B62D}|01.ExtractPersonInformation\\01.ExtractPersonInformation.csproj|solutionrelative:01.extractpersoninformation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135478D9-4E7A-49BA-B417-8602FE41219A}|02.AsciiSumator\\02.AsciiSumator.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\07.textprocessing-more\\02.asciisumator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135478D9-4E7A-49BA-B417-8602FE41219A}|02.AsciiSumator\\02.AsciiSumator.csproj|solutionrelative:02.asciisumator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\07.TextProcessing-More\\05.HTML\\Program.cs",
+              "RelativeDocumentMoniker": "05.HTML\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\07.TextProcessing-More\\05.HTML\\Program.cs",
+              "RelativeToolTip": "05.HTML\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwB4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:27:41.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\07.TextProcessing-More\\04.MorseCodeTranslator\\Program.cs",
+              "RelativeDocumentMoniker": "04.MorseCodeTranslator\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\07.TextProcessing-More\\04.MorseCodeTranslator\\Program.cs",
+              "RelativeToolTip": "04.MorseCodeTranslator\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:23:32.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\07.TextProcessing-More\\03.TreasureFinder\\Program.cs",
+              "RelativeDocumentMoniker": "03.TreasureFinder\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\07.TextProcessing-More\\03.TreasureFinder\\Program.cs",
+              "RelativeToolTip": "03.TreasureFinder\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwBYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:07:45.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\07.TextProcessing-More\\02.AsciiSumator\\Program.cs",
+              "RelativeDocumentMoniker": "02.AsciiSumator\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\07.TextProcessing-More\\02.AsciiSumator\\Program.cs",
+              "RelativeToolTip": "02.AsciiSumator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:37:03.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\07.TextProcessing-More\\01.ExtractPersonInformation\\Program.cs",
+              "RelativeDocumentMoniker": "01.ExtractPersonInformation\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\07.TextProcessing-More\\01.ExtractPersonInformation\\Program.cs",
+              "RelativeToolTip": "01.ExtractPersonInformation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:00:31.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

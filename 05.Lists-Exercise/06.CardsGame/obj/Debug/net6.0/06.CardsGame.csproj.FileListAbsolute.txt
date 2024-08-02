@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\06.CardsGame\bin\Debug\net6.0\06.CardsGame.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\06.CardsGame\bin\Debug\net6.0\06.CardsGame.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\06.CardsGame\bin\Debug\net6.0\06.CardsGame.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\06.CardsGame\bin\Debug\net6.0\06.CardsGame.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\06.CardsGame\bin\Debug\net6.0\06.CardsGame.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\06.CardsGame\obj\Debug\net6.0\06.CardsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\06.CardsGame\obj\Debug\net6.0\06.CardsGame.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\06.CardsGame\obj\Debug\net6.0\06.CardsGame.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\06.CardsGame\obj\Debug\net6.0\06.CardsGame.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\06.CardsGame\obj\Debug\net6.0\06.CardsGame.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\06.CardsGame\obj\Debug\net6.0\refint\06.CardsGame.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\06.CardsGame\obj\Debug\net6.0\06.CardsGame.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\06.CardsGame\obj\Debug\net6.0\06.CardsGame.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Exercise\06.CardsGame\obj\Debug\net6.0\ref\06.CardsGame.dll

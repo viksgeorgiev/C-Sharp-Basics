@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\03.RecursiveFibonacci\bin\Debug\net6.0\03.RecursiveFibonacci.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\03.RecursiveFibonacci\bin\Debug\net6.0\03.RecursiveFibonacci.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\03.RecursiveFibonacci\bin\Debug\net6.0\03.RecursiveFibonacci.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\03.RecursiveFibonacci\bin\Debug\net6.0\03.RecursiveFibonacci.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\03.RecursiveFibonacci\bin\Debug\net6.0\03.RecursiveFibonacci.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\03.RecursiveFibonacci\obj\Debug\net6.0\03.RecursiveFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\03.RecursiveFibonacci\obj\Debug\net6.0\03.RecursiveFibonacci.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\03.RecursiveFibonacci\obj\Debug\net6.0\03.RecursiveFibonacci.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\03.RecursiveFibonacci\obj\Debug\net6.0\03.RecursiveFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\03.RecursiveFibonacci\obj\Debug\net6.0\03.RecursiveFibonacci.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\03.RecursiveFibonacci\obj\Debug\net6.0\refint\03.RecursiveFibonacci.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\03.RecursiveFibonacci\obj\Debug\net6.0\03.RecursiveFibonacci.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\03.RecursiveFibonacci\obj\Debug\net6.0\03.RecursiveFibonacci.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\03.ArraysMoreExercise\03.RecursiveFibonacci\obj\Debug\net6.0\ref\03.RecursiveFibonacci.dll

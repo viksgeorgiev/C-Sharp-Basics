@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\refint\01.SignOfIntegerNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\ref\01.SignOfIntegerNumbers.dll

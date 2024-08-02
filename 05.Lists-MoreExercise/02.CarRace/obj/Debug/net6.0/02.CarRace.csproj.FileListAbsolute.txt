@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\02.CarRace\bin\Debug\net6.0\02.CarRace.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\02.CarRace\bin\Debug\net6.0\02.CarRace.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\02.CarRace\bin\Debug\net6.0\02.CarRace.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\02.CarRace\bin\Debug\net6.0\02.CarRace.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\02.CarRace\bin\Debug\net6.0\02.CarRace.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\02.CarRace\obj\Debug\net6.0\02.CarRace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\02.CarRace\obj\Debug\net6.0\02.CarRace.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\02.CarRace\obj\Debug\net6.0\02.CarRace.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\02.CarRace\obj\Debug\net6.0\02.CarRace.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\02.CarRace\obj\Debug\net6.0\02.CarRace.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\02.CarRace\obj\Debug\net6.0\refint\02.CarRace.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\02.CarRace\obj\Debug\net6.0\02.CarRace.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\02.CarRace\obj\Debug\net6.0\02.CarRace.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-MoreExercise\02.CarRace\obj\Debug\net6.0\ref\02.CarRace.dll

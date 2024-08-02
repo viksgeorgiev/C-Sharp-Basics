@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\01.ExtractPersonInformation\bin\Debug\net6.0\01.ExtractPersonInformation.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\01.ExtractPersonInformation\bin\Debug\net6.0\01.ExtractPersonInformation.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\01.ExtractPersonInformation\bin\Debug\net6.0\01.ExtractPersonInformation.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\01.ExtractPersonInformation\bin\Debug\net6.0\01.ExtractPersonInformation.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\01.ExtractPersonInformation\bin\Debug\net6.0\01.ExtractPersonInformation.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\01.ExtractPersonInformation\obj\Debug\net6.0\01.ExtractPersonInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\01.ExtractPersonInformation\obj\Debug\net6.0\01.ExtractPersonInformation.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\01.ExtractPersonInformation\obj\Debug\net6.0\01.ExtractPersonInformation.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\01.ExtractPersonInformation\obj\Debug\net6.0\01.ExtractPersonInformation.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\01.ExtractPersonInformation\obj\Debug\net6.0\01.ExtractPersonInformation.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\01.ExtractPersonInformation\obj\Debug\net6.0\refint\01.ExtractPersonInformation.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\01.ExtractPersonInformation\obj\Debug\net6.0\01.ExtractPersonInformation.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\01.ExtractPersonInformation\obj\Debug\net6.0\01.ExtractPersonInformation.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\01.ExtractPersonInformation\obj\Debug\net6.0\ref\01.ExtractPersonInformation.dll

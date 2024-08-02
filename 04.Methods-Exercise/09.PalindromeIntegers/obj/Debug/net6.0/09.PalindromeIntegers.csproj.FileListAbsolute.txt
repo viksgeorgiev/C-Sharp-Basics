@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\09.PalindromeIntegers\bin\Debug\net6.0\09.PalindromeIntegers.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\09.PalindromeIntegers\bin\Debug\net6.0\09.PalindromeIntegers.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\09.PalindromeIntegers\bin\Debug\net6.0\09.PalindromeIntegers.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\09.PalindromeIntegers\bin\Debug\net6.0\09.PalindromeIntegers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\09.PalindromeIntegers\bin\Debug\net6.0\09.PalindromeIntegers.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\09.PalindromeIntegers\obj\Debug\net6.0\09.PalindromeIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\09.PalindromeIntegers\obj\Debug\net6.0\09.PalindromeIntegers.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\09.PalindromeIntegers\obj\Debug\net6.0\09.PalindromeIntegers.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\09.PalindromeIntegers\obj\Debug\net6.0\09.PalindromeIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\09.PalindromeIntegers\obj\Debug\net6.0\09.PalindromeIntegers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\09.PalindromeIntegers\obj\Debug\net6.0\refint\09.PalindromeIntegers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\09.PalindromeIntegers\obj\Debug\net6.0\09.PalindromeIntegers.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\09.PalindromeIntegers\obj\Debug\net6.0\09.PalindromeIntegers.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\04.Methods-Exercise\09.PalindromeIntegers\obj\Debug\net6.0\ref\09.PalindromeIntegers.dll

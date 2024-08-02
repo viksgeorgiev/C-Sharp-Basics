@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.MidExamPreparation\02.TheLift\bin\Debug\net6.0\02.TheLift.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.MidExamPreparation\02.TheLift\bin\Debug\net6.0\02.TheLift.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.MidExamPreparation\02.TheLift\bin\Debug\net6.0\02.TheLift.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.MidExamPreparation\02.TheLift\bin\Debug\net6.0\02.TheLift.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.MidExamPreparation\02.TheLift\bin\Debug\net6.0\02.TheLift.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.MidExamPreparation\02.TheLift\obj\Debug\net6.0\02.TheLift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.MidExamPreparation\02.TheLift\obj\Debug\net6.0\02.TheLift.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.MidExamPreparation\02.TheLift\obj\Debug\net6.0\02.TheLift.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.MidExamPreparation\02.TheLift\obj\Debug\net6.0\02.TheLift.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.MidExamPreparation\02.TheLift\obj\Debug\net6.0\02.TheLift.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.MidExamPreparation\02.TheLift\obj\Debug\net6.0\refint\02.TheLift.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.MidExamPreparation\02.TheLift\obj\Debug\net6.0\02.TheLift.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.MidExamPreparation\02.TheLift\obj\Debug\net6.0\02.TheLift.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.MidExamPreparation\02.TheLift\obj\Debug\net6.0\ref\02.TheLift.dll

@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\Test\Test\1111\bin\Debug\net6.0\1111.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\Test\Test\1111\bin\Debug\net6.0\1111.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\Test\Test\1111\bin\Debug\net6.0\1111.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\Test\Test\1111\bin\Debug\net6.0\1111.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\Test\Test\1111\bin\Debug\net6.0\1111.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\Test\Test\1111\obj\Debug\net6.0\1111.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\Test\Test\1111\obj\Debug\net6.0\1111.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\Test\Test\1111\obj\Debug\net6.0\1111.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\Test\Test\1111\obj\Debug\net6.0\1111.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\Test\Test\1111\obj\Debug\net6.0\1111.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\Test\Test\1111\obj\Debug\net6.0\refint\1111.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\Test\Test\1111\obj\Debug\net6.0\1111.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\Test\Test\1111\obj\Debug\net6.0\1111.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\Test\Test\1111\obj\Debug\net6.0\ref\1111.dll

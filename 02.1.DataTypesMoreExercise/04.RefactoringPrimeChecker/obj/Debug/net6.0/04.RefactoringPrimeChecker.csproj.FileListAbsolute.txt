@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.1.DataTypesMoreExercise\04.RefactoringPrimeChecker\bin\Debug\net6.0\04.RefactoringPrimeChecker.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.1.DataTypesMoreExercise\04.RefactoringPrimeChecker\bin\Debug\net6.0\04.RefactoringPrimeChecker.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.1.DataTypesMoreExercise\04.RefactoringPrimeChecker\bin\Debug\net6.0\04.RefactoringPrimeChecker.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.1.DataTypesMoreExercise\04.RefactoringPrimeChecker\bin\Debug\net6.0\04.RefactoringPrimeChecker.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.1.DataTypesMoreExercise\04.RefactoringPrimeChecker\bin\Debug\net6.0\04.RefactoringPrimeChecker.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.1.DataTypesMoreExercise\04.RefactoringPrimeChecker\obj\Debug\net6.0\04.RefactoringPrimeChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.1.DataTypesMoreExercise\04.RefactoringPrimeChecker\obj\Debug\net6.0\04.RefactoringPrimeChecker.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.1.DataTypesMoreExercise\04.RefactoringPrimeChecker\obj\Debug\net6.0\04.RefactoringPrimeChecker.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.1.DataTypesMoreExercise\04.RefactoringPrimeChecker\obj\Debug\net6.0\04.RefactoringPrimeChecker.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.1.DataTypesMoreExercise\04.RefactoringPrimeChecker\obj\Debug\net6.0\04.RefactoringPrimeChecker.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.1.DataTypesMoreExercise\04.RefactoringPrimeChecker\obj\Debug\net6.0\refint\04.RefactoringPrimeChecker.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.1.DataTypesMoreExercise\04.RefactoringPrimeChecker\obj\Debug\net6.0\04.RefactoringPrimeChecker.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.1.DataTypesMoreExercise\04.RefactoringPrimeChecker\obj\Debug\net6.0\04.RefactoringPrimeChecker.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.1.DataTypesMoreExercise\04.RefactoringPrimeChecker\obj\Debug\net6.0\ref\04.RefactoringPrimeChecker.dll

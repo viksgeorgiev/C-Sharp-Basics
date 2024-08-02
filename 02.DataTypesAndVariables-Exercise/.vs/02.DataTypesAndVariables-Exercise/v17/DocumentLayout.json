@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.DataTypesAndVariables-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{698A9BFD-5235-4628-93E7-D7EAE5C41BA1}|11.Snowballs\\11.Snowballs.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\02.datatypesandvariables-exercise\\11.snowballs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698A9BFD-5235-4628-93E7-D7EAE5C41BA1}|11.Snowballs\\11.Snowballs.csproj|solutionrelative:11.snowballs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A1A781-98FF-4BBC-A1E5-C25B074D53C0}|10.PokeMon\\10.PokeMon.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\02.datatypesandvariables-exercise\\10.pokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A1A781-98FF-4BBC-A1E5-C25B074D53C0}|10.PokeMon\\10.PokeMon.csproj|solutionrelative:10.pokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267B4F53-BB7C-4B69-A581-58C363953F17}|05.PrintPartOfASCIITable\\05.PrintPartOfASCIITable.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\02.datatypesandvariables-exercise\\05.printpartofasciitable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267B4F53-BB7C-4B69-A581-58C363953F17}|05.PrintPartOfASCIITable\\05.PrintPartOfASCIITable.csproj|solutionrelative:05.printpartofasciitable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C290DED8-DD48-4D19-A3F5-866282DCEFD4}|04.SumOfChars\\04.SumOfChars.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\02.datatypesandvariables-exercise\\04.sumofchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C290DED8-DD48-4D19-A3F5-866282DCEFD4}|04.SumOfChars\\04.SumOfChars.csproj|solutionrelative:04.sumofchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45902188-1300-489F-A726-41FBC4BE7C71}|03.Elevator\\03.Elevator.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\02.datatypesandvariables-exercise\\03.elevator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45902188-1300-489F-A726-41FBC4BE7C71}|03.Elevator\\03.Elevator.csproj|solutionrelative:03.elevator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2B3E4F-7679-4DC1-8F8F-4C0F781C97FE}|02.SumDigits\\02.SumDigits.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\02.datatypesandvariables-exercise\\02.sumdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2B3E4F-7679-4DC1-8F8F-4C0F781C97FE}|02.SumDigits\\02.SumDigits.csproj|solutionrelative:02.sumdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82914093-FD21-4361-8EF5-19C377B16795}|01.IntegerOperations\\01.IntegerOperations.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\02.datatypesandvariables-exercise\\01.integeroperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82914093-FD21-4361-8EF5-19C377B16795}|01.IntegerOperations\\01.IntegerOperations.csproj|solutionrelative:01.integeroperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3E1F47-A498-4DED-AFB8-DF3DD060F500}|09.SpiceMustFlow\\09.SpiceMustFlow.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\02.datatypesandvariables-exercise\\09.spicemustflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3E1F47-A498-4DED-AFB8-DF3DD060F500}|09.SpiceMustFlow\\09.SpiceMustFlow.csproj|solutionrelative:09.spicemustflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A45FE439-10C6-4395-A4CC-19C71DCCAE46}|08.BeerKegs\\08.BeerKegs.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\02.datatypesandvariables-exercise\\08.beerkegs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A45FE439-10C6-4395-A4CC-19C71DCCAE46}|08.BeerKegs\\08.BeerKegs.csproj|solutionrelative:08.beerkegs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A1ABC-811C-439D-9846-1733CE4297C2}|06.Triples\u041EfLatinLetters\\06.Triples\u041EfLatinLetters.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\02.datatypesandvariables-exercise\\06.triples\u043Eflatinletters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A1ABC-811C-439D-9846-1733CE4297C2}|06.Triples\u041EfLatinLetters\\06.Triples\u041EfLatinLetters.csproj|solutionrelative:06.triples\u043Eflatinletters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402388E4-CE7D-489B-9CD4-36A9FF82C2AD}|07.WaterOverflow\\07.WaterOverflow.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\02.datatypesandvariables-exercise\\07.wateroverflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402388E4-CE7D-489B-9CD4-36A9FF82C2AD}|07.WaterOverflow\\07.WaterOverflow.csproj|solutionrelative:07.wateroverflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.DataTypesAndVariables-Exercise\\11.Snowballs\\Program.cs",
+              "RelativeDocumentMoniker": "11.Snowballs\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.DataTypesAndVariables-Exercise\\11.Snowballs\\Program.cs",
+              "RelativeToolTip": "11.Snowballs\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:23:58.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.DataTypesAndVariables-Exercise\\10.PokeMon\\Program.cs",
+              "RelativeDocumentMoniker": "10.PokeMon\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.DataTypesAndVariables-Exercise\\10.PokeMon\\Program.cs",
+              "RelativeToolTip": "10.PokeMon\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:41:10.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.DataTypesAndVariables-Exercise\\09.SpiceMustFlow\\Program.cs",
+              "RelativeDocumentMoniker": "09.SpiceMustFlow\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.DataTypesAndVariables-Exercise\\09.SpiceMustFlow\\Program.cs",
+              "RelativeToolTip": "09.SpiceMustFlow\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwBgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:30:52.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.DataTypesAndVariables-Exercise\\08.BeerKegs\\Program.cs",
+              "RelativeDocumentMoniker": "08.BeerKegs\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.DataTypesAndVariables-Exercise\\08.BeerKegs\\Program.cs",
+              "RelativeToolTip": "08.BeerKegs\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:16:35.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.DataTypesAndVariables-Exercise\\07.WaterOverflow\\Program.cs",
+              "RelativeDocumentMoniker": "07.WaterOverflow\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.DataTypesAndVariables-Exercise\\07.WaterOverflow\\Program.cs",
+              "RelativeToolTip": "07.WaterOverflow\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:10:00.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.DataTypesAndVariables-Exercise\\06.Triples\u041EfLatinLetters\\Program.cs",
+              "RelativeDocumentMoniker": "06.Triples\u041EfLatinLetters\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.DataTypesAndVariables-Exercise\\06.Triples\u041EfLatinLetters\\Program.cs",
+              "RelativeToolTip": "06.Triples\u041EfLatinLetters\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:58:16.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.DataTypesAndVariables-Exercise\\05.PrintPartOfASCIITable\\Program.cs",
+              "RelativeDocumentMoniker": "05.PrintPartOfASCIITable\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.DataTypesAndVariables-Exercise\\05.PrintPartOfASCIITable\\Program.cs",
+              "RelativeToolTip": "05.PrintPartOfASCIITable\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:34:20.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.DataTypesAndVariables-Exercise\\04.SumOfChars\\Program.cs",
+              "RelativeDocumentMoniker": "04.SumOfChars\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.DataTypesAndVariables-Exercise\\04.SumOfChars\\Program.cs",
+              "RelativeToolTip": "04.SumOfChars\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:28:25.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.DataTypesAndVariables-Exercise\\03.Elevator\\Program.cs",
+              "RelativeDocumentMoniker": "03.Elevator\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.DataTypesAndVariables-Exercise\\03.Elevator\\Program.cs",
+              "RelativeToolTip": "03.Elevator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:24:03.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.DataTypesAndVariables-Exercise\\02.SumDigits\\Program.cs",
+              "RelativeDocumentMoniker": "02.SumDigits\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.DataTypesAndVariables-Exercise\\02.SumDigits\\Program.cs",
+              "RelativeToolTip": "02.SumDigits\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:13:58.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.DataTypesAndVariables-Exercise\\01.IntegerOperations\\Program.cs",
+              "RelativeDocumentMoniker": "01.IntegerOperations\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\02.DataTypesAndVariables-Exercise\\01.IntegerOperations\\Program.cs",
+              "RelativeToolTip": "01.IntegerOperations\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:08:58.027Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

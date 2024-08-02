@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\net6.0\03.SoftUniBarIncome.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\net6.0\03.SoftUniBarIncome.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\net6.0\03.SoftUniBarIncome.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\net6.0\03.SoftUniBarIncome.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\net6.0\03.SoftUniBarIncome.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\net6.0\03.SoftUniBarIncome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\net6.0\03.SoftUniBarIncome.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\net6.0\03.SoftUniBarIncome.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\net6.0\03.SoftUniBarIncome.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\net6.0\03.SoftUniBarIncome.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\net6.0\refint\03.SoftUniBarIncome.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\net6.0\03.SoftUniBarIncome.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\net6.0\03.SoftUniBarIncome.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\08.RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\net6.0\ref\03.SoftUniBarIncome.dll

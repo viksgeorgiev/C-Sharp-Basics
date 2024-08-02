@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.MidExamPreparation\01.Guinea Pig\bin\Debug\net6.0\01.Guinea Pig.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.MidExamPreparation\01.Guinea Pig\bin\Debug\net6.0\01.Guinea Pig.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.MidExamPreparation\01.Guinea Pig\bin\Debug\net6.0\01.Guinea Pig.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.MidExamPreparation\01.Guinea Pig\bin\Debug\net6.0\01.Guinea Pig.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.MidExamPreparation\01.Guinea Pig\bin\Debug\net6.0\01.Guinea Pig.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.MidExamPreparation\01.Guinea Pig\obj\Debug\net6.0\01.Guinea Pig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.MidExamPreparation\01.Guinea Pig\obj\Debug\net6.0\01.Guinea Pig.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.MidExamPreparation\01.Guinea Pig\obj\Debug\net6.0\01.Guinea Pig.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.MidExamPreparation\01.Guinea Pig\obj\Debug\net6.0\01.Guinea Pig.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.MidExamPreparation\01.Guinea Pig\obj\Debug\net6.0\01.Guinea Pig.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.MidExamPreparation\01.Guinea Pig\obj\Debug\net6.0\refint\01.Guinea Pig.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.MidExamPreparation\01.Guinea Pig\obj\Debug\net6.0\01.Guinea Pig.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.MidExamPreparation\01.Guinea Pig\obj\Debug\net6.0\01.Guinea Pig.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.MidExamPreparation\01.Guinea Pig\obj\Debug\net6.0\ref\01.Guinea Pig.dll

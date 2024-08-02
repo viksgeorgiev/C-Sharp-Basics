@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\07.StringExplosion\bin\Release\net6.0\07.StringExplosion.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\07.StringExplosion\bin\Release\net6.0\07.StringExplosion.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\07.StringExplosion\bin\Release\net6.0\07.StringExplosion.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\07.StringExplosion\bin\Release\net6.0\07.StringExplosion.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\07.StringExplosion\bin\Release\net6.0\07.StringExplosion.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\07.StringExplosion\obj\Release\net6.0\07.StringExplosion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\07.StringExplosion\obj\Release\net6.0\07.StringExplosion.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\07.StringExplosion\obj\Release\net6.0\07.StringExplosion.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\07.StringExplosion\obj\Release\net6.0\07.StringExplosion.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\07.StringExplosion\obj\Release\net6.0\07.StringExplosion.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\07.StringExplosion\obj\Release\net6.0\refint\07.StringExplosion.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\07.StringExplosion\obj\Release\net6.0\07.StringExplosion.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\07.StringExplosion\obj\Release\net6.0\07.StringExplosion.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.ValidUsernames\07.StringExplosion\obj\Release\net6.0\ref\07.StringExplosion.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\000.Telerik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3016A1F-E779-46E6-9D59-2A10C0E91EEC}|06.SortThreeNumbers\\06.SortThreeNumbers.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\000.telerik\\06.sortthreenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3016A1F-E779-46E6-9D59-2A10C0E91EEC}|06.SortThreeNumbers\\06.SortThreeNumbers.csproj|solutionrelative:06.sortthreenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7224C0DA-EA4E-4D21-B2DF-F0688A621A00}|06.ThreeGroups\\06.ThreeGroups.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\000.telerik\\06.threegroups\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7224C0DA-EA4E-4D21-B2DF-F0688A621A00}|06.ThreeGroups\\06.ThreeGroups.csproj|solutionrelative:06.threegroups\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7921DA7F-09B2-4B7D-947F-87E179B613D9}|05.AloneNumbers\\05.AloneNumbers.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\000.telerik\\05.alonenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7921DA7F-09B2-4B7D-947F-87E179B613D9}|05.AloneNumbers\\05.AloneNumbers.csproj|solutionrelative:05.alonenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\000.Telerik\\06.SortThreeNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "06.SortThreeNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\000.Telerik\\06.SortThreeNumbers\\Program.cs",
+              "RelativeToolTip": "06.SortThreeNumbers\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAmwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T21:18:13.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\000.Telerik\\06.ThreeGroups\\Program.cs",
+              "RelativeDocumentMoniker": "06.ThreeGroups\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\000.Telerik\\06.ThreeGroups\\Program.cs",
+              "RelativeToolTip": "06.ThreeGroups\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T20:48:44.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\000.Telerik\\05.AloneNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "05.AloneNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\000.Telerik\\05.AloneNumbers\\Program.cs",
+              "RelativeToolTip": "05.AloneNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T20:00:23.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

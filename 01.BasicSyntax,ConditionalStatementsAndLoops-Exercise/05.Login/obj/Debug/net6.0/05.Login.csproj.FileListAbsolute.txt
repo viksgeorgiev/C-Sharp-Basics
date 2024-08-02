@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\05.Login\bin\Debug\net6.0\05.Login.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\05.Login\bin\Debug\net6.0\05.Login.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\05.Login\bin\Debug\net6.0\05.Login.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\05.Login\bin\Debug\net6.0\05.Login.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\05.Login\bin\Debug\net6.0\05.Login.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\05.Login\obj\Debug\net6.0\05.Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\05.Login\obj\Debug\net6.0\05.Login.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\05.Login\obj\Debug\net6.0\05.Login.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\05.Login\obj\Debug\net6.0\05.Login.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\05.Login\obj\Debug\net6.0\05.Login.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\05.Login\obj\Debug\net6.0\refint\05.Login.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\05.Login\obj\Debug\net6.0\05.Login.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\05.Login\obj\Debug\net6.0\05.Login.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\01.BasicSyntax,ConditionalStatementsAndLoops-Exercise\05.Login\obj\Debug\net6.0\ref\05.Login.dll

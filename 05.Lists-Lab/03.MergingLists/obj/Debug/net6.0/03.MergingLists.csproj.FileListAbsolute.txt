@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\03.MergingLists\bin\Debug\net6.0\03.MergingLists.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\03.MergingLists\bin\Debug\net6.0\03.MergingLists.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\03.MergingLists\bin\Debug\net6.0\03.MergingLists.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\03.MergingLists\bin\Debug\net6.0\03.MergingLists.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\03.MergingLists\bin\Debug\net6.0\03.MergingLists.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\03.MergingLists\obj\Debug\net6.0\03.MergingLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\03.MergingLists\obj\Debug\net6.0\03.MergingLists.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\03.MergingLists\obj\Debug\net6.0\03.MergingLists.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\03.MergingLists\obj\Debug\net6.0\03.MergingLists.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\03.MergingLists\obj\Debug\net6.0\03.MergingLists.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\03.MergingLists\obj\Debug\net6.0\refint\03.MergingLists.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\03.MergingLists\obj\Debug\net6.0\03.MergingLists.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\03.MergingLists\obj\Debug\net6.0\03.MergingLists.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.Lists-Lab\03.MergingLists\obj\Debug\net6.0\ref\03.MergingLists.dll

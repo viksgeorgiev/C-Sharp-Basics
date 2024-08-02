@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "H00.SoftUniKaraoke/1.0.0": {
+        "runtime": {
+          "H00.SoftUniKaraoke.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "H00.SoftUniKaraoke/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

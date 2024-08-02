@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\03.ExactSumOfRealNumbers\bin\Debug\net6.0\03.ExactSumOfRealNumbers.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\03.ExactSumOfRealNumbers\bin\Debug\net6.0\03.ExactSumOfRealNumbers.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\03.ExactSumOfRealNumbers\bin\Debug\net6.0\03.ExactSumOfRealNumbers.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\03.ExactSumOfRealNumbers\bin\Debug\net6.0\03.ExactSumOfRealNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\03.ExactSumOfRealNumbers\bin\Debug\net6.0\03.ExactSumOfRealNumbers.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\03.ExactSumOfRealNumbers\obj\Debug\net6.0\03.ExactSumOfRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\03.ExactSumOfRealNumbers\obj\Debug\net6.0\03.ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\03.ExactSumOfRealNumbers\obj\Debug\net6.0\03.ExactSumOfRealNumbers.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\03.ExactSumOfRealNumbers\obj\Debug\net6.0\03.ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\03.ExactSumOfRealNumbers\obj\Debug\net6.0\03.ExactSumOfRealNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\03.ExactSumOfRealNumbers\obj\Debug\net6.0\refint\03.ExactSumOfRealNumbers.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\03.ExactSumOfRealNumbers\obj\Debug\net6.0\03.ExactSumOfRealNumbers.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\03.ExactSumOfRealNumbers\obj\Debug\net6.0\03.ExactSumOfRealNumbers.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\02.DataTypes-Lab\03.ExactSumOfRealNumbers\obj\Debug\net6.0\ref\03.ExactSumOfRealNumbers.dll

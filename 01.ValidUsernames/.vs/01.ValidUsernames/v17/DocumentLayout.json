@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.ValidUsernames\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86B1AB72-B8E8-468B-B553-B142D08F80AC}|08.LettersChangeNumbers\\08.LettersChangeNumbers.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.validusernames\\08.letterschangenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B1AB72-B8E8-468B-B553-B142D08F80AC}|08.LettersChangeNumbers\\08.LettersChangeNumbers.csproj|solutionrelative:08.letterschangenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0527F8C7-7C55-4FA1-AAD4-C785238B0168}|07.StringExplosion\\07.StringExplosion.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.validusernames\\07.stringexplosion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0527F8C7-7C55-4FA1-AAD4-C785238B0168}|07.StringExplosion\\07.StringExplosion.csproj|solutionrelative:07.stringexplosion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAD00D0-E200-4F18-BD6A-AB59B5B2D1DB}|06.ReplaceRepeatingChars\\06.ReplaceRepeatingChars.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.validusernames\\06.replacerepeatingchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAD00D0-E200-4F18-BD6A-AB59B5B2D1DB}|06.ReplaceRepeatingChars\\06.ReplaceRepeatingChars.csproj|solutionrelative:06.replacerepeatingchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE73A9E-69D8-4C09-B26E-6F730D8633FA}|05.MultiplyBigNumber\\05.MultiplyBigNumber.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.validusernames\\05.multiplybignumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE73A9E-69D8-4C09-B26E-6F730D8633FA}|05.MultiplyBigNumber\\05.MultiplyBigNumber.csproj|solutionrelative:05.multiplybignumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9412CD2-9402-4431-A195-C9773B79A15B}|04.CaesarCipher\\04.CaesarCipher.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.validusernames\\04.caesarcipher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9412CD2-9402-4431-A195-C9773B79A15B}|04.CaesarCipher\\04.CaesarCipher.csproj|solutionrelative:04.caesarcipher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA868FAC-554D-4204-9377-6A1364CA4CC2}|03.ExtractFile\\03.ExtractFile.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.validusernames\\03.extractfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA868FAC-554D-4204-9377-6A1364CA4CC2}|03.ExtractFile\\03.ExtractFile.csproj|solutionrelative:03.extractfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A99F99-88CE-4E1B-95FD-25A608E511AE}|02.CharacterMultiplier\\02.CharacterMultiplier.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.validusernames\\02.charactermultiplier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A99F99-88CE-4E1B-95FD-25A608E511AE}|02.CharacterMultiplier\\02.CharacterMultiplier.csproj|solutionrelative:02.charactermultiplier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA92CFA-C634-4BDD-A673-44D6DD5F5078}|01.ValidUsernames\\01.ValidUsernames.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\01.validusernames\\01.validusernames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA92CFA-C634-4BDD-A673-44D6DD5F5078}|01.ValidUsernames\\01.ValidUsernames.csproj|solutionrelative:01.validusernames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.ValidUsernames\\08.LettersChangeNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "08.LettersChangeNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.ValidUsernames\\08.LettersChangeNumbers\\Program.cs",
+              "RelativeToolTip": "08.LettersChangeNumbers\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T16:02:26.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.ValidUsernames\\07.StringExplosion\\Program.cs",
+              "RelativeDocumentMoniker": "07.StringExplosion\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.ValidUsernames\\07.StringExplosion\\Program.cs",
+              "RelativeToolTip": "07.StringExplosion\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T16:00:24.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.ValidUsernames\\06.ReplaceRepeatingChars\\Program.cs",
+              "RelativeDocumentMoniker": "06.ReplaceRepeatingChars\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.ValidUsernames\\06.ReplaceRepeatingChars\\Program.cs",
+              "RelativeToolTip": "06.ReplaceRepeatingChars\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:43:58.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.ValidUsernames\\05.MultiplyBigNumber\\Program.cs",
+              "RelativeDocumentMoniker": "05.MultiplyBigNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.ValidUsernames\\05.MultiplyBigNumber\\Program.cs",
+              "RelativeToolTip": "05.MultiplyBigNumber\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwBkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:55:22.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.ValidUsernames\\04.CaesarCipher\\Program.cs",
+              "RelativeDocumentMoniker": "04.CaesarCipher\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.ValidUsernames\\04.CaesarCipher\\Program.cs",
+              "RelativeToolTip": "04.CaesarCipher\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:45:21.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.ValidUsernames\\03.ExtractFile\\Program.cs",
+              "RelativeDocumentMoniker": "03.ExtractFile\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.ValidUsernames\\03.ExtractFile\\Program.cs",
+              "RelativeToolTip": "03.ExtractFile\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:34:30.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.ValidUsernames\\02.CharacterMultiplier\\Program.cs",
+              "RelativeDocumentMoniker": "02.CharacterMultiplier\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.ValidUsernames\\02.CharacterMultiplier\\Program.cs",
+              "RelativeToolTip": "02.CharacterMultiplier\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:31:27.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.ValidUsernames\\01.ValidUsernames\\Program.cs",
+              "RelativeDocumentMoniker": "01.ValidUsernames\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\01.ValidUsernames\\01.ValidUsernames\\Program.cs",
+              "RelativeToolTip": "01.ValidUsernames\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:08:17.723Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

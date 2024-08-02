@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.ArraysMoreExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94CB7BC2-3905-4C82-B2F3-16CDB7470C52}|05.LongestIncreasingSubsequence\\05.LongestIncreasingSubsequence.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\03.arraysmoreexercise\\05.longestincreasingsubsequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CB7BC2-3905-4C82-B2F3-16CDB7470C52}|05.LongestIncreasingSubsequence\\05.LongestIncreasingSubsequence.csproj|solutionrelative:05.longestincreasingsubsequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB27CF6F-DB03-468F-A20D-B334E7DC68A5}|04.FoldAndSum\\04.FoldAndSum.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\03.arraysmoreexercise\\04.foldandsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB27CF6F-DB03-468F-A20D-B334E7DC68A5}|04.FoldAndSum\\04.FoldAndSum.csproj|solutionrelative:04.foldandsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74FA21-3C47-4F5E-9F3D-2A25F9E9DC77}|03.RecursiveFibonacci\\03.RecursiveFibonacci.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\03.arraysmoreexercise\\03.recursivefibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74FA21-3C47-4F5E-9F3D-2A25F9E9DC77}|03.RecursiveFibonacci\\03.RecursiveFibonacci.csproj|solutionrelative:03.recursivefibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91198143-18A8-44A6-8E4F-219B344FDC2B}|02.PascalTriangle\\02.PascalTriangle.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\03.arraysmoreexercise\\02.pascaltriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91198143-18A8-44A6-8E4F-219B344FDC2B}|02.PascalTriangle\\02.PascalTriangle.csproj|solutionrelative:02.pascaltriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136BF203-EEBE-468C-A1C5-824B033167B2}|01.Encrypt,Sort\\01.Encrypt,Sort.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\03.arraysmoreexercise\\01.encrypt,sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{136BF203-EEBE-468C-A1C5-824B033167B2}|01.Encrypt,Sort\\01.Encrypt,Sort.csproj|solutionrelative:01.encrypt,sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.ArraysMoreExercise\\05.LongestIncreasingSubsequence\\Program.cs",
+              "RelativeDocumentMoniker": "05.LongestIncreasingSubsequence\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.ArraysMoreExercise\\05.LongestIncreasingSubsequence\\Program.cs",
+              "RelativeToolTip": "05.LongestIncreasingSubsequence\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:22:30.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.ArraysMoreExercise\\04.FoldAndSum\\Program.cs",
+              "RelativeDocumentMoniker": "04.FoldAndSum\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.ArraysMoreExercise\\04.FoldAndSum\\Program.cs",
+              "RelativeToolTip": "04.FoldAndSum\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvzMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T10:50:44.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.ArraysMoreExercise\\03.RecursiveFibonacci\\Program.cs",
+              "RelativeDocumentMoniker": "03.RecursiveFibonacci\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.ArraysMoreExercise\\03.RecursiveFibonacci\\Program.cs",
+              "RelativeToolTip": "03.RecursiveFibonacci\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T09:24:41.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.ArraysMoreExercise\\02.PascalTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "02.PascalTriangle\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.ArraysMoreExercise\\02.PascalTriangle\\Program.cs",
+              "RelativeToolTip": "02.PascalTriangle\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:09:25.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.ArraysMoreExercise\\01.Encrypt,Sort\\Program.cs",
+              "RelativeDocumentMoniker": "01.Encrypt,Sort\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\03.ArraysMoreExercise\\01.Encrypt,Sort\\Program.cs",
+              "RelativeToolTip": "01.Encrypt,Sort\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvyEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:24:39.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

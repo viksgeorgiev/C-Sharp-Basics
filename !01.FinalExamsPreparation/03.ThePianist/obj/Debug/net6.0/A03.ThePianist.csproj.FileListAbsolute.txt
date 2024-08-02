@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03.ThePianist\bin\Debug\net6.0\A03.ThePianist.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03.ThePianist\bin\Debug\net6.0\A03.ThePianist.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03.ThePianist\bin\Debug\net6.0\A03.ThePianist.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03.ThePianist\bin\Debug\net6.0\A03.ThePianist.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03.ThePianist\bin\Debug\net6.0\A03.ThePianist.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03.ThePianist\obj\Debug\net6.0\A03.ThePianist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03.ThePianist\obj\Debug\net6.0\A03.ThePianist.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03.ThePianist\obj\Debug\net6.0\A03.ThePianist.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03.ThePianist\obj\Debug\net6.0\A03.ThePianist.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03.ThePianist\obj\Debug\net6.0\A03.ThePianist.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03.ThePianist\obj\Debug\net6.0\refint\A03.ThePianist.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03.ThePianist\obj\Debug\net6.0\A03.ThePianist.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03.ThePianist\obj\Debug\net6.0\A03.ThePianist.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\03.ThePianist\obj\Debug\net6.0\ref\A03.ThePianist.dll

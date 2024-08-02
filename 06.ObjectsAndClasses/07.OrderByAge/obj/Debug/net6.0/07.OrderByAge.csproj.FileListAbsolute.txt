@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\06.ObjectsAndClasses\07.OrderByAge\bin\Debug\net6.0\07.OrderByAge.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\06.ObjectsAndClasses\07.OrderByAge\bin\Debug\net6.0\07.OrderByAge.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\06.ObjectsAndClasses\07.OrderByAge\bin\Debug\net6.0\07.OrderByAge.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\06.ObjectsAndClasses\07.OrderByAge\bin\Debug\net6.0\07.OrderByAge.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\06.ObjectsAndClasses\07.OrderByAge\bin\Debug\net6.0\07.OrderByAge.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\06.ObjectsAndClasses\07.OrderByAge\obj\Debug\net6.0\07.OrderByAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\06.ObjectsAndClasses\07.OrderByAge\obj\Debug\net6.0\07.OrderByAge.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\06.ObjectsAndClasses\07.OrderByAge\obj\Debug\net6.0\07.OrderByAge.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\06.ObjectsAndClasses\07.OrderByAge\obj\Debug\net6.0\07.OrderByAge.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\06.ObjectsAndClasses\07.OrderByAge\obj\Debug\net6.0\07.OrderByAge.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\06.ObjectsAndClasses\07.OrderByAge\obj\Debug\net6.0\refint\07.OrderByAge.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\06.ObjectsAndClasses\07.OrderByAge\obj\Debug\net6.0\07.OrderByAge.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\06.ObjectsAndClasses\07.OrderByAge\obj\Debug\net6.0\07.OrderByAge.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\06.ObjectsAndClasses\07.OrderByAge\obj\Debug\net6.0\ref\07.OrderByAge.dll

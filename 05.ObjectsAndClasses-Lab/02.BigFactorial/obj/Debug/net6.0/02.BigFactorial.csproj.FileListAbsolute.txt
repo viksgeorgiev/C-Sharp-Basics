@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\02.BigFactorial\bin\Debug\net6.0\02.BigFactorial.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\02.BigFactorial\bin\Debug\net6.0\02.BigFactorial.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\02.BigFactorial\bin\Debug\net6.0\02.BigFactorial.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\02.BigFactorial\bin\Debug\net6.0\02.BigFactorial.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\02.BigFactorial\bin\Debug\net6.0\02.BigFactorial.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\02.BigFactorial\obj\Debug\net6.0\02.BigFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\02.BigFactorial\obj\Debug\net6.0\02.BigFactorial.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\02.BigFactorial\obj\Debug\net6.0\02.BigFactorial.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\02.BigFactorial\obj\Debug\net6.0\02.BigFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\02.BigFactorial\obj\Debug\net6.0\02.BigFactorial.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\02.BigFactorial\obj\Debug\net6.0\refint\02.BigFactorial.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\02.BigFactorial\obj\Debug\net6.0\02.BigFactorial.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\02.BigFactorial\obj\Debug\net6.0\02.BigFactorial.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\05.ObjectsAndClasses-Lab\02.BigFactorial\obj\Debug\net6.0\ref\02.BigFactorial.dll

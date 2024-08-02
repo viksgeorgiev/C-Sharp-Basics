@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\02.AsciiSumator\bin\Debug\net6.0\02.AsciiSumator.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\02.AsciiSumator\bin\Debug\net6.0\02.AsciiSumator.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\02.AsciiSumator\bin\Debug\net6.0\02.AsciiSumator.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\02.AsciiSumator\bin\Debug\net6.0\02.AsciiSumator.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\02.AsciiSumator\bin\Debug\net6.0\02.AsciiSumator.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\02.AsciiSumator\obj\Debug\net6.0\02.AsciiSumator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\02.AsciiSumator\obj\Debug\net6.0\02.AsciiSumator.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\02.AsciiSumator\obj\Debug\net6.0\02.AsciiSumator.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\02.AsciiSumator\obj\Debug\net6.0\02.AsciiSumator.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\02.AsciiSumator\obj\Debug\net6.0\02.AsciiSumator.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\02.AsciiSumator\obj\Debug\net6.0\refint\02.AsciiSumator.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\02.AsciiSumator\obj\Debug\net6.0\02.AsciiSumator.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\02.AsciiSumator\obj\Debug\net6.0\02.AsciiSumator.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\07.TextProcessing-More\02.AsciiSumator\obj\Debug\net6.0\ref\02.AsciiSumator.dll

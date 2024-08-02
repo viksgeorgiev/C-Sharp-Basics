@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\Test\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBCB515-7A01-4996-8446-22B6FC0066BE}|222222\\222222.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\test\\test\\222222\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBCB515-7A01-4996-8446-22B6FC0066BE}|222222\\222222.csproj|solutionrelative:222222\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A510FA-7571-49AC-A19C-A3181436156F}|testak\\testak.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\test\\test\\testak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A510FA-7571-49AC-A19C-A3181436156F}|testak\\testak.csproj|solutionrelative:testak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8501BD-765B-4FC0-AD54-D42173C47651}|1111\\1111.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\test\\test\\1111\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8501BD-765B-4FC0-AD54-D42173C47651}|1111\\1111.csproj|solutionrelative:1111\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4F1E62-DD6D-4F2E-A4DD-C92FCDBDF5DB}|test 2\\test 2.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\test\\test\\test 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD4F1E62-DD6D-4F2E-A4DD-C92FCDBDF5DB}|test 2\\test 2.csproj|solutionrelative:test 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E17BB1-57ED-4E48-A5BC-B24546E78A23}|test\\test.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\test\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E17BB1-57ED-4E48-A5BC-B24546E78A23}|test\\test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\Test\\Test\\222222\\Program.cs",
+              "RelativeDocumentMoniker": "222222\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\Test\\Test\\222222\\Program.cs",
+              "RelativeToolTip": "222222\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T10:38:44.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\Test\\Test\\testak\\Program.cs",
+              "RelativeDocumentMoniker": "testak\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\Test\\Test\\testak\\Program.cs",
+              "RelativeToolTip": "testak\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwB8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:54:24.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\Test\\Test\\1111\\Program.cs",
+              "RelativeDocumentMoniker": "1111\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\Test\\Test\\1111\\Program.cs",
+              "RelativeToolTip": "1111\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:05:51.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\Test\\Test\\test 2\\Program.cs",
+              "RelativeDocumentMoniker": "test 2\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\Test\\Test\\test 2\\Program.cs",
+              "RelativeToolTip": "test 2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:01:26.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\Test\\Test\\test\\Program.cs",
+              "RelativeDocumentMoniker": "test\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\Test\\Test\\test\\Program.cs",
+              "RelativeToolTip": "test\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:43:06.707Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

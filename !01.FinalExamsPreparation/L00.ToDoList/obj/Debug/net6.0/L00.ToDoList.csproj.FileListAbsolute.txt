@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\L00.ToDoList\bin\Debug\net6.0\L00.ToDoList.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\L00.ToDoList\bin\Debug\net6.0\L00.ToDoList.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\L00.ToDoList\bin\Debug\net6.0\L00.ToDoList.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\L00.ToDoList\bin\Debug\net6.0\L00.ToDoList.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\L00.ToDoList\bin\Debug\net6.0\L00.ToDoList.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\L00.ToDoList\obj\Debug\net6.0\L00.ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\L00.ToDoList\obj\Debug\net6.0\L00.ToDoList.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\L00.ToDoList\obj\Debug\net6.0\L00.ToDoList.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\L00.ToDoList\obj\Debug\net6.0\L00.ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\L00.ToDoList\obj\Debug\net6.0\L00.ToDoList.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\L00.ToDoList\obj\Debug\net6.0\refint\L00.ToDoList.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\L00.ToDoList\obj\Debug\net6.0\L00.ToDoList.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\L00.ToDoList\obj\Debug\net6.0\L00.ToDoList.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\L00.ToDoList\obj\Debug\net6.0\ref\L00.ToDoList.dll

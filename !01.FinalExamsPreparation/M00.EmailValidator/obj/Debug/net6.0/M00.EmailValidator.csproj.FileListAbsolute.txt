@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\M00.EmailValidator\bin\Debug\net6.0\M00.EmailValidator.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\M00.EmailValidator\bin\Debug\net6.0\M00.EmailValidator.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\M00.EmailValidator\bin\Debug\net6.0\M00.EmailValidator.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\M00.EmailValidator\bin\Debug\net6.0\M00.EmailValidator.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\M00.EmailValidator\bin\Debug\net6.0\M00.EmailValidator.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\M00.EmailValidator\obj\Debug\net6.0\M00.EmailValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\M00.EmailValidator\obj\Debug\net6.0\M00.EmailValidator.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\M00.EmailValidator\obj\Debug\net6.0\M00.EmailValidator.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\M00.EmailValidator\obj\Debug\net6.0\M00.EmailValidator.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\M00.EmailValidator\obj\Debug\net6.0\M00.EmailValidator.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\M00.EmailValidator\obj\Debug\net6.0\refint\M00.EmailValidator.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\M00.EmailValidator\obj\Debug\net6.0\M00.EmailValidator.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\M00.EmailValidator\obj\Debug\net6.0\M00.EmailValidator.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\M00.EmailValidator\obj\Debug\net6.0\ref\M00.EmailValidator.dll

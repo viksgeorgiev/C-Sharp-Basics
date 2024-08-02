@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\J00.RecipeOrganizer\bin\Debug\net6.0\J00.RecipeOrganizer.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\J00.RecipeOrganizer\bin\Debug\net6.0\J00.RecipeOrganizer.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\J00.RecipeOrganizer\bin\Debug\net6.0\J00.RecipeOrganizer.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\J00.RecipeOrganizer\bin\Debug\net6.0\J00.RecipeOrganizer.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\J00.RecipeOrganizer\bin\Debug\net6.0\J00.RecipeOrganizer.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\J00.RecipeOrganizer\obj\Debug\net6.0\J00.RecipeOrganizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\J00.RecipeOrganizer\obj\Debug\net6.0\J00.RecipeOrganizer.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\J00.RecipeOrganizer\obj\Debug\net6.0\J00.RecipeOrganizer.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\J00.RecipeOrganizer\obj\Debug\net6.0\J00.RecipeOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\J00.RecipeOrganizer\obj\Debug\net6.0\J00.RecipeOrganizer.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\J00.RecipeOrganizer\obj\Debug\net6.0\refint\J00.RecipeOrganizer.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\J00.RecipeOrganizer\obj\Debug\net6.0\J00.RecipeOrganizer.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\J00.RecipeOrganizer\obj\Debug\net6.0\J00.RecipeOrganizer.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\J00.RecipeOrganizer\obj\Debug\net6.0\ref\J00.RecipeOrganizer.dll

@@ -1,0 +1,14 @@
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\K00.LibraryCatalog\bin\Debug\net6.0\K00.LibraryCatalog.exe
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\K00.LibraryCatalog\bin\Debug\net6.0\K00.LibraryCatalog.deps.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\K00.LibraryCatalog\bin\Debug\net6.0\K00.LibraryCatalog.runtimeconfig.json
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\K00.LibraryCatalog\bin\Debug\net6.0\K00.LibraryCatalog.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\K00.LibraryCatalog\bin\Debug\net6.0\K00.LibraryCatalog.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\K00.LibraryCatalog\obj\Debug\net6.0\K00.LibraryCatalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\K00.LibraryCatalog\obj\Debug\net6.0\K00.LibraryCatalog.AssemblyInfoInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\K00.LibraryCatalog\obj\Debug\net6.0\K00.LibraryCatalog.AssemblyInfo.cs
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\K00.LibraryCatalog\obj\Debug\net6.0\K00.LibraryCatalog.csproj.CoreCompileInputs.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\K00.LibraryCatalog\obj\Debug\net6.0\K00.LibraryCatalog.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\K00.LibraryCatalog\obj\Debug\net6.0\refint\K00.LibraryCatalog.dll
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\K00.LibraryCatalog\obj\Debug\net6.0\K00.LibraryCatalog.pdb
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\K00.LibraryCatalog\obj\Debug\net6.0\K00.LibraryCatalog.genruntimeconfig.cache
+C:\Users\Typhon\Documents\PB-May-Fundamentals-C#-2024\!01.FinalExamsPreparation\K00.LibraryCatalog\obj\Debug\net6.0\ref\K00.LibraryCatalog.dll

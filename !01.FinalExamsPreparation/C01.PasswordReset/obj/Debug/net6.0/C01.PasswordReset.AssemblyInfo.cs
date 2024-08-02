@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C01.PasswordReset")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2363bc0a344e7aa6f032e7a06575f8de3e0f960d")]
 [assembly: System.Reflection.AssemblyProductAttribute("C01.PasswordReset")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C01.PasswordReset")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

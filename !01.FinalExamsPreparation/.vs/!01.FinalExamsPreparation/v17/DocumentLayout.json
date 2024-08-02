@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\!01.FinalExamsPreparation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{181192DF-30BF-411A-BE28-54EDF6624D38}|H00.SoftUniKaraoke\\H00.SoftUniKaraoke.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\!01.finalexamspreparation\\h00.softunikaraoke\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{181192DF-30BF-411A-BE28-54EDF6624D38}|H00.SoftUniKaraoke\\H00.SoftUniKaraoke.csproj|solutionrelative:h00.softunikaraoke\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EDC3EA8-BC8B-44B0-ADD2-3C5E2D6D0F25}|G00.Santa\u0027sNewList\\G00.Santa\u0027sNewList.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\!01.finalexamspreparation\\g00.santa\u0027snewlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EDC3EA8-BC8B-44B0-ADD2-3C5E2D6D0F25}|G00.Santa\u0027sNewList\\G00.Santa\u0027sNewList.csproj|solutionrelative:g00.santa\u0027snewlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93AD4CDA-48B3-4920-8C3C-5459F8EA7396}|Santa\u0027s Gifts\\Santa\u0027s Gifts.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\!01.finalexamspreparation\\santa\u0027s gifts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93AD4CDA-48B3-4920-8C3C-5459F8EA7396}|Santa\u0027s Gifts\\Santa\u0027s Gifts.csproj|solutionrelative:santa\u0027s gifts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A9D21B0-AE19-4854-A454-E2DE4E74E4A5}|F00.Santa\u0027s Secret Helper\\F00.Santa\u0027s Secret Helper.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\!01.finalexamspreparation\\f00.santa\u0027s secret helper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A9D21B0-AE19-4854-A454-E2DE4E74E4A5}|F00.Santa\u0027s Secret Helper\\F00.Santa\u0027s Secret Helper.csproj|solutionrelative:f00.santa\u0027s secret helper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7E00FE0-DC73-4463-82DB-447DEE682700}|D03.P!rates\\D03.P!rates.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\!01.finalexamspreparation\\d03.p!rates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7E00FE0-DC73-4463-82DB-447DEE682700}|D03.P!rates\\D03.P!rates.csproj|solutionrelative:d03.p!rates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0671A335-98BC-40D0-8C3E-287BECCC5F2D}|M00.EmailValidator\\M00.EmailValidator.csproj|c:\\users\\typhon\\documents\\pb-may-fundamentals-c#-2024\\!01.finalexamspreparation\\m00.emailvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0671A335-98BC-40D0-8C3E-287BECCC5F2D}|M00.EmailValidator\\M00.EmailValidator.csproj|solutionrelative:m00.emailvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,65 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\!01.FinalExamsPreparation\\H00.SoftUniKaraoke\\Program.cs",
-              "RelativeDocumentMoniker": "H00.SoftUniKaraoke\\Program.cs",
-              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\!01.FinalExamsPreparation\\H00.SoftUniKaraoke\\Program.cs",
-              "RelativeToolTip": "H00.SoftUniKaraoke\\Program.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAcwD8AAAAXAAAA",
+              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\!01.FinalExamsPreparation\\M00.EmailValidator\\Program.cs",
+              "RelativeDocumentMoniker": "M00.EmailValidator\\Program.cs",
+              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\!01.FinalExamsPreparation\\M00.EmailValidator\\Program.cs",
+              "RelativeToolTip": "M00.EmailValidator\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T09:48:10.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\!01.FinalExamsPreparation\\G00.Santa\u0027sNewList\\Program.cs",
-              "RelativeDocumentMoniker": "G00.Santa\u0027sNewList\\Program.cs",
-              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\!01.FinalExamsPreparation\\G00.Santa\u0027sNewList\\Program.cs",
-              "RelativeToolTip": "G00.Santa\u0027sNewList\\Program.cs",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAgwFoAAABYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T08:55:12.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\!01.FinalExamsPreparation\\F00.Santa\u0027s Secret Helper\\Program.cs",
-              "RelativeDocumentMoniker": "F00.Santa\u0027s Secret Helper\\Program.cs",
-              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\!01.FinalExamsPreparation\\F00.Santa\u0027s Secret Helper\\Program.cs",
-              "RelativeToolTip": "F00.Santa\u0027s Secret Helper\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAoAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T08:34:08.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\!01.FinalExamsPreparation\\Santa\u0027s Gifts\\Program.cs",
-              "RelativeDocumentMoniker": "Santa\u0027s Gifts\\Program.cs",
-              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\!01.FinalExamsPreparation\\Santa\u0027s Gifts\\Program.cs",
-              "RelativeToolTip": "Santa\u0027s Gifts\\Program.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAQwEkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T07:04:26.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\!01.FinalExamsPreparation\\D03.P!rates\\Program.cs",
-              "RelativeDocumentMoniker": "D03.P!rates\\Program.cs",
-              "ToolTip": "C:\\Users\\Typhon\\Documents\\PB-May-Fundamentals-C#-2024\\!01.FinalExamsPreparation\\D03.P!rates\\Program.cs",
-              "RelativeToolTip": "D03.P!rates\\Program.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAUwGYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T17:36:55.726Z",
+              "WhenOpened": "2024-08-02T13:56:31.506Z",
               "EditorCaption": ""
             }
           ]

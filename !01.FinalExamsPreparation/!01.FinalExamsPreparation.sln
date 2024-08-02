@@ -33,13 +33,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D02.EmojiDetector", "D02.Em
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D03.P!rates", "D03.P!rates\D03.P!rates.csproj", "{C7E00FE0-DC73-4463-82DB-447DEE682700}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E00.Santa's Gifts", "Santa's Gifts\E00.Santa's Gifts.csproj", "{93AD4CDA-48B3-4920-8C3C-5459F8EA7396}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E00.Santa's Gifts", "Santa's Gifts\E00.Santa's Gifts.csproj", "{93AD4CDA-48B3-4920-8C3C-5459F8EA7396}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F00.Santa's Secret Helper", "F00.Santa's Secret Helper\F00.Santa's Secret Helper.csproj", "{2A9D21B0-AE19-4854-A454-E2DE4E74E4A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "F00.Santa's Secret Helper", "F00.Santa's Secret Helper\F00.Santa's Secret Helper.csproj", "{2A9D21B0-AE19-4854-A454-E2DE4E74E4A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G00.Santa'sNewList", "G00.Santa'sNewList\G00.Santa'sNewList.csproj", "{0EDC3EA8-BC8B-44B0-ADD2-3C5E2D6D0F25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "G00.Santa'sNewList", "G00.Santa'sNewList\G00.Santa'sNewList.csproj", "{0EDC3EA8-BC8B-44B0-ADD2-3C5E2D6D0F25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H00.SoftUniKaraoke", "H00.SoftUniKaraoke\H00.SoftUniKaraoke.csproj", "{181192DF-30BF-411A-BE28-54EDF6624D38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "H00.SoftUniKaraoke", "H00.SoftUniKaraoke\H00.SoftUniKaraoke.csproj", "{181192DF-30BF-411A-BE28-54EDF6624D38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "J00.RecipeOrganizer", "J00.RecipeOrganizer\J00.RecipeOrganizer.csproj", "{DECC546C-3CCB-409A-B93F-1D64529C62CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K00.LibraryCatalog", "K00.LibraryCatalog\K00.LibraryCatalog.csproj", "{83938536-9336-41C6-A175-5496B5DBEB17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L00.ToDoList", "L00.ToDoList\L00.ToDoList.csproj", "{4484F3CA-E558-491D-B242-7F78F31A75D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M00.EmailValidator", "M00.EmailValidator\M00.EmailValidator.csproj", "{0671A335-98BC-40D0-8C3E-287BECCC5F2D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +131,22 @@ Global
 		{181192DF-30BF-411A-BE28-54EDF6624D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{181192DF-30BF-411A-BE28-54EDF6624D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{181192DF-30BF-411A-BE28-54EDF6624D38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DECC546C-3CCB-409A-B93F-1D64529C62CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DECC546C-3CCB-409A-B93F-1D64529C62CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DECC546C-3CCB-409A-B93F-1D64529C62CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DECC546C-3CCB-409A-B93F-1D64529C62CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83938536-9336-41C6-A175-5496B5DBEB17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83938536-9336-41C6-A175-5496B5DBEB17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83938536-9336-41C6-A175-5496B5DBEB17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83938536-9336-41C6-A175-5496B5DBEB17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4484F3CA-E558-491D-B242-7F78F31A75D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4484F3CA-E558-491D-B242-7F78F31A75D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4484F3CA-E558-491D-B242-7F78F31A75D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4484F3CA-E558-491D-B242-7F78F31A75D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0671A335-98BC-40D0-8C3E-287BECCC5F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0671A335-98BC-40D0-8C3E-287BECCC5F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0671A335-98BC-40D0-8C3E-287BECCC5F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0671A335-98BC-40D0-8C3E-287BECCC5F2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
